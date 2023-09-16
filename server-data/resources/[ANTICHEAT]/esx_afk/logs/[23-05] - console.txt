@@ -1,0 +1,24 @@
+04:05:34 [^4Auth^0] [^5INFO^0] Conectado ao ChocoHax... Bem-vindo ^3jjesus_25^0
+04:05:34 [^4Auth^0] [^5INFO^0] Você está atualmente conectado a ^3Lynx Collective (Google LLC #2)^0
+04:05:34 [^4Auth^0] [^5INFO^0] O IP do seu servidor atual: ^351.91.215.9^0
+04:05:34 [^4Auth^0] [^5INFO^0] Últimas notícias - ^3ChocoHax 1.8.3 has been released, check out the forum for more info!^0
+04:05:34 [^4Auth^0] [^5INFO^0] Há uma nova atualização para ChocoHax => ^31.8.3r2^0
+10:58:29 [^4Ban System^0] [^2SUCCESS^0] [+] ^3524420^0
+10:58:29 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^267^0] (^2adymonteiro^0) foi detectado por ^2explosionProtection^0 para ^3Explosions [Blacklist]^0
+10:58:29 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+12:40:00 [^4Auth^0] [^5INFO^0] Conectado ao ChocoHax... Bem-vindo ^3jjesus_25^0
+12:40:00 [^4Auth^0] [^5INFO^0] Você está atualmente conectado a ^3Lynx Collective (Google LLC #2)^0
+12:40:00 [^4Auth^0] [^5INFO^0] O IP do seu servidor atual: ^351.91.215.9^0
+12:40:00 [^4Auth^0] [^5INFO^0] Últimas notícias - ^3ChocoHax 1.8.3 has been released, check out the forum for more info!^0
+12:40:00 [^4Auth^0] [^5INFO^0] Há uma nova atualização para ChocoHax => ^31.8.3r2^0
+13:14:44 [^4Ban System^0] [^2SUCCESS^0] BanID: ^3821341^0 deletado
+13:14:44 [^4Commands^0] [^2SUCCESS^0] O jogador ^3821341^0 foi banido por ^3-OlivS -Taz^0
+13:14:53 [^4Ban System^0] [^2SUCCESS^0] BanID: ^3524420^0 deletado
+13:14:53 [^4Commands^0] [^2SUCCESS^0] O jogador ^3524420^0 foi banido por ^3-OlivS -Taz^0
+13:14:58 [^4Ban System^0] [^2SUCCESS^0] BanID: ^3113347^0 deletado
+13:14:58 [^4Commands^0] [^2SUCCESS^0] O jogador ^3113347^0 foi banido por ^3-OlivS -Taz^0
+19:01:34 [^4Auth^0] [^5INFO^0] Conectado ao ChocoHax... Bem-vindo ^3jjesus_25^0
+19:01:34 [^4Auth^0] [^5INFO^0] Você está atualmente conectado a ^3Lynx Collective (Google LLC #2)^0
+19:01:34 [^4Auth^0] [^5INFO^0] O IP do seu servidor atual: ^351.91.215.9^0
+19:01:34 [^4Auth^0] [^5INFO^0] Últimas notícias - ^3ChocoHax 1.8.3 has been released, check out the forum for more info!^0
+19:01:34 [^4Auth^0] [^5INFO^0] Há uma nova atualização para ChocoHax => ^31.8.3r2^0

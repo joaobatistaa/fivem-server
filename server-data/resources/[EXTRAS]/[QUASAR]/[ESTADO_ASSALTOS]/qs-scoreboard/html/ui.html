@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./reset.css">
+    <title>Quasar Scoreboard</title>
+</head>
+    <body>
+        <div class="container">
+            <div class="scoreboard-block">
+                <div class="scoreboard-header">
+                    <img src="your_logo.png" alt="sb-logo" class="sb-logo">
+                </div>
+
+                <div class="scoreboard-info">
+                    <div class="scoreboard-info-header">
+                        <div id="info-tab-label"><p>Assaltos</p></div>
+                        <div id="status-tab-label"><p>Estado</p></div>
+                    </div>
+                    <div class="scoreboard-info-beam" data-type="lojas" style="background: rgb(45, 45, 45);">
+                        <div class="info-beam-title"><p>Assalto a Lojas</p></div>
+                        <div class="info-beam-status"></div>
+                    </div>
+                    <div class="scoreboard-info-beam" data-type="bancos" style="background: rgb(45, 45, 45);">
+                        <div class="info-beam-title"><p>Assalto a Bancos</p></div>
+                        <div class="info-beam-status"></div>
+                    </div>
+					<div class="scoreboard-info-beam" data-type="art" style="background: rgb(45, 45, 45);">
+                        <div class="info-beam-title"><p>Assalto à Casa da Arte</p></div>
+                        <div class="info-beam-status"></div>
+                    </div>
+					<div class="scoreboard-info-beam" data-type="comboio" style="background: rgb(45, 45, 45);">
+                        <div class="info-beam-title"><p>Assalto ao Comboio</p></div>
+                        <div class="info-beam-status"></div>
+                    </div>
+					<div class="scoreboard-info-beam" data-type="rapto" style="background: rgb(45, 45, 45);">
+                        <div class="info-beam-title"><p>Missão Rapto</p></div>
+                        <div class="info-beam-status"></div>
+                    </div>
+					<div class="scoreboard-info-beam" data-type="joalharia" style="background: rgb(45, 45, 45);">
+                        <div class="info-beam-title"><p>Assalto à Joalharia</p></div>
+                        <div class="info-beam-status"></div>
+                    </div>
+					<div class="scoreboard-info-beam" data-type="casino" style="background: rgb(45, 45, 45);">
+                        <div class="info-beam-title"><p>Assalto ao Casino</p></div>
+                        <div class="info-beam-status"></div>
+                    </div>
+					<div class="scoreboard-info-beam" data-type="humane" style="background: rgb(45, 45, 45);">
+                        <div class="info-beam-title"><p>Assalto ao Laboratório Humane</p></div>
+                        <div class="info-beam-status"></div>
+                    </div>
+					<div class="scoreboard-info-beam" data-type="bancoprincipal" style="background: rgb(45, 45, 45);">
+                        <div class="info-beam-title"><p>Assalto ao Banco Principal</p></div>
+                        <div class="info-beam-status"></div>
+                    </div>
+                    <!-- <div class="scoreboard-info-beam" data-type="example" style="background: rgb(45, 45, 45);">
+                        <div class="info-beam-title"><p>ROBBERY NAME</p></div>
+                        <div class="info-beam-status"></div>
+                    </div>
+                   <div class="scoreboard-info-beam" data-type="example" style="background: rgb(45, 45, 45);">
+                        <div class="info-beam-title"><p>ROBBERY NAME</p></div>
+                        <div class="info-beam-status"></div>
+                    </div> -->
+
+                     <div class="scoreboard-info-beam2" style="background: rgb(45, 45, 45);">
+                        <div class="info-beam-title"><p>Jogadores Online</p></div>
+                        <div class="info-beam-status" id="total-players"></div>
+                    </div>
+                    
+                    <div class="scoreboard-info-beam2" style="background: rgb(45, 45, 45);">
+                        <div class="info-beam-title" id="police"><p>👮</p></div>
+                        <div class="info-beam-status1" id="total-police"></div>
+                        <div class="info-beam-title" id="ambulance"><p>🚑</p></div>
+                        <div class="info-beam-status1" id="total-ambulance"></div>
+                        <div class="info-beam-title" id="mechanic"><p>🛠</p></div>
+                        <div class="info-beam-status1" id="total-mechanic"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="./app.js"></script>
+    </body>
+</html>

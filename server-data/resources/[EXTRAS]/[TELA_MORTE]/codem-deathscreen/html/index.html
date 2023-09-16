@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/responsive.css" />
+    <link rel="stylesheet" href="./lib/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+
+   
+  </head>
+  <body>
+    <div id="app" v-if="show">
+      
+      <div class="col-12 fade animate__animated animate__fadeIn" style="  border:1px solid transparent; height: 100vh; background-image: url('./images/mDeathscreen.png'); background-size: 100% 100%;">
+          <div class="notify-container">
+          
+          </div>
+          <div class="d-flex justify-content-center align-items-center mt-3" style="height: 25vh;">
+            <img src="./images/kurukafa.png" alt="">
+          </div>
+          <div class="col-sm-12  d-flex justify-content-between align-items-center" style="height: 7.5vh;">
+            <h2 class="text-1" style="font-size:4vh; letter-spacing: 1vh;">{{locales['DYING']}}</h2>
+            <h2 class="text-1" style="font-size:4vh; letter-spacing: 1vh;">{{locales['YOUAREDYING']}}</h2>
+            <h2 class="text-white" style="font-size:4vh; letter-spacing: 1vh;">{{locales['YOUAREDYING']}}</h2>
+            <h2 class="text-1" style="font-size:4vh; letter-spacing: 1vh;">{{locales['YOUAREDYING']}}</h2>
+            <h2 class="text-1" style="font-size:4vh; letter-spacing: 0.5vh;">{{locales['YOUARE']}}</h2>
+          </div>
+          <div class="mt-5 d-flex justify-content-center align-items-center" style="height: 31vh;">
+            <div class="col-6 h-100 d-flex justify-content-center align-items-center">
+              <div class="col-12  d-flex justify-content-center align-items-center" style="height:11vh; background-image: url('./images/ritim.png'); background-size: 100% 100%;">
+                <div id="progbar" class="d-flex justify-content-center align-items-center flex-wrap align-content-lg-center" style="height: 20vh; width: 19.5vh; border-radius: 7rem;">
+                  <h2 class="position-absolute playerTimer col-12  text-center  rotate" v-if="killTimerMinute">{{killTimerMinute}}</h2>
+                  <h2 class="position-absolute playerTimer col-12  text-center  rotate2" v-else>00:00</h2>
+                  <h2 class="position-absolute col-12 text-center text-white    rotate2" style="font-family:gilroy; font-size:2vh; letter-spacing:0.2vh">{{locales['TIMELEFT']}}</h2> 
+                </div>
+
+              </div>
+            </div>
+          </div>
+          <div class=" d-flex justify-content-center align-items-center" style="height: 31.5vh;">
+            <div class="col-4  h-100 d-flex justify-content-center align-items-end">
+                <div class="col-6  me-5 d-flex justify-content-center align-items-start align-content-md-center flex-wrap" style="height: 20vh;background-image: url('./images/white.png'); background-size: 100% 100%;">
+                    <h2 class="mt-1 col-2 d-flex justify-content-center align-items-center" style="background-color: white;border-radius: 0.5rem; height: 5vh; color: black;">{{keyBind.waitdoctor.label}}</h2>
+                    <h2 class="col-12 text-center text-white" style="font-family: gilroy; font-size:2.2vh; letter-spacing: 0.2vh;">{{locales['WAITFORDOCTOR']}}</h2>
+                </div>
+            </div>
+            <div class="col-4  h-100 d-flex justify-content-center align-items-center">
+              <div class="col-8  h-50 d-flex justify-content-center align-items-start flex-wrap" style="background-image: url('./images/red.png');  background-size: 100% 100%;">
+                <h2 class="mt-3" style="color: #C90202; font-family:gilroy; font-size:2vh; letter-spacing: 0.2vh;">{{locales['REASON']}}</h2>
+                <h2 class="col-10  mb-5" style="color: rgba(255, 255, 255, 0.56); font-family:gilroy; font-size:2vh" v-if="!killerWeapon">{{locales['NOTWEAPON']}}</h2>
+                <h2 class="col-10  mb-5" style="color: rgba(255, 255, 255, 0.56); font-family:gilroy; font-size:2vh" v-else>{{locales['YOUAREWONDED']}} ' ' {{killerWeapon}}</h2>
+              </div>
+            </div>
+            <div class="col-4  h-100 d-flex justify-content-center align-items-end">
+              <div class="col-6  ms-5 d-flex justify-content-center align-items-start align-content-md-center flex-wrap" style="height: 20vh;background-image: url('./images/black.png'); background-size: 100% 100%;">
+                  <h2 class="mt-1 col-2 d-flex justify-content-center align-items-center" style="background-color: black;border-radius: 0.5rem; height: 5vh; color: white;">{{keyBind.giveup.label}}</h2>
+                  <h2 class="col-12 text-center text-white" style="font-family: gilroy; font-size:2.2vh; letter-spacing: 0.2vh;">{{locales['GIVEUP']}}</h2>
+              </div>
+          </div>
+          </div>
+      </div>
+    </div>
+
+
+  </body>
+
+  <script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+  <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
+  <script src="lib/progressbar.js"></script>
+  <script src="lib/bootstrap.bundle.min.js"></script>
+  <script src="app/script.js"></script>
+ 
+</html>

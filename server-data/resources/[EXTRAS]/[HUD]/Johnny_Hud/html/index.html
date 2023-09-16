@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DYNAMIC</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+	        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.1.1/css/all.css">
+        <script src="https://use.fortawesome.com/1ce05b4b.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> <!-- JQuery -->
+    <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+</head>
+<body>
+
+    <div class="cinematic-top"></div>
+    <div class="cinematic-bottom"></div>
+
+    <div class="editing-mode" data-state="deactive">
+        <i class="fa-solid fa-pen-ruler"></i>
+        <span>Podes arrastar os ícones ao clicar com o rato neles, podes sair ao pressionar ESC.</span>
+    </div>
+	
+	<!--
+    <div class="date">
+        <div class="clock">
+            <i class="fa-sharp fa-solid fa-clock"></i>
+            <span id="clock">00:00</span>
+        </div>
+        <div class="day-month-year">
+            <i class="fa-solid fa-calendar-days"></i>
+            <span id="date">29.10.2022</span>
+        </div>
+    </div>
+	-->
+    <div class="information">
+        <!--
+		<div class="server">
+            <div class="id">
+                <span id="id-text">id</span>
+                <span id="player-id">0</span>
+            </div>
+            <div class="player-count">
+                <i class="fa-solid fa-user"></i>
+                <span id="now-count">0</span>
+                <span id="server-count">/ 0</span>
+            </div>
+        </div>
+		
+        <div class="job">
+            <span id="player-job"></span><i class="fa-regular fa-briefcase"></i>
+        </div>
+        <div class="cash">
+            <span id="player-cash">$ 0</span><i class="fa-regular fa-wallet"></i>
+        </div>
+        <div class="bank">
+            <span id="player-bank">$ 0</span><i id="player-bank-icon" class="fa-regular fa-building-columns"></i>
+        </div>
+		-->
+        <div class="weapon">
+            <img class="weapon-img" src="/img/weapons/584646201.png">
+            <div class="weapon-ammos">
+                <span id="weapon-ammo">0</span>
+                <span id="weapon-clip">/ 0</span>
+                <img id="bullet" src="/html/img/bullet.png">
+            </div>
+        </div>
+    </div>
+
+    <div class="keybind-list">
+        <!-- <div class="keybind">
+            <div class="keybind-text">
+                <span>Telefon</span>
+            </div>
+            <div class="keybind-bind">
+                <span>F1</span>
+            </div>
+        </div>
+        <div class="keybind">
+            <div class="keybind-text">
+                <span>Inventory</span>
+            </div>
+            <div class="keybind-bind">
+                <span>F2</span>
+            </div>
+        </div>
+        <div class="keybind">
+            <div class="keybind-text">
+                <span>Hud Menu</span>
+            </div>
+            <div class="keybind-bind">
+                <span>F6</span>
+            </div>
+        </div> -->
+    </div>
+
+    <div class="notification-list">
+
+        <!-- <div class="notification info">
+            <div class="notification-title info">
+                <i class="fa-regular fa-circle-exclamation"></i>
+                <span>information</span>
+            </div>
+            <div class="notification-text info">
+                <span>Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry</span>
+            </div>
+        </div>
+
+        <div class="notification warning">
+            <div class="notification-title warning">
+                <i class="fa-regular fa-triangle-exclamation"></i>
+                <span>warning</span>
+            </div>
+            <div class="notification-text warning">
+                <span>Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry</span>
+            </div>
+        </div>
+
+        <div class="notification error">
+            <div class="notification-title error">
+                <i class="fa-regular fa-hexagon-exclamation"></i>
+                <span>error</span>
+            </div>
+            <div class="notification-text error">
+                <span>Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry</span>
+            </div>
+        </div> -->
+        
+
+    </div>
+
+    <div class="street-mic">
+        <div class="strees">
+            <img class="street-icon" src="/html/img/loc.png">
+            <div class="street-name">
+                <div class="street-first">
+                    <span id="street-first">downtown st.</span>
+                </div>
+                <div class="street-last">
+                    <span id="street-last">maleway ocean</span>
+                </div>
+            </div>
+        </div>
+        <div class="mic">
+            <div class="mic-state">
+                <i style="display: none;" id="player-radio" class="fa-regular fa-walkie-talkie"></i>
+                <i id="player-mic-muted" class="fa-regular fa-microphone-slash"></i>
+                <i style="display: none;" id="player-mic-activeted" class="fa-regular fa-microphone"></i>
+            </div>
+            <div class="mic-progbar"></div>
+        </div>
+    </div>
+
+    <div class="container" data-hud="heal">
+        <div class="container-prog" data-hud="heal">
+            <span id="heal-text">60</span>
+        </div>
+        <div class="container-icon" data-hud="heal">
+            <i class="fa-regular fa-heart-pulse"></i>
+        </div>
+    </div>
+
+    <div class="container" data-hud="armour">
+        <div class="container-prog" data-hud="armour">
+            <span id="armour-text">60</span>
+        </div>
+        <div class="container-icon" data-hud="armour">
+            <i class="fa-regular fa-shield"></i>
+        </div>
+    </div>
+
+    <div class="container" data-hud="hunger">
+        <div class="container-prog" data-hud="hunger">
+            <span id="hunger-text">80</span>
+        </div>
+        <div class="container-icon" data-hud="hunger">
+            <i class="fa-regular fa-meat"></i>
+        </div>
+    </div>
+    
+    <div class="container" data-hud="thirst">
+        <div class="container-prog" data-hud="thirst">
+            <span id="thirst-text">80</span>
+        </div>
+        <div class="container-icon" data-hud="thirst">
+            <i class="fa-regular fa-droplet"></i>
+        </div>
+    </div>
+
+    <div class="container" data-hud="stamina">
+        <div class="container-prog" data-hud="stamina">
+            <span id="stamina-text">80</span>
+        </div>
+        <div class="container-icon" data-hud="stamina">
+            <i style="display: none;" id="oxygen-icon" class="fa-regular fa-lungs"></i>
+            <i id="stamina-icon" class="fa-regular fa-person-running"></i>
+        </div>
+    </div>
+    
+    <div class="car-hud">
+        <svg viewBox="0 0 230 230"> <!-- viewBox="0 0 270 270" -->
+            <path class="speed-background" d="M57.625,206.164 C57.625,206.164 10.704,175.358 10.704,115.531 C10.704,55.703 56.837,10.312 120.187,10.312 C183.538,10.312 208.817,58.233 208.817,58.233"></path>
+            <path class="speed-prog" d="M57.625,206.164 C57.625,206.164 10.704,175.358 10.704,115.531 C10.704,55.703 56.837,10.312 120.187,10.312 C183.538,10.312 208.817,58.233 208.817,58.233"></path>
+        </svg>
+        
+        <div class="fuel">
+            <svg viewBox="0 0 230 230">
+              <path class="fuel-background" d="M6.16935 118.013C16.5177 100.089 21.9656 79.7575 21.9656 59.0609C21.9656 38.3643 16.5177 18.0323 6.16936 0.108491L0.553387 3.35087C10.3325 20.2889 15.4808 39.5026 15.4808 59.0609C15.4808 78.6192 10.3325 97.8329 0.553377 114.771L6.16935 118.013Z "></path>
+              <path class="fuel-prog" d="M6.16935 118.013C16.5177 100.089 21.9656 79.7575 21.9656 59.0609C21.9656 38.3643 16.5177 18.0323 6.16936 0.108491L0.553387 3.35087C10.3325 20.2889 15.4808 39.5026 15.4808 59.0609C15.4808 78.6192 10.3325 97.8329 0.553377 114.771L6.16935 118.013Z "></path>
+            </svg>
+            <i id="fuel" data-fuel="low" class="fa-solid fa-gas-pump"></i>
+        </div>
+
+        <div class="speed-write">
+            <div class="gears">
+                <span id="last-gear">2</span>
+                <span id="now-gear">3</span>
+                <span id="next-gear">4</span>
+            </div>
+            <div class="speed">
+                <span class="meter" id="speed" data-number="1" data-active="true">0</span>
+            </div>
+            <span id="kmh">km/h</span>
+        </div>
+
+        <div class="icon-row top">
+            <img class="row-image" data-state="false" id="belt" src="/img/speedm-images/belt.png">
+            <img class="row-image" id="door" src="/img/speedm-images/door.png">
+            <img class="row-image" id="lights" src="/img/speedm-images/lights.png">
+        </div>
+
+        <div class="icon-row bottom">
+            <img class="row-image" style="width: 2.25vh;" id="engine" src="/img/speedm-images/engine.png">
+            <img class="row-image" id="brake" src="/img/speedm-images/brake.png">
+            <img class="row-image" id="spped-limiter" src="/img/speedm-images/meter.png">
+            <img class="row-image" style="width: 1.5vh;" id="wrench" src="/img/speedm-images/wrench.png">
+        </div>
+
+    </div>
+
+    <div class="settings-menu" >
+        <img class="vector" src="./img/vectors.png">
+        <div class="menu">
+            <div class="menu-header">
+                <div class="header-titles">
+                    <div class="header-images">
+                        <img id="header-image-main" src="./img/settings.png">
+                        <img id="header-image-sub"  src="./img/settings.png">
+                    </div>
+                    <div class="header-title">
+                        <span id="header-title">HUD</span>
+                        <span id="header-subtitle">WorldTuga</span>
+                    </div>
+                </div>
+                <div class="close-button">
+                    <i class="fa-solid fa-xmark"></i>
+                </div>
+            </div>
+            <div class="menu-list">
+
+                <div class="menu-item">
+                    <div class="item-image">
+                        <img class="item-images" src="./img/type.png">
+                    </div>
+                    <div class="item-name">
+                        <span>Estilo Hud</span>
+                    </div>
+                    <div class="item-desc">
+                        <span>Podes escolher a borda do mapa "Redondo" ou "Quadrado".</span>
+                    </div>
+                    <div class="item-selection">
+                        <div class="item-type">
+                            <span id="hudtype-texts" data-name="round" data-position="left" data-state="false">Redondo</span>
+                            <span data-position="slash">/</span>
+                            <span id="hudtype-texts" data-name="square" data-position="right" data-state="false">Quadrado</span>
+                        </div>
+
+                        <div class="item-selection-button" data-state="false" data-type="CHT" data-hud-type="round">
+                            <i style="display: none;" class="fa-solid fa-check"></i>
+                        </div>
+                        <div class="item-selection-button" data-state="false"  data-type="CHT" data-hud-type="square">
+                            <i style="display: none;" class="fa-solid fa-check"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="menu-item">
+                    <div class="item-image">
+                        <img class="item-images" src="./img/color2.png">
+                    </div>
+                    <div class="item-name">
+                        <span>Cores Hud</span>
+                    </div>
+                    <div class="item-desc">
+                        <span>Podes personalizar a cor do hud.</span>
+                    </div>
+                    <div class="item-selection">
+                        <div class="item-colors">
+                            <div class="color" data-name="heal">
+                                <input type="color" id="heal">
+                                <i class="fa-regular fa-heart-pulse"></i>
+                            </div>
+                            <div class="color" data-name="armour">
+                                <input type="color" id="armour">
+                                <i class="fa-regular fa-shield"></i>
+                            </div>
+                            <div class="color" data-name="hunger">
+                                <input type="color" id="hunger">
+                                <i class="fa-regular fa-meat"></i>
+                            </div>
+                            <div class="color" data-name="thirst">
+                                <input type="color" id="thirst">
+                                <i class="fa-regular fa-droplet"></i>
+                            </div>
+                            <div class="color" data-name="stamina">
+                                <input type="color" id="stamina">
+                                <i class="fa-regular fa-person-running"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="menu-item map">
+                    <div class="item-image">
+                        <img class="item-images" src="./img/map-type.png">
+                    </div>
+                    <div class="item-name">
+                        <span>Estilo do Mapa</span>
+                    </div>
+                    <div class="item-desc map">
+                        <span>Podes escolher o estilo do mapa de acordo com a tua preferência.</span>
+                    </div>
+                    <div class="map-select">
+
+                        <div class="map-type" data-type="round" data-state="active">
+                            <span id="mapName">Quadrado</span>
+                            <span id="mapDesc">Mapa Quadrado</span>
+                            <div class="map-select-button" data-mapName="round">
+                                <i style="display: none;" class="fa-solid fa-check"></i>
+                                <span>Selecionar</span>
+                            </div>
+                        </div>
+
+                        <div class="map-type" data-type="circle" data-state="deactive">
+                            <span id="mapName">Redondo</span>
+                            <span id="mapDesc">Mapa Redondo</span>
+                            <div class="map-select-button circle" data-mapName="circle">
+                                <i style="display: none;" class="fa-solid fa-check"></i>
+                                <span>Selecionar</span>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="menu-item">
+                    <div class="item-image">
+                        <img class="item-images" src="./img/speed-type.png">
+                    </div>
+                    <div class="item-name">
+                        <span>Estilo de Exibição</span>
+                    </div>
+                    <div class="item-desc">
+                        <span>Podes definir a unidade métrica de acordo com o que preferires.</span>
+                    </div>
+                    <div class="item-selection">
+                        <div class="item-type-modal">
+                            <span id="speed-type-texts" data-position="left" data-type="kmh" data-state="false">Kmh</span>
+                            <span data-position="slash">/</span>
+                            <span id="speed-type-texts" data-position="right" data-type="mph" data-state="false">Mph</span>
+                        </div>
+
+                        <label class="switch">
+                            <input type="checkbox" id="speed-type" class="speed-selection">
+                            <span class="slider round"></span>
+                        </label>
+
+                    </div>
+                </div>
+				<!--
+                <div class="menu-item">
+                    <div class="item-image">
+                        <img class="item-images" src="./img/clock.png">
+                    </div>
+                    <div class="item-name">
+                        <span>Hora e Data</span>
+                    </div>
+                    <div class="item-desc">
+                        <span>Exibir hora e data.</span>
+                    </div>
+                    <div class="item-selection">
+
+                        <div class="item-type-modal">
+                            <span id="clock-texts" data-type="hide" data-position="left" data-state="true">Esconder</span>
+                            <span data-position="slash">/</span>
+                            <span id="clock-texts" data-type="show" data-position="right" data-state="false">Mostrar</span>
+                        </div>
+
+                        <label class="switch">
+                            <input type="checkbox" id="clock" class="clock-selection">
+                            <span class="slider round"></span>
+                        </label>
+
+                    </div>
+                </div>
+
+                <div class="menu-item cinematic">
+                    <div class="item-image">
+                        <img class="item-images" src="./img/cinematic.png">
+                    </div>
+                    <div class="item-name">
+                        <span id="cinematicText">Modo Cinema</span>
+                    </div>
+                    <div class="item-desc">
+                        <span>Isso torna a borda invisível e cria uma bela vista.</span>
+                    </div>
+                    <div class="item-selection">
+
+                        <div class="item-type-modal">
+                            <span id="cinematic-texts" data-type="hide" data-position="left" data-state="true">Esconder</span>
+                            <span data-position="slash">/</span>
+                            <span id="cinematic-texts" data-type="show" data-position="right" data-state="false">Mostrar</span>
+                        </div>
+
+                        <label class="switch">
+                            <input type="checkbox" id="cinematic" class="cinematic-selection">
+                            <span class="slider round"></span>
+                        </label>
+
+                    </div>
+                </div>
+				<!--
+                <div class="menu-item jobitem">
+                    <div class="item-image">
+                        <img class="item-images" src="./img/bag.png">
+                    </div>
+                    <div class="item-name">
+                        <span id="jobText">Mostrar Profissão</span>
+                    </div>
+                    <div class="item-desc">
+                        <span>Mostra o teu emprego atual.</span>
+                    </div>
+                    <div class="item-selection">
+
+                        <div class="item-type-modal">
+                            <span id="job-texts" data-type="hide" data-position="left" data-state="true">Esconder</span>
+                            <span data-position="slash">/</span>
+                            <span id="job-texts" data-type="show" data-position="right" data-state="false">Mostrar</span>
+                        </div>
+
+                        <label class="switch">
+                            <input type="checkbox" id="jobitem" class="jobitem-selection">
+                            <span class="slider round"></span>
+                        </label>
+
+                    </div>
+                </div>
+
+                <div class="menu-item money">
+                    <div class="item-image">
+                        <img class="item-images" src="./img/money.png">
+                    </div>
+                    <div class="item-name">
+                        <span id="moneyText">Dinheiro e banco</span>
+                    </div>
+                    <div class="item-desc">
+                        <span>Mostrar dinheiro no bolso e dinheiro na tua conta bancária.</span>
+                    </div>
+                    <div class="item-selection">
+                        <div class="item-type-modal">
+                            <span id="cashandbank-texts" data-type="hide" data-position="left" data-state="false">Esconder</span>
+                            <span data-position="slash">/</span>
+                            <span id="cashandbank-texts" data-type="show" data-position="right" data-state="false">Mostrar</span>
+                        </div>
+
+                        <label class="switch">
+                            <input type="checkbox" id="cashandbank" class="cashandbank-selection">
+                            <span class="slider round"></span>
+                        </label>
+
+                    </div>
+                </div>
+				-->
+                <div class="menu-item keybind">
+                    <div class="item-image">
+                        <img class="item-images" src="./img/keybinds.png">
+                    </div>
+                    <div class="item-name">
+                        <span id="keybindText">Teclas de Atalho</span>
+                    </div>
+                    <div class="item-desc">
+                        <span>Ver teclas de atalho.</span>
+                    </div>
+                    <div class="item-selection">
+                        <div class="item-type-modal">
+                            <span id="keybind-texts" data-type="hide" data-position="left" data-state="false">Esconder</span>
+                            <span data-position="slash">/</span>
+                            <span id="keybind-texts" data-type="show" data-position="right" data-state="false">Mostrar</span>
+                        </div>
+
+                        <label class="switch">
+                            <input type="checkbox" id="keybind" class="keybind-selection">
+                            <span class="slider round"></span>
+                        </label>
+
+                    </div>
+                </div>
+                
+                <div class="menu-item editor">
+                    <div class="item-image">
+                        <img class="item-images" src="./img/editor.png">
+                    </div>
+                    <div class="item-name">
+                        <span id="editorText">Modo de edição</span>
+                    </div>
+                    <div class="item-desc">
+                        <span>Mover os ícones do hud para edição.</span>
+                    </div>
+                    <div class="item-selection">
+
+                        <div class="item-button editor">
+                            <span>Editar</span>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+            <div class="reset-default">
+                <span>Resetar</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="progressbar.js"></script>
+    <script src="progressbar.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

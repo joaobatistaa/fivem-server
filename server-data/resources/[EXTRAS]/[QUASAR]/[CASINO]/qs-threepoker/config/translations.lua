@@ -1,0 +1,75 @@
+Config.Language = 'en'
+
+Config.Languages = {
+    ['en'] = {
+        ["PLAY_POKER"] = "[E] - Poker",
+
+        ["CHAIR_OCCUPIED"] = "Este lugar está ocupado.",
+        ["NO_REACT"] = "Não respondeste à pergunta do dealer a tempo, a tua aposta foi retirado.",
+        ["NO_BET_INPUT"] = "Não definiste o valor da aposta.",
+        ["NOT_ENOUGH_CHIPS"] = "Não tens fichas suficientes.",
+        ["NOT_ENOUGH_CHIPS_NEXT"] = "Não tens fichas suficientes para apostar no Pair Plus, pois não tens fichas suficientes para jogar.",
+        ["NOT_ENOUGH_CHIPS_THIRD"] = "Não podes colocar tantas fichas porque não terias o suficiente para jogar na tua mão.",
+        ["NOT_ENOUGH_CHIPS_TOPLAY"] = "Não tens fichas suficientes para jogar!",
+        ["ALREADY_BETTED"] = "Já apostaste.",
+        ["YOU_LOSE"] = "Perdeste...",
+        ["DEALER_NOT_QUAL"] = "O Dealer não se classificou para o jogo, recebeste:",
+        ["CHIPS_AGAIN"] = "fichas de volta.",
+        ["PLAYER_WON"] = "Ganhaste a mão, recebeste:",
+        ["PAIR_WON"] = "Ganhaste o Pair Plus, recebeste:",
+
+        ["INFO_BET_INPUT"] = "APOSTA:",
+        ["INFO_PLAYER_CHIPS"] = "FICHAS:",
+        ["INFO_MIN_MAX"] = "MIN/MAX:",
+        ["INFO_TIME"] = "TEMPO:",
+        ["INFO_FOLD_CARDS"] = "Dobrar",
+        ["INFO_PLAY_CARDS"] = "Reproduzir",
+        ["INFO_LEAVE_GAME"] = "Sair do Jogo",
+        ["INFO_RAISE_BET"] = "Aumentar Aposta",
+        ["INFO_REDUCE_BET"] = "Diminuir Aposta",
+        ["INFO_CUSTOM_BET"] = "Aposta Personalizada",
+        ["INFO_PLACE_BET"] = "Realizar Aposta",
+        ["INFO_PLACE_PAIR_BET"] = "Realizar aposta Pair Plus",
+
+        ["CLEARING_TABLE"] = "Mesa limpa, o próximo jogo começara em...",
+        ["DEALER_SHOWING_HAND"] = "O Dealer mostra a sua mão...",
+        ["PLAYERS_SHOWING_HAND"] = "Mostrando a mão dos jogadores...",
+        ["DEALING_CARDS"] = "Dividindo as cartas pelos jogadores...",
+    },
+
+    ['es'] = {
+        ["PLAY_POKER"] = "[E] - Poker",
+
+        ["CHAIR_OCCUPIED"] = "Este asiento está ocupado.",
+        ["NO_REACT"] = "No respondió a la pregunta del crupier a tiempo, ha retirado la mano.",
+        ["NO_BET_INPUT"] = "No configuró un valor de apuesta",
+        ["NOT_ENOUGH_CHIPS"] = "No tienes suficientes fichas",
+        ["NOT_ENOUGH_CHIPS_NEXT"] = "No tienes suficientes fichas para apostar en el Pair Plus, porque no tendrías suficientes fichas para jugar.",
+        ["NOT_ENOUGH_CHIPS_THIRD"] = "No puedes poner esa cantidad de fichas porque no tendrías suficiente para jugar tu mano",
+        ["NOT_ENOUGH_CHIPS_TOPLAY"] = "¡No tienes suficientes fichas para jugar!",
+        ["ALREADY_BETTED"] = "Ya apostó.",
+        ["YOU_LOSE"] = "Pierdes...",
+        ["DEALER_NOT_QUAL"] = "El crupier no se clasificó para el juego, tu obtuviste:",
+        ["CHIPS_AGAIN"] = "chips de vuelta",
+        ["PLAYER_WON"] = "Gano tu mano y recibes:",
+        ["PAIR_WON"] = "Ganó la apuesta Pair Plus, recibe:",
+
+        ["INFO_BET_INPUT"] = "APUESTA:",
+        ["INFO_PLAYER_CHIPS"] = "FICHAS:",
+        ["INFO_MIN_MAX"] = "MIN/MAX:",
+        ["INFO_TIME"] = "TIEMPO:",
+        ["INFO_FOLD_CARDS"] = "Doblar",
+        ["INFO_PLAY_CARDS"] = "Reproducir",
+        ["INFO_LEAVE_GAME"] = "Salir del juego",
+        ["INFO_RAISE_BET"] = "Aumentar apuesta",
+        ["INFO_REDUCE_BET"] = "Reducir apuesta",
+        ["INFO_CUSTOM_BET"] = "Apuesta personalizada",
+        ["INFO_PLACE_BET"] = "Hacer apuesta",
+        ["INFO_PLACE_PAIR_BET"] = "Realizar apuesta par más",
+
+        ["CLEARING_TABLE"] = "Limpiando la mesa, el próximo juego comenzará pronto...",
+        ["DEALER_SHOWING_HAND"] = "El crupier muestra su mano...",
+        ["PLAYERS_SHOWING_HAND"] = "Revelando las manos del jugador...",
+        ["DEALING_CARDS"] = "Repartiendo cartas a los jugadores...",
+	}
+}

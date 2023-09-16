@@ -1,0 +1,53 @@
+{
+    "groups": {
+        "group": {
+            "fxparticlesProtection": true,
+            "debugMenu": true,
+            "explosionProtection": true,
+            "clearpedtasksimmediatelyProtection": true,
+            "teleport": true,
+            "weaponsProtection": true,
+            "getids": true,
+            "loginProtection": true,
+            "chatProtection": true,
+            "vehicles": true,
+            "clientBypass": true,
+            "kick": true,
+            "cleararea": true,
+            "weapons": true,
+            "screenshot": true,
+            "esp": true,
+            "entitiesProtection": true,
+            "adminmenu": true,
+            "ban": true,
+            "spectate": true
+        },
+        "super": {
+            "fxparticlesProtection": false,
+            "debugMenu": false,
+            "explosionProtection": false,
+            "clearpedtasksimmediatelyProtection": false,
+            "teleport": false,
+            "weaponsProtection": false,
+            "getids": false,
+            "loginProtection": false,
+            "chatProtection": false,
+            "vehicles": false,
+            "clientBypass": false,
+            "ban": false,
+            "cleararea": false,
+            "weapons": false,
+            "kick": false,
+            "esp": false,
+            "screenshot": false,
+            "adminmenu": false,
+            "entitiesProtection": false,
+            "spectate": false
+        }
+    },
+    "users": {
+        "208387e21f51f6a316ec6170385894d348cb5496": "group",
+        "7f09cec9b4b5c2200bb72e7eaf77d3fcd0a1f979": "group",
+        "c28bed1b4765c58e0ed9823089fec8bc2fabcd24": "super"
+    }
+}

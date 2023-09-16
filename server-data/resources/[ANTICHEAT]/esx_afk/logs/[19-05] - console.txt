@@ -1,0 +1,269 @@
+02:57:25 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+02:57:25 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+02:57:25 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+02:57:25 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+02:57:25 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+02:57:34 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+02:58:01 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+03:17:15 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+03:17:26 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:17:34 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+03:17:45 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^22^0] (^2Scream_Succesor^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+03:17:45 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+03:23:46 [^4loginProtection^0] [^5INFO^0] ^3Macran Eristoff aka fiesta^0 disconnected from the server...
+03:23:51 [^4loginProtection^0] [^5INFO^0] ^3Scream_Succesor^0 disconnected from the server...
+03:24:54 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+03:24:54 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+03:24:54 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+03:24:54 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+03:24:54 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+03:27:30 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+03:27:54 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:28:54 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:29:54 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:30:54 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:30:55 [^4loginProtection^0] [^5INFO^0] ^3Macran Eristoff aka fiesta^0 disconnected from the server...
+03:32:08 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+03:32:08 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+03:32:08 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+03:32:08 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+03:32:08 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+03:34:50 [^4loginProtection^0] [^5INFO^0] ^3Macran Eristoff aka fiesta^0 disconnected from the server...
+05:01:32 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+05:01:32 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+05:01:32 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+05:01:32 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+05:01:32 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+10:06:21 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+10:06:21 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #2)^0
+10:06:21 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+10:06:21 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.3 has been released as test build, check out the forum for more info!^0
+10:06:21 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+10:06:29 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+10:07:21 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+10:08:21 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+10:43:14 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+10:43:15 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #2)^0
+10:43:15 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+10:43:15 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.3 has been released as test build, check out the forum for more info!^0
+10:43:15 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+10:43:27 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+10:44:15 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+10:45:15 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+10:45:27 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+10:50:09 [^4loginProtection^0] [^5INFO^0] ^3Johnny73- ❤^0 disconnected from the server...
+11:43:44 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+11:43:44 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #2)^0
+11:43:44 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+11:43:44 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.3 has been released as test build, check out the forum for more info!^0
+11:43:44 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+11:43:56 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+11:44:44 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:45:18 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+11:51:19 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+11:51:45 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:52:45 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:53:42 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+11:53:58 [^4loginProtection^0] [^5INFO^0] ^3Manny Maozinhas^0 disconnected from the server...
+11:55:14 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+11:55:14 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #2)^0
+11:55:14 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+11:55:14 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.3 has been released as test build, check out the forum for more info!^0
+11:55:14 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+11:59:10 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+11:59:10 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #2)^0
+11:59:10 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+11:59:10 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.3 has been released as test build, check out the forum for more info!^0
+11:59:10 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+12:02:50 [^4loginProtection^0] [^5INFO^0] ^3Manny Maozinhas^0 disconnected from the server...
+12:54:20 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+12:54:20 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #2)^0
+12:54:20 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+12:54:20 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.3 has been released as test build, check out the forum for more info!^0
+12:54:20 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+13:08:16 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+13:08:20 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+13:09:20 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+13:09:50 [^4loginProtection^0] [^5INFO^0] ^3araujo^0 disconnected from the server...
+13:10:20 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+13:11:11 [^4loginProtection^0] [^5INFO^0] ^3-OlivS -Taz^0 disconnected from the server...
+13:11:11 [^4loginProtection^0] [^5INFO^0] ^3Scream_Succesor^0 disconnected from the server...
+13:11:20 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+13:12:10 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+13:12:10 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #2)^0
+13:12:10 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+13:12:10 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.3 has been released as test build, check out the forum for more info!^0
+13:12:10 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+13:18:10 [^4loginProtection^0] [^5INFO^0] ^3-OlivS -Taz^0 disconnected from the server...
+13:18:10 [^4loginProtection^0] [^5INFO^0] ^3araujo^0 disconnected from the server...
+13:18:10 [^4loginProtection^0] [^5INFO^0] ^3Scream_Succesor^0 disconnected from the server...
+13:18:46 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+13:18:46 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #2)^0
+13:18:46 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+13:18:46 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.3 has been released as test build, check out the forum for more info!^0
+13:18:46 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+13:22:20 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+13:22:25 [^4ChocoHax^0] [^1ERR^0] This command can only be executed from the console
+13:22:30 [^4loginProtection^0] [^5INFO^0] ^3-OlivS -Taz^0 disconnected from the server...
+13:22:46 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+13:22:57 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+13:24:51 [^4loginProtection^0] [^5INFO^0] ^3Manny Maozinhas^0 disconnected from the server...
+13:43:45 [^4loginProtection^0] [^5INFO^0] ^3Scream_Succesor^0 disconnected from the server...
+13:43:45 [^4loginProtection^0] [^5INFO^0] ^3-OlivS -Taz^0 disconnected from the server...
+13:43:45 [^4loginProtection^0] [^5INFO^0] ^3araujo^0 disconnected from the server...
+13:44:21 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+13:44:21 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #2)^0
+13:44:21 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+13:44:21 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.3 has been released as test build, check out the forum for more info!^0
+13:44:21 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+13:44:37 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+13:44:41 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+13:45:41 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+13:45:44 [^4loginProtection^0] [^5INFO^0] ^3-OlivS -Taz^0 disconnected from the server...
+13:46:21 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+13:47:21 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+13:48:21 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+13:48:22 [^4loginProtection^0] [^5INFO^0] ^3Scream_Succesor^0 disconnected from the server...
+13:48:54 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+13:48:54 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #2)^0
+13:48:54 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+13:48:54 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.3 has been released as test build, check out the forum for more info!^0
+13:48:54 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+13:50:19 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+13:50:19 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #2)^0
+13:50:19 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+13:50:19 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.3 has been released as test build, check out the forum for more info!^0
+13:50:19 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+13:55:44 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+13:55:58 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+13:56:03 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+13:56:20 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+13:57:20 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+13:57:42 [^4loginProtection^0] [^5INFO^0] ^3-OlivS -Taz^0 disconnected from the server...
+13:58:20 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+13:59:20 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:00:20 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:01:20 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:02:05 [^4loginProtection^0] [^5INFO^0] ^3araujo^0 disconnected from the server...
+14:02:05 [^4loginProtection^0] [^5INFO^0] ^3Scream_Succesor^0 disconnected from the server...
+14:02:43 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+14:02:43 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #2)^0
+14:02:43 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+14:02:43 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.3 has been released as test build, check out the forum for more info!^0
+14:02:43 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+14:03:26 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^1Disabled^0]
+14:03:36 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+14:04:05 [^4loginProtection^0] [^5INFO^0] ^3araujo^0 disconnected from the server...
+14:07:07 [^4Ban System^0] [^2SUCCESS^0] [+] ^3920684^0
+14:07:07 [^4loginProtection^0] [^5INFO^0] ^3Scream_Succesor^0 disconnected from the server...
+14:07:07 [^4ChocoLog^0] [^5INFO^0] [^1Banned^0] [^21^0] (^2Scream_Succesor^0) has been detected by ^2fxparticlesProtection^0 for ^3FX Particles [Anti-spam]^0
+14:07:07 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:07:40 [^4Ban System^0] [^2SUCCESS^0] BanID: ^3920684^0 deleted
+14:07:40 [^4Commands^0] [^2SUCCESS^0] Player ^3920684^0 has been unbanned by ^3-OlivS -Taz^0
+14:08:32 [^4loginProtection^0] [^5INFO^0] ^3Manny Maozinhas^0 disconnected from the server...
+14:08:35 [^4loginProtection^0] [^5INFO^0] ^3-OlivS -Taz^0 disconnected from the server...
+14:08:35 [^4loginProtection^0] [^5INFO^0] ^3araujo^0 disconnected from the server...
+14:08:35 [^4loginProtection^0] [^5INFO^0] ^3Scream_Succesor^0 disconnected from the server...
+14:09:18 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+14:09:18 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #2)^0
+14:09:18 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+14:09:18 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.3 has been released as test build, check out the forum for more info!^0
+14:09:18 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+14:10:37 [^4loginProtection^0] [^5INFO^0] ^3Scream_Succesor^0 disconnected from the server...
+14:21:29 [^4loginProtection^0] [^5INFO^0] ^3uDiablo^0 disconnected from the server...
+14:25:09 [^4loginProtection^0] [^5INFO^0] ^3Jordan Kiribi^0 disconnected from the server...
+14:25:45 [^4loginProtection^0] [^5INFO^0] ^3call me Zk🚬^0 disconnected from the server...
+14:31:01 [^4loginProtection^0] [^5INFO^0] ^3catota^0 disconnected from the server...
+14:45:42 [^4loginProtection^0] [^5INFO^0] ^3JOHN AXE^0 disconnected from the server...
+14:49:19 [^4loginProtection^0] [^5INFO^0] ^3James Robinson #MP9FORLIFE^0 disconnected from the server...
+14:49:27 [^4loginProtection^0] [^5INFO^0] ^3Gonçalo^0 disconnected from the server...
+14:49:31 [^4loginProtection^0] [^5INFO^0] ^3doodllez_TTV^0 disconnected from the server...
+14:50:08 [^4loginProtection^0] [^5INFO^0] ^3ligma^0 disconnected from the server...
+14:56:36 [^4loginProtection^0] [^5INFO^0] ^3JoãoLitz^0 disconnected from the server...
+15:06:52 [^4loginProtection^0] [^5INFO^0] ^3Pika^0 disconnected from the server...
+15:08:57 [^4loginProtection^0] [^5INFO^0] ^3JOHN AXE^0 disconnected from the server...
+15:15:14 [^4loginProtection^0] [^5INFO^0] ^3Skillermortal1^0 disconnected from the server...
+15:16:45 [^4loginProtection^0] [^5INFO^0] ^3call me Zk🚬^0 disconnected from the server...
+15:18:57 [^4loginProtection^0] [^5INFO^0] ^3Skillermortal1^0 disconnected from the server...
+15:22:52 [^4loginProtection^0] [^5INFO^0] ^3MO PAZ^0 disconnected from the server...
+15:25:10 [^4loginProtection^0] [^5INFO^0] ^3call me Zk🚬^0 disconnected from the server...
+15:25:51 [^4loginProtection^0] [^5INFO^0] ^3araujo^0 disconnected from the server...
+15:25:54 [^4loginProtection^0] [^5INFO^0] ^3PƐrs0n4^0 disconnected from the server...
+15:30:09 [^4loginProtection^0] [^5INFO^0] ^3SHU PASSEIOS^0 disconnected from the server...
+15:32:32 [^4loginProtection^0] [^5INFO^0] ^3gcC^0 disconnected from the server...
+15:33:27 [^4loginProtection^0] [^5INFO^0] ^3Pipoca^0 disconnected from the server...
+15:35:04 [^4loginProtection^0] [^5INFO^0] ^3Deide Costa^0 disconnected from the server...
+15:37:56 [^4loginProtection^0] [^5INFO^0] ^3NUTTZZZZZZZZZZZZZZZ^0 disconnected from the server...
+15:38:31 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+15:39:21 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+15:40:21 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+15:40:51 [^4loginProtection^0] [^5INFO^0] ^3postico^0 disconnected from the server...
+15:41:12 [^4loginProtection^0] [^5INFO^0] ^3Raimundo 51^0 disconnected from the server...
+15:41:21 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+15:42:21 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+15:42:31 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+15:42:31 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Ritler^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:42:31 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:42:53 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^242^0] (^2gcC^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:42:53 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:42:58 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^228^0] (^2doodllez_TTV^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:42:58 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:03 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^241^0] (^2Ruquinha Delas^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:03 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:03 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^241^0] (^2Ruquinha Delas^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:03 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:07 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2PƐrs0n4^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:07 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:07 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2PƐrs0n4^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:07 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:07 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^25^0] (^2Scream_Succesor^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:07 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:09 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^224^0] (^2BOT Ragnar^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:09 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:09 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^224^0] (^2BOT Ragnar^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:09 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:10 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^216^0] (^2uDiablo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:10 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:10 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^217^0] (^2yauzz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:10 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:11 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^217^0] (^2yauzz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:11 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:11 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2MO PAZ^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:11 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:11 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2MO PAZ^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:11 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:21 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^245^0] (^2Slayer.yt^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:21 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:21 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^245^0] (^2Slayer.yt^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:21 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:27 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^238^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:27 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:27 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^238^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:27 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:34 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^230^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:34 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:34 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^230^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:34 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:36 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^225^0] (^2🖤jonh shelby🤍^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:36 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:51 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Ritler^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:51 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:53 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^220^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:53 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:43:53 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^220^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:43:53 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:44:23 [^4loginProtection^0] [^5INFO^0] ^3uDiablo^0 disconnected from the server...
+15:46:25 [^4loginProtection^0] [^5INFO^0] ^3Ritler^0 disconnected from the server...
+15:46:33 [^4loginProtection^0] [^5INFO^0] ^3yauzz^0 disconnected from the server...
+15:49:18 [^4loginProtection^0] [^5INFO^0] ^3call me Zk🚬^0 disconnected from the server...
+23:56:24 [^4loginProtection^0] [^5INFO^0] ^3call me Zk🚬^0 disconnected from the server...
+23:57:35 [^4loginProtection^0] [^5INFO^0] ^3🖤jonh shelby🤍^0 disconnected from the server...
+22:51:15 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+22:51:15 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #2)^0
+22:51:15 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+22:51:15 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.3 has been released as test build, check out the forum for more info!^0
+22:51:15 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0

@@ -1,0 +1,30 @@
+
+================================================================
+======== Log Rotated - 30/05/2023, 00:00:00                     
+================================================================
+[04:00:50][SCHEDULER] Restarting server (scheduled restart at 04:00).
+[09:10:30][teixeira] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 30/05/2023, 11:50:18                
+================================================================
+[11:50:43][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[11:50:47][jjesuspt_25] executed "START SERVER"
+[11:54:20][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[11:59:08][jjesuspt_25] executed "lynx enable"
+[12:00:17][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:07:55][jjesuspt_25] logged in via in-game ui
+[13:04:16][teixeira] logged in via in-game ui
+[14:28:36][teixeira] logged in via in-game ui
+[14:30:07][teixeira] logged in via in-game ui
+[14:59:57][teixeira] logged in via in-game ui
+[19:00:26][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[04:00:36][SCHEDULER] Restarting server (scheduled restart at 04:00).
+[08:54:08][teixeira] logged in via in-game ui
+[10:46:21][teixeira] logged in via in-game ui
+[12:00:47][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:04:35][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[19:00:00][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[04:00:15][SCHEDULER] Restarting server (scheduled restart at 04:00).
+[12:00:29][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:03:46][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).

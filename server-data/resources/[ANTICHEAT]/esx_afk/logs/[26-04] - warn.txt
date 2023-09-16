@@ -1,0 +1,29 @@
+00:27:56 [Warning] [218] (Xapamassa.nUmuro) has been detected by eventsProtection for Logged Event
+00:30:09 [Warning] [242] (Abeelh@s) has been detected by eventsProtection for Logged Event
+00:30:34 [Warning] [218] (Xapamassa.nUmuro) has been detected by eventsProtection for Logged Event
+00:31:19 [Warning] [242] (Abeelh@s) has been detected by eventsProtection for Logged Event
+00:32:58 [Warning] [242] (Abeelh@s) has been detected by eventsProtection for Logged Event
+00:35:21 [Warning] [218] (Xapamassa.nUmuro) has been detected by eventsProtection for Logged Event
+00:36:19 [Warning] [242] (Abeelh@s) has been detected by eventsProtection for Logged Event
+00:37:15 [Warning] [218] (Xapamassa.nUmuro) has been detected by eventsProtection for Logged Event
+00:37:17 [Warning] [242] (Abeelh@s) has been detected by eventsProtection for Logged Event
+00:39:13 [Warning] [218] (Xapamassa.nUmuro) has been detected by eventsProtection for Logged Event
+00:39:57 [Warning] [242] (Abeelh@s) has been detected by eventsProtection for Logged Event
+10:02:58 [Warning] [12] (TIMI) has been detected by eventsProtection for Logged Event
+15:21:11 [Warning] [29] (𝐖𝐨𝐥𝐟𝐟) has been detected by eventsProtection for Logged Event
+17:32:09 [Warning] [45] (ligma) has been detected by eventsProtection for Logged Event
+17:32:14 [Warning] [45] (ligma) has been detected by eventsProtection for Logged Event
+17:32:19 [Warning] [45] (ligma) has been detected by eventsProtection for Logged Event
+17:33:00 [Warning] [45] (ligma) has been detected by eventsProtection for Logged Event
+17:33:01 [Warning] [45] (ligma) has been detected by eventsProtection for Logged Event
+17:33:01 [Warning] [45] (ligma) has been detected by eventsProtection for Logged Event
+17:40:53 [Warning] [43] ([YouMadBro]) has been detected by eventsProtection for Logged Event
+17:43:16 [Warning] [92] (ligma) has been detected by eventsProtection for Logged Event
+19:41:53 [Warning] [39] (Pimba na beiça) has been detected by eventsProtection for Logged Event
+20:19:45 [Warning] [22] (Ru^ca) has been detected by eventsProtection for Logged Event
+20:47:00 [Warning] [47] (bernardorocha533) has been detected by eventsProtection for Logged Event
+20:50:22 [Warning] [75] (Pimba na beiça) has been detected by eventsProtection for Logged Event
+22:08:34 [Warning] [124] (Cotonete) has been detected by eventsProtection for Logged Event
+22:08:43 [Warning] [127] (CML) has been detected by eventsProtection for Logged Event
+22:26:00 [Warning] [117] (l) has been detected by screenshots for Screenshot Requested
+22:26:24 [Warning] [117] (l) has been detected by screenshots for Screenshot Requested

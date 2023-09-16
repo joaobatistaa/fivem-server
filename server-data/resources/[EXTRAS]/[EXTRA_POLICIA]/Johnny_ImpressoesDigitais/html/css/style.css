@@ -1,0 +1,130 @@
+body {
+  overflow: hidden;
+  display: block;
+  margin: 0;
+}
+
+.scanner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 5vh;
+}
+
+.finger-btn {
+    position: absolute;
+    background-color: rgba(255, 0, 0, 0.05);
+    height:8.8vh;
+    width:6.9vh;
+    text-align: center;
+    border-radius: 0.3vh;
+    transition: all 0.2s linear;
+    top:20.75vh;
+    left:63.8vh;
+    animation: Idle 2s infinite;
+}
+
+
+/*.finger-btn:hover {
+    background-color: rgba(255, 0, 0, 0.5);
+}*/
+
+.finger-btn:active {
+    animation: Scanning 2s infinite;
+}
+
+.s-content {
+    position: absolute;
+    top:48vh;
+    left:60vh;
+    width: 55.5vh;
+    height: 28vh;
+    background-color: rgba(255, 0, 0, 0.0);
+}
+
+#fingerprintID-s {
+  font-family: 'Oswald', sans-serif;
+  font-size: 40px;
+  font-weight: 200;
+}
+
+.data-s {
+  position: relative;
+  top:2.7vh;
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+  font-weight: 70;
+  border: 2px solid rgba(0, 0, 0, 0.705);
+}
+
+
+@keyframes Idle {
+    0% { 
+        background-color: rgba(255, 0, 0, 0.5);
+    }
+    25% { 
+        background-color: rgba(255, 0, 0, 0.1);
+    }
+    50% { 
+        background-color: rgba(255, 0, 0, 0.5);
+    }
+    75% { 
+        background-color: rgba(255, 0, 0, 0.1);
+    }
+    100% { 
+        background-color: rgba(255, 0, 0, 0.5);
+    }
+}
+
+@keyframes Scanning {
+    0% { 
+        background-color: rgba(0, 255, 0, 0.5);
+    }
+    25% { 
+        background-color: rgba(0, 255, 0, 0.1);
+    }
+    50% { 
+        background-color: rgba(0, 255, 0, 0.5);
+    }
+    75% { 
+        background-color: rgba(0, 255, 0, 0.1);
+    }
+    100% { 
+        background-color: rgba(0, 255, 0, 0.5);
+    }
+}
+
+/* ///////////////////////////////////////////////////////////////////////////// */
+
+.computer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding:15vh;
+}
+
+.c-content {
+    position: absolute;
+    top:23vh;
+    left:60vh;
+    width: 55.5vh;
+    height: 28vh;
+    background-color: rgba(255, 0, 0, 0.0);
+}
+
+.data-c {
+  position: relative;
+  top:2.7vh;
+  font-family: 'Oswald', sans-serif;
+  font-size: 35px;
+  font-weight: 70;
+  border: 2px solid rgba(0, 0, 0, 0.705);
+}
+
+#fingerprintID-c {
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px;
+  font-weight: 200;
+}

@@ -1,0 +1,564 @@
+00:56:40 [^4loginProtection^0] [^5INFO^0] ^3He,blow.me»»»»^0 disconnected from the server...
+01:10:28 [^4loginProtection^0] [^5INFO^0] ^3Chicobula.ttv^0 disconnected from the server...
+01:18:19 [^4loginProtection^0] [^5INFO^0] ^3Chicobula.ttv^0 disconnected from the server...
+02:09:36 [^4loginProtection^0] [^5INFO^0] ^3Sal Grosso^0 disconnected from the server...
+02:27:04 [^4loginProtection^0] [^5INFO^0] ^3Lowayy^0 disconnected from the server...
+02:32:52 [^4loginProtection^0] [^5INFO^0] ^3Lowayy^0 disconnected from the server...
+02:39:17 [^4loginProtection^0] [^5INFO^0] ^3Mulas | RcR ( aiiiiii que os NL ate se cagam ) ^0 disconnected from the server...
+02:58:29 [^4loginProtection^0] [^5INFO^0] ^3Lowayy^0 disconnected from the server...
+03:13:08 [^4loginProtection^0] [^5INFO^0] ^3Lowayy^0 disconnected from the server...
+03:15:06 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+03:15:11 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:16:11 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:17:11 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:18:11 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:19:11 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:20:11 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:21:11 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:22:11 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:23:11 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:24:11 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:25:11 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:26:11 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:27:11 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:28:11 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:29:11 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:29:40 [^4ChocoHax^0] [^1ERR^0] lynx enabled is an invalid command
+03:29:48 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+03:29:53 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+03:30:11 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+03:30:51 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+03:31:12 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^217^0] (^2Lowayy^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+03:31:12 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+03:31:12 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^217^0] (^2Lowayy^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+03:31:12 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+03:31:59 [^4loginProtection^0] [^5INFO^0] ^3Macran Eristoff aka fiesta^0 disconnected from the server...
+04:06:28 [^4loginProtection^0] [^5INFO^0] ^3Scream_Succesor^0 disconnected from the server...
+04:14:24 [^4loginProtection^0] [^5INFO^0] ^3Scream_Succesor^0 disconnected from the server...
+04:26:25 [^4loginProtection^0] [^5INFO^0] ^3Lowayy^0 disconnected from the server...
+04:38:32 [^4loginProtection^0] [^5INFO^0] ^3doodllez_TTV^0 disconnected from the server...
+05:07:08 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+05:07:08 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+05:07:08 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+05:07:08 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+05:07:08 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+05:38:49 [^4loginProtection^0] [^5INFO^0] ^3ligma^0 disconnected from the server...
+05:50:00 [^4loginProtection^0] [^5INFO^0] ^3Lowayy^0 disconnected from the server...
+06:08:45 [^4loginProtection^0] [^5INFO^0] ^323 FCKS|DAY^0 disconnected from the server...
+06:11:23 [^4loginProtection^0] [^5INFO^0] ^3doodllez^0 disconnected from the server...
+06:11:49 [^4loginProtection^0] [^5INFO^0] ^3Scream_Succesor^0 disconnected from the server...
+06:26:21 [^4loginProtection^0] [^5INFO^0] ^3Penalty©^0 disconnected from the server...
+06:37:45 [^4loginProtection^0] [^5INFO^0] ^3★BeNtO★^0 disconnected from the server...
+06:55:13 [^4loginProtection^0] [^5INFO^0] ^3doodllez_TTV^0 disconnected from the server...
+06:55:52 [^4loginProtection^0] [^5INFO^0] ^3ligma^0 disconnected from the server...
+06:57:25 [^4loginProtection^0] [^5INFO^0] ^3call me Zk🚬^0 disconnected from the server...
+07:03:09 [^4loginProtection^0] [^5INFO^0] ^3SHU PASSEIOS^0 disconnected from the server...
+07:18:50 [^4loginProtection^0] [^5INFO^0] ^3Scream_Succesor^0 disconnected from the server...
+07:19:09 [^4loginProtection^0] [^5INFO^0] ^3Raimundo 51^0 disconnected from the server...
+07:19:38 [^4loginProtection^0] [^5INFO^0] ^3engole denovo^0 disconnected from the server...
+07:20:04 [^4loginProtection^0] [^5INFO^0] ^3call me Zk🚬^0 disconnected from the server...
+07:44:39 [^4loginProtection^0] [^5INFO^0] ^3call me Zk🚬^0 disconnected from the server...
+07:45:36 [^4loginProtection^0] [^5INFO^0] ^3FilipeNV1^0 disconnected from the server...
+07:53:52 [^4loginProtection^0] [^5INFO^0] ^3call me Zk🚬^0 disconnected from the server...
+07:59:16 [^4loginProtection^0] [^5INFO^0] ^3Lowayy^0 disconnected from the server...
+08:00:15 [^4loginProtection^0] [^5INFO^0] ^3Anda cá^0 disconnected from the server...
+08:02:20 [^4loginProtection^0] [^5INFO^0] ^3HeroSlayer^0 disconnected from the server...
+08:09:56 [^4loginProtection^0] [^5INFO^0] ^3Anda cá^0 disconnected from the server...
+08:12:34 [^4loginProtection^0] [^5INFO^0] ^3SHU PASSEIOS^0 disconnected from the server...
+08:14:34 [^4loginProtection^0] [^5INFO^0] ^3Mulas | RcR ( aiiiiii que os NL ate se cagam ) ^0 disconnected from the server...
+08:15:05 [^4loginProtection^0] [^5INFO^0] ^3Miguel_0504^0 disconnected from the server...
+08:18:39 [^4loginProtection^0] [^5INFO^0] ^3MO PAZ^0 disconnected from the server...
+08:18:55 [^4loginProtection^0] [^5INFO^0] ^3SHU PASSEIOS^0 disconnected from the server...
+08:20:10 [^4loginProtection^0] [^5INFO^0] ^3BOT Ragnar^0 disconnected from the server...
+08:30:44 [^4loginProtection^0] [^5INFO^0] ^3Moleiro^0 disconnected from the server...
+08:32:34 [^4loginProtection^0] [^5INFO^0] ^3Anda cá^0 disconnected from the server...
+08:32:36 [^4loginProtection^0] [^5INFO^0] ^3doodllez_TTV^0 disconnected from the server...
+08:33:04 [^4loginProtection^0] [^5INFO^0] ^3rairoszin^0 disconnected from the server...
+08:33:50 [^4loginProtection^0] [^5INFO^0] ^3catota^0 disconnected from the server...
+08:40:23 [^4loginProtection^0] [^5INFO^0] ^3Miguel_0504^0 disconnected from the server...
+08:43:40 [^4loginProtection^0] [^5INFO^0] ^3Moleiro^0 disconnected from the server...
+08:51:08 [^4loginProtection^0] [^5INFO^0] ^3rairoszin^0 disconnected from the server...
+08:53:04 [^4loginProtection^0] [^5INFO^0] ^3SHU PASSEIOS^0 disconnected from the server...
+08:55:06 [^4loginProtection^0] [^5INFO^0] ^3JoãoLitz^0 disconnected from the server...
+08:56:01 [^4loginProtection^0] [^5INFO^0] ^3★BeNtO★^0 disconnected from the server...
+08:57:26 [^4loginProtection^0] [^5INFO^0] ^3Penalty©^0 disconnected from the server...
+08:59:47 [^4loginProtection^0] [^5INFO^0] ^3Moleiro^0 disconnected from the server...
+09:08:17 [^4loginProtection^0] [^5INFO^0] ^3He,blow.me»»»»^0 disconnected from the server...
+09:09:26 [^4loginProtection^0] [^5INFO^0] ^3vortex2k3^0 disconnected from the server...
+09:09:26 [^4loginProtection^0] [^5INFO^0] ^3gcC^0 disconnected from the server...
+09:09:26 [^4loginProtection^0] [^5INFO^0] ^3Scream_Succesor^0 disconnected from the server...
+09:09:26 [^4loginProtection^0] [^5INFO^0] ^3Ritler^0 disconnected from the server...
+09:09:26 [^4loginProtection^0] [^5INFO^0] ^3Lowayy^0 disconnected from the server...
+09:09:26 [^4loginProtection^0] [^5INFO^0] ^3NUTTZZZZZZZZZZZZZZZ^0 disconnected from the server...
+09:09:26 [^4loginProtection^0] [^5INFO^0] ^3BOT Ragnar^0 disconnected from the server...
+09:09:26 [^4loginProtection^0] [^5INFO^0] ^3MO PAZ^0 disconnected from the server...
+09:09:26 [^4loginProtection^0] [^5INFO^0] ^3JOHN AXE^0 disconnected from the server...
+09:09:26 [^4loginProtection^0] [^5INFO^0] ^3doodllez_TTV^0 disconnected from the server...
+09:09:26 [^4loginProtection^0] [^5INFO^0] ^3PortugaNoRP^0 disconnected from the server...
+09:09:26 [^4loginProtection^0] [^5INFO^0] ^3FilipeNV1^0 disconnected from the server...
+09:09:26 [^4loginProtection^0] [^5INFO^0] ^3Miguel_0504^0 disconnected from the server...
+09:09:26 [^4loginProtection^0] [^5INFO^0] ^323 FCKS|DAY^0 disconnected from the server...
+09:09:26 [^4loginProtection^0] [^5INFO^0] ^3rairoszin^0 disconnected from the server...
+09:09:26 [^4loginProtection^0] [^5INFO^0] ^3JoãoLitz^0 disconnected from the server...
+09:09:26 [^4loginProtection^0] [^5INFO^0] ^3★BeNtO★^0 disconnected from the server...
+09:09:26 [^4loginProtection^0] [^5INFO^0] ^3Bucha^0 disconnected from the server...
+09:09:26 [^4loginProtection^0] [^5INFO^0] ^3Raimundo 51^0 disconnected from the server...
+09:09:26 [^4loginProtection^0] [^5INFO^0] ^3engole denovo^0 disconnected from the server...
+09:42:20 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+09:42:20 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+09:42:20 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+09:42:20 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+09:42:20 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+09:42:35 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+09:43:20 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+09:44:02 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+09:45:08 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+09:45:08 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+09:45:08 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+09:45:08 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+09:45:08 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+09:48:45 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+09:48:45 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+09:48:45 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+09:48:45 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+09:48:45 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+09:48:57 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+09:49:45 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+09:51:35 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+09:51:35 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+09:51:35 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+09:51:35 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+09:51:35 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+09:59:34 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+09:59:34 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+09:59:34 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+09:59:34 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+09:59:34 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+10:06:52 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+10:06:52 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+10:06:52 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+10:06:52 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+10:06:52 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+10:16:38 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+10:16:38 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+10:16:38 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+10:16:38 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+10:16:38 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+10:30:17 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+10:30:17 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+10:30:17 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+10:30:17 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+10:30:17 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+10:47:14 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+10:47:17 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+10:48:17 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+10:49:17 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+10:50:17 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+10:51:17 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+10:52:17 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+10:53:17 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+10:54:17 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+10:55:17 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+10:56:17 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+10:57:17 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+10:58:17 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+10:59:17 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:00:17 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:01:17 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:02:18 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:03:18 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:04:18 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:05:18 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:06:18 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:07:18 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:08:18 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:09:18 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:10:18 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:11:18 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:12:18 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:12:48 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+11:17:52 [^4loginProtection^0] [^5INFO^0] ^3Manny Maozinhas^0 disconnected from the server...
+11:20:27 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+11:20:27 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+11:20:27 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+11:20:27 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+11:20:27 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+11:24:22 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+11:24:27 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:25:27 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:26:27 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:27:27 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:28:27 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:29:27 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:30:27 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:31:27 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:32:27 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:33:27 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:34:27 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:35:23 [^4loginProtection^0] [^5INFO^0] ^3Manny Maozinhas^0 disconnected from the server...
+11:35:27 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:36:55 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+11:36:55 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+11:36:55 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+11:36:55 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+11:36:55 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+11:42:03 [^4loginProtection^0] [^5INFO^0] ^3Manny Maozinhas^0 disconnected from the server...
+11:43:38 [^4Commands^0] [^2SUCCESS^0] Player ^3-OlivS -Taz^0 has been teleported by ^3Manny Maozinhas^0
+11:44:29 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+11:44:56 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:45:56 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:46:56 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:47:56 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:48:56 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:49:56 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:50:56 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:51:12 [^4loginProtection^0] [^5INFO^0] ^3-OlivS -Taz^0 disconnected from the server...
+11:51:12 [^4loginProtection^0] [^5INFO^0] ^3Manny Maozinhas^0 disconnected from the server...
+11:52:25 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+11:52:25 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+11:52:25 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+11:52:25 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+11:52:25 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+11:57:40 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+11:58:25 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:59:25 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+12:00:25 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+12:00:38 [^4loginProtection^0] [^5INFO^0] ^3-OlivS -Taz^0 disconnected from the server...
+12:00:38 [^4loginProtection^0] [^5INFO^0] ^3Manny Maozinhas^0 disconnected from the server...
+12:01:38 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+12:01:38 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+12:01:38 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+12:01:38 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+12:01:38 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+12:04:20 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+12:04:20 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+12:04:20 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+12:04:20 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+12:04:20 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+12:06:40 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+12:06:40 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+12:06:40 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+12:06:40 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+12:06:40 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+12:08:13 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+12:08:13 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+12:08:13 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+12:08:13 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+12:08:13 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+12:15:46 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+12:15:46 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+12:15:46 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+12:15:46 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+12:15:46 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+12:19:10 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+12:19:46 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+12:20:46 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+12:21:46 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+12:22:46 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+12:23:46 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+12:24:46 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+12:25:46 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+12:26:46 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+12:27:46 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+12:28:46 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+12:29:46 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+12:30:46 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+12:31:45 [^4loginProtection^0] [^5INFO^0] ^3Manny Maozinhas^0 disconnected from the server...
+12:31:46 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+12:33:10 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+12:33:10 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+12:33:10 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+12:33:10 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+12:33:10 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+12:40:21 [^4loginProtection^0] [^5INFO^0] ^3Manny Maozinhas^0 disconnected from the server...
+12:41:30 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+12:41:30 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+12:41:30 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+12:41:30 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+12:41:30 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+12:52:56 [^4loginProtection^0] [^5INFO^0] ^3Manny Maozinhas^0 disconnected from the server...
+12:54:03 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+12:54:03 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+12:54:03 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+12:54:03 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+12:54:03 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+12:55:30 [^4loginProtection^0] [^5INFO^0] ^3Manny Maozinhas^0 disconnected from the server...
+13:15:17 [^4loginProtection^0] [^5INFO^0] ^3Manny Maozinhas^0 disconnected from the server...
+13:22:39 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+13:22:42 [^4ChocoHax^0] [^1ERR^0] lynx enabled is an invalid command
+13:23:04 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+13:23:13 [^4ChocoHax^0] [^1ERR^0] lynx enabled is an invalid command
+13:23:24 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+13:25:54 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+13:25:54 [^4loginProtection^0] [^5INFO^0] ^3-OlivS -Taz^0 disconnected from the server...
+13:25:57 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+13:27:35 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+13:27:36 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+13:28:30 [^4loginProtection^0] [^5INFO^0] ^3-OlivS -Taz^0 disconnected from the server...
+13:29:39 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+13:29:39 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+13:29:39 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+13:29:39 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+13:29:39 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+13:33:13 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+13:33:16 [^4ChocoHax^0] [^1ERR^0] lynx enabled is an invalid command
+13:33:22 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+13:33:38 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+13:33:43 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+13:33:43 [^4loginProtection^0] [^5INFO^0] ^3-OlivS -Taz^0 disconnected from the server...
+13:33:44 [^4ChocoHax^0] [^1ERR^0] lynx enabled is an invalid command
+13:34:56 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+13:34:56 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+13:34:56 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+13:34:56 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+13:34:56 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+13:51:01 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^1Disabled^0]
+13:51:02 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+13:51:50 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+13:51:53 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+14:09:37 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+14:09:57 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:10:57 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:11:57 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:12:57 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:13:57 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:14:57 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:15:57 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:16:57 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:17:57 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:18:57 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:19:57 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:20:58 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:21:58 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:22:58 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:23:58 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:24:58 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:25:58 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:26:58 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:27:58 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:28:58 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:29:58 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:30:58 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:31:58 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:32:58 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:33:58 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:34:58 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:35:28 [^4loginProtection^0] [^5INFO^0] ^3Scream_Succesor^0 disconnected from the server...
+14:35:58 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+14:36:26 [^4ChocoHax^0] [^1ERR^0] lynx enabled is an invalid command
+14:36:27 [^4ChocoHax^0] [^1ERR^0] lynx enabled is an invalid command
+14:36:32 [^4ChocoHax^0] [^1ERR^0] lynx enabled is an invalid command
+14:36:36 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+14:36:57 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^22^0] (^2Jordan Kiribi^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:36:57 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:38:11 [^4loginProtection^0] [^5INFO^0] ^3Scream_Succesor^0 disconnected from the server...
+14:39:24 [^4loginProtection^0] [^5INFO^0] ^3Jordan Kiribi^0 disconnected from the server...
+14:44:09 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+14:44:49 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+14:44:52 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^25^0] (^2Scream_Succesor^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:44:52 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:47:05 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+14:47:54 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+14:51:23 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+14:51:35 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+14:51:36 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^25^0] (^2Scream_Succesor^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:51:36 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:52:09 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+14:52:14 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+14:52:21 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^25^0] (^2Scream_Succesor^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:52:21 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:55:43 [^4loginProtection^0] [^5INFO^0] ^3-OlivS -Taz^0 disconnected from the server...
+15:08:46 [^4loginProtection^0] [^5INFO^0] ^3Scream_Succesor^0 disconnected from the server...
+16:47:33 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+16:47:33 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+16:47:33 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+16:47:33 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+16:47:33 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+16:47:47 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+16:48:33 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+16:49:33 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+16:50:33 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+16:51:33 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+16:52:33 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+16:53:33 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+16:54:33 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+16:55:33 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+16:56:33 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+16:57:33 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+16:58:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+16:59:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:00:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:01:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:02:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:03:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:04:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:05:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:06:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:07:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:08:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:09:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:10:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:11:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:12:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:13:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:14:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:15:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:16:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:17:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:18:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:19:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:20:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:21:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:22:34 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:24:35 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+17:24:35 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+17:24:35 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+17:24:35 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+17:24:35 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+17:24:47 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+17:25:35 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:26:35 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:27:27 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+17:35:14 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+17:35:35 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:36:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:37:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:38:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:39:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:40:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:41:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:42:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:43:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:44:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:45:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:46:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:47:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:48:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:49:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:50:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:51:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:52:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:53:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:54:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:55:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:56:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:57:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:58:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+17:59:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:00:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:01:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:02:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:03:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:04:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:05:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:06:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:07:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:08:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:09:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:10:36 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:11:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:12:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:13:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:14:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:15:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:16:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:17:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:18:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:19:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:20:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:21:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:22:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:23:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:24:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:25:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:26:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:27:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:28:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:29:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:30:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:31:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:32:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:33:37 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:34:27 [^4loginProtection^0] [^5INFO^0] ^3Johnny73- ❤^0 disconnected from the server...
+18:35:42 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+18:35:42 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+18:35:42 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+18:35:42 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+18:35:42 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+18:41:55 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+18:42:42 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:43:42 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:44:42 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:45:42 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:46:42 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:46:50 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+18:48:41 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+18:48:42 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:49:42 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:50:42 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:51:42 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:52:43 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:53:43 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:54:43 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:55:43 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:56:43 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:57:43 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+18:58:31 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+19:14:37 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+19:14:42 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+19:15:42 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+19:16:42 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+19:17:42 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+19:18:42 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+19:19:42 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+19:20:42 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+19:21:42 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+19:22:32 [^4loginProtection^0] [^5INFO^0] ^3Johnny73- ❤^0 disconnected from the server...
+20:53:35 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+20:53:35 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+20:53:35 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+20:53:35 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+20:53:35 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+20:53:47 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+20:54:04 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+21:20:58 [^4loginProtection^0] [^5INFO^0] ^3Manny Maozinhas^0 disconnected from the server...
+22:01:49 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+22:01:49 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+22:01:49 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+22:01:49 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+22:01:49 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+22:10:14 [^4loginProtection^0] [^5INFO^0] ^3Manny Maozinhas^0 disconnected from the server...
+22:11:25 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+22:11:25 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+22:11:25 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+22:11:25 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+22:11:25 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+22:22:13 [^4loginProtection^0] [^5INFO^0] ^3Manny Maozinhas^0 disconnected from the server...

@@ -1,0 +1,2 @@
+isLoggedIn = true
+PlayerJob = {}

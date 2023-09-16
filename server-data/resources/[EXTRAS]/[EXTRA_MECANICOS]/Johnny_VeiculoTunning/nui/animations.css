@@ -1,0 +1,106 @@
+@keyframes fade {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes hide {
+    from {
+        opacity: 1;
+    }
+
+    to {
+        opacity: 0;
+    }
+}
+
+.fade {
+    animation-name: fade;
+    animation-duration: 600ms;
+    animation-fill-mode: backwards; 
+}
+
+.hide {
+    animation-name: hide;
+    animation-duration: 600ms;
+    animation-fill-mode: backwards; 
+}
+
+
+/* ================================================================================ */
+
+@keyframes up {
+    from {
+        transform: translateY(100%);
+    }
+
+    to {
+        transform: translateY(0%);
+    }
+}
+
+.up {
+    animation-name: up;
+    animation-duration: 600ms;
+    animation-fill-mode: backwards; 
+}
+
+/* ================================================================================ */
+
+
+@keyframes down {
+    from {
+        transform: translateY(0%);
+    }
+
+    to {
+        transform: translateY(100%);
+    }
+}
+
+.down {
+    animation-name: down;
+    animation-duration: 600ms;
+    animation-fill-mode: backwards; 
+}
+
+/* ================================================================================ */
+
+@keyframes appearHeight {
+    from {
+        height: 90px;
+    }
+
+    to {
+        height: 175px;
+    }
+}
+
+.appearHeight {
+    animation-name:  appearHeight;
+    animation-duration: 600ms;
+    animation-fill-mode: backwards; 
+}
+
+/* ================================================================================ */
+
+
+@keyframes hideHeight {
+    from {
+        height: 175px;
+    }
+
+    to {
+        height: 90px;
+    }
+}
+
+.hideHeight {
+    animation-name: hideHeight;
+    animation-duration: 600ms;
+    animation-fill-mode: backwards; 
+}

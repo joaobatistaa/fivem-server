@@ -1,0 +1,493 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
+html {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-touch-callout: none;
+}
+
+body {
+    background-color: rgba(34, 34, 34, 0.733);
+}
+
+.main-wrapper {
+    width: 100%;
+    height: 100%;
+}
+
+.header {
+    position: absolute;
+    width: 98%;
+    height: 10vw;
+}
+
+.header-title {
+    position: absolute;
+    top: -2vw;
+    left: 3vw;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 800;
+    font-size: 4.5vw;
+    color: #fff;
+    text-shadow: 0px 0px 4vw #FFFFFF;
+}
+
+.task-wrapper {
+    position: absolute;
+    left: 1vw;
+    top: 14vw;
+    width: 53vw;
+    height: 40vw;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.task-wrapper::-webkit-scrollbar-track {
+    border-radius: 0px;
+}
+
+.task-wrapper::-webkit-scrollbar {
+    width: 0px;
+}
+
+.task-wrapper::-webkit-scrollbar-thumb {
+    border-radius: 0px;
+    background-color: rgb(59, 59, 59);
+}
+
+.task-box {
+    position: relative;
+    float: left;
+    left: 1vw;
+    margin-right: 1vw;
+    margin-bottom: 1vw;
+    width: 24vw;
+    height: 9vw;
+    background: linear-gradient(180deg, rgba(68, 98, 254, 0.09) 0%, rgba(68, 75, 254, 0.09) 100%);
+    border: 0.915567px solid rgba(68, 131, 254, 0.7);
+    border-radius: 0.5vw;
+}
+
+.task-name {
+    position: absolute;
+    left: 1vw;
+    top: -0.2vw;
+    text-transform: uppercase;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 700;
+    font-size: 1.5vw;
+    color: #fff;
+}
+
+.task-xp {
+    position: absolute;
+    top: 0.0vw;
+    left: 19vw;
+    text-transform: uppercase;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 700;
+    font-size: 1.2vw;
+    color: rgba(255, 255, 255, 0.418);
+}
+
+.task-description {
+    position: absolute;
+    top: 3vw;
+    left: 1vw;
+    width: 20vw;
+    text-transform: uppercase;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 400;
+    font-size: 0.9vw;
+    color: rgba(255, 255, 255, 0.418);
+}
+
+.ldBar {
+    position: absolute;
+    top: 1.8vw;
+    left: 22vw;
+}
+
+.task-bar {
+    position: absolute;
+    left: 0vw;
+    top: 1.2vw;
+    font-size: 0vw;
+}
+
+.ldBar.task-bar path.mainline {
+    stroke-width: 2;
+    font-size: 0vw;
+    stroke: #449AFE;
+}
+
+.ldBar.task-bar path.baseline {
+    stroke-width: 2;
+    stroke: rgba(255, 255, 255, 0.1);
+    font-size: 0vw;
+}
+
+.pass-wrapper {
+    position: absolute;
+    left: 55vw;
+    top: 14vw;
+    width: 44vw;
+    height: 26vw;
+}
+
+.standart-pass-list {
+    position: absolute;
+    left: 0vw;
+    top: 0vw;
+    width: 44vw;
+    height: 12vw;
+    overflow-y: hidden;
+    overflow-x: auto;
+    display: inline-flex;
+}
+
+.standart-pass-list::-webkit-scrollbar-track {
+    border-radius: 0px;
+}
+
+.standart-pass-list::-webkit-scrollbar {
+    width: 0px;
+    height: 0vw;
+}
+
+.standart-pass-list::-webkit-scrollbar-thumb {
+    border-radius: 0px;
+    background-color: rgb(59, 59, 59);
+}
+
+.pass-type {
+    position: absolute;
+    left: -4.4vw;
+    top: 2.9vw;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    transform: rotate(-90deg);
+    font-size: 1.5vw;
+}
+
+.standart-pass-box {
+    position: relative;
+    text-align: center;
+    float: left;
+    left: -1vw;
+    top: 0.4vw;
+    width: 11vw;
+    height: 11vw;
+    min-width: 11vw;
+    min-height: 11vw;
+    margin-left: 1vw;
+    border: 1px solid #449AFE69;
+    background: linear-gradient(180deg, rgba(68, 154, 254, 0.09) 0%, rgba(68, 154, 254, 0) 100%);
+    border-radius: 9.64111px;
+}
+
+.pass-level {
+    position: relative;
+    text-align: center;
+    left: 0vw;
+    top: -3.8vw;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-size: 1.5vw;
+}
+
+.item {
+    position: relative;
+    top: -4vw;
+    text-align: center;
+    width: 7vw;
+}
+
+.item-name {
+    position: relative;
+    text-align: center;
+    left: 0vw;
+    top: -6vw;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-size: 1vw;
+}
+
+#standart-receive-button {
+    position: absolute;
+    top: 7.6vw;
+    left: 0.9vw;
+    width: 9vw;
+    height: 2.5vw;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-size: 1vw;
+    border: 0.2vw solid #449AFE;
+    background-color: transparent;
+    border-radius: 2vw;
+    outline: none;
+    transition: all 1s;
+}
+
+.premium-pass-list {
+    position: absolute;
+    left: 0vw;
+    top: 13vw;
+    width: 44vw;
+    height: 12vw;
+    overflow-y: hidden;
+    overflow-x: auto;
+    display: inline-flex;
+}
+
+.premium-pass-list::-webkit-scrollbar-track {
+    border-radius: 0px;
+}
+
+.premium-pass-list::-webkit-scrollbar {
+    width: 0px;
+    height: 0vw;
+}
+
+.premium-pass-list::-webkit-scrollbar-thumb {
+    border-radius: 0px;
+    background-color: rgb(59, 59, 59);
+}
+
+.pass-type-2 {
+    position: absolute;
+    left: -4.2vw;
+    top: 16.5vw;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    transform: rotate(-90deg);
+    font-size: 1.5vw;
+}
+
+.premium-pass-box {
+    position: relative;
+    text-align: center;
+    float: left;
+    left: -1vw;
+    top: 0.4vw;
+    width: 11vw;
+    height: 11vw;
+    min-width: 11vw;
+    min-height: 11vw;
+    margin-left: 1vw;
+    border: 1px solid #449AFE69;
+    background: linear-gradient(180deg, rgba(68, 154, 254, 0.09) 0%, rgba(68, 154, 254, 0) 100%);
+    border-radius: 9.64111px;
+}
+
+.pass-level {
+    position: relative;
+    text-align: center;
+    left: 0vw;
+    top: -3.8vw;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-size: 1.5vw;
+}
+
+.item {
+    position: relative;
+    top: -4vw;
+    text-align: center;
+    width: 7vw;
+}
+
+.item-name {
+    position: relative;
+    text-align: center;
+    left: 0vw;
+    top: -6vw;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-size: 1vw;
+}
+
+#premium-receive-button {
+    position: absolute;
+    top: 7.6vw;
+    left: 0.9vw;
+    width: 9vw;
+    height: 2.5vw;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-size: 1vw;
+    border: 0.2vw solid #449AFE;
+    background-color: transparent;
+    border-radius: 2vw;
+    outline: none;
+    transition: all 1s;
+}
+
+#premium-receive-button-1 {
+    position: absolute;
+    top: 7.6vw;
+    left: 0.9vw;
+    width: 9vw;
+    height: 2.5vw;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-size: 1vw;
+    border: 0.2vw solid #449AFE;
+    background-color: transparent;
+    border-radius: 2vw;
+    outline: none;
+    transition: all 1s;
+}
+
+.bottom-wrapper {
+    position: absolute;
+    top: 36vw;
+    left: 55vw;
+    width: 43vw;
+    height: 18vw;
+}
+
+.bmw {
+    position: absolute;
+    top: 3.3vw;
+    left: 17vw;
+    width: 28vw;
+}
+
+.level {
+    position: absolute;
+    text-align: center;
+    top: -2vw;
+    left: 0vw;
+    font-size: 0vw;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.level-text {
+    position: relative;
+    text-align: center;
+    top: 6.5vw;
+    font-size: 2vw;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.ldBar.level path.mainline {
+    stroke-width: 7;
+    font-size: 0vw;
+}
+
+.ldBar.level path.baseline {
+    stroke-width: 7;
+    stroke: #ffffff03;
+    font-size: 0vw;
+}
+
+#buy-premium {
+    position: absolute;
+    left: 8vw;
+    top: 7.8vw;
+    width: 10vw;
+    height: 2.5vw;
+    background: #449AFE;
+    border: none;
+    outline: none;
+    font-size: 1vw;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.level-text-2 {
+    position: absolute;
+    top: 4vw;
+    left: 10vw;
+    font-size: 1.4vw;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.bottom-text-1 {
+    position: absolute;
+    top: 11.5vw;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 1vw;
+    color: #D78438;
+    text-shadow: 0px 0px 17px #D78438;
+}
+
+.bottom-text-2 {
+    position: absolute;
+    width: 15vw;
+    top: 13.5vw;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.8vw;
+    color: rgba(255, 255, 255, 0.64);
+}
+
+.user-name {
+    position: absolute;
+    width: 15vw;
+    top: 3vw;
+    left: 79vw;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 1.4vw;
+    color: #fff;
+}
+
+#exit-icon {
+    position: absolute;
+    top: 7.12vw;
+    left: 86.2vw;
+    font-size: 1vw;
+    color: #FF6969;
+}
+
+.exit {
+    position: absolute;
+    width: 5vw;
+    top: 7vw;
+    left: 82.5vw;
+    background-color: #ffffff00;
+    border: 0px;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 1vw;
+    color: #FF6969;
+}

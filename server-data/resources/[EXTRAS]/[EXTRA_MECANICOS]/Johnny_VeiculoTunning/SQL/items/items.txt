@@ -1,0 +1,54 @@
+oil
+tires
+brake_pads
+transmission_oil
+shock_absorber
+clutch
+air_filter
+fuel_filter
+spark_plugs
+serpentine_belt
+
+
+upgrades
+susp - very low
+susp1 - low
+susp2 - sport
+susp3 - comfort
+susp4 - high
+garett - Turbo
+nitrous - nitro
+AWD
+RWD
+FWD
+semislick
+slick
+race_brakes
+
+
+repair parts
+
+engine:
+piston
+rod
+oil
+
+transmission:
+gear
+transmission_oil
+
+chassis:
+iron
+aluminum
+
+brakes:
+brake_discs
+brake_pads
+brake_caliper
+
+suspension:
+shock_absorber
+springs
+
+
+

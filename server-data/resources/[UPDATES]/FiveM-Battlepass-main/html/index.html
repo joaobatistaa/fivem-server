@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="dist/loading-bar.css" />
+    <script type="text/javascript" src="dist/loading-bar.js"></script>
+    <link rel="stylesheet" type="text/css" href="dist/loading-bar.css" />
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" type="text/css" href="dist/loading-bar.css" />
+    <script type="text/javascript" src="dist/loading-bar.js"></script>
+    <link rel="stylesheet" type="text/css" href="dist/loading-bar.css" />
+     <script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer"
+    />
+    <script type="text/javascript" src="dist/loading-bar.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <link rel='stylesheet' href='css/fontawesome.css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer"
+    />
+</head>
+
+<body>
+    <div class="main-wrapper">
+        <div class="header">
+            <p class="header-title">BATTLEPASS</p>
+            <p class="user-name">Vasili Husak</p>
+            <i class="fa-solid fa-arrow-right-from-bracket" id="exit-icon"></i>
+            <button class="exit">EXIT</button>
+        </div>
+        <div class="task-wrapper">
+            <div class="task-box" id="task-1-passed">
+                <p class="task-name">Fahre zum Gefängnis</p>
+                <p class="task-xp">+ 300XP</p>
+                <p class="task-description">Schnapp dir ein Auto und fahre zum Gefängnis</p>
+                <div class="ldBar task-bar" id="task-1-passed-line" data-preset="line" style="width:22vw;height:15vw; transition: .5s;" , data-value="70">
+                </div>
+            </div>
+            <div class="task-box" id="task-2-passed">
+                <p class="task-name">Tanze mit jemanden</p>
+                <p class="task-xp">+ 300XP</p>
+                <p class="task-description">Suche dir einen Freund oder sprich einen auf der Straße an und tanzt zusammen</p>
+                <div class="ldBar task-bar" data-preset="line" style="width:22vw;height:15vw; transition: .5s;" , data-value="70">
+                </div>
+            </div>
+            <div class="task-box" id="task-3-passed">
+                <p class="task-name">Fahre zur Polizei</p>
+                <p class="task-xp">+ 300XP</p>
+                <p class="task-description">Suche dir ein Auto und fahre zur Polizei oder gehe zu Fuß</p>
+                <div class="ldBar task-bar" data-preset="line" style="width:22vw;height:15vw; transition: .5s;" , data-value="70">
+                </div>
+            </div>
+            <div class="task-box" id="task-4-passed">
+                <p class="task-name">Kaufe eine Sache im Shop</p>
+                <p class="task-xp">+ 300XP</p>
+                <p class="task-description">Gehe in ein Shop deiner Wahl und kaufe dir egal was</p>
+                <div class="ldBar task-bar" data-preset="line" style="width:22vw;height:15vw; transition: .5s;" , data-value="70">
+                </div>
+            </div>
+            <div class="task-box" id="task-5-passed">
+                <p class="task-name">Zahle Geld ein</p>
+                <p class="task-xp">+ 300XP</p>
+                <p class="task-description">Gehe zu einem Bankautomaten oder einer Bank und zahle dein Bargeld auf deinem Konto ein</p>
+                <div class="ldBar task-bar" data-preset="line" style="width:22vw;height:15vw; transition: .5s;" , data-value="70">
+                </div>
+            </div>
+            <div class="task-box" id="task-6-passed">
+                <p class="task-name">Mach ein Führerschein</p>
+                <p class="task-xp">+ 300XP</p>
+                <p class="task-description">Begib dich zur Fahrschule und bestehe die Theoritische und die Praktische Prüfung</p>
+                <div class="ldBar task-bar" data-preset="line" style="width:22vw;height:15vw; transition: .5s;" , data-value="70">
+                </div>
+            </div>
+            <div class="task-box" id="task-7-passed">
+                <p class="task-name">Kaufe ein Auto</p>
+                <p class="task-xp">+ 300XP</p>
+                <p class="task-description">Fahre zu einem Fahrzeughändler und kaufe dir ein brandneues Fahrzeug deiner Wahl</p>
+                <div class="ldBar task-bar" data-preset="line" style="width:22vw;height:15vw; transition: .5s;" , data-value="70">
+                </div>
+            </div>
+
+            <div class="task-box" id="task-8-passed">
+                <p class="task-name">Überweise ein Freund Geld</p>
+                <p class="task-xp">+ 300XP</p>
+                <p class="task-description">Schnapp dir einen Freund und überbweis ihm Geld</p>
+                <div class="ldBar task-bar" data-preset="line" style="width:22vw;height:15vw; transition: .5s;" , data-value="70">
+                </div>
+            </div>
+            <div class="task-box" id="task-9-passed">
+                <p class="task-name">Fahre zum Del Perro Pier</p>
+                <p class="task-xp">+ 300XP</p>
+                <p class="task-description">Schnapp dir ein Auto und fahre alleine oder mit einem Freund zusammen zum Del Perro Pier</p>
+                <div class="ldBar task-bar" data-preset="line" style="width:22vw;height:15vw; transition: .5s;" , data-value="70">
+                </div>
+            </div>
+            <div class="task-box" id="task-10-passed">
+                <p class="task-name">Neue Kleidung</p>
+                <p class="task-xp">+ 300XP</p>
+                <p class="task-description">Gehe zu einem Kleidungsladen und kaufe dir neue Kleidung</p>
+                <div class="ldBar task-bar" data-preset="line" style="width:22vw;height:15vw; transition: .5s;" , data-value="70">
+                </div>
+            </div>
+        </div>
+        <div class="pass-wrapper">
+            <p class="pass-type">STANDART</p>
+            <div class="standart-pass-list">
+                <div class="standart-pass-box">
+                    <p class="pass-level">1 LVL</p>
+                    <img src="./images/cash.png" class="item">
+                    <p class="item-name">geld 15.000$</p>
+                    <button id="standart-receive-button" class="standart-pass-box-1">ABHOLEN</button>
+                </div>
+                <div class="standart-pass-box">
+                    <p class="pass-level">1 LVL</p>
+                    <img src="./images/cash.png" class="item">
+                    <p class="item-name">geld 15.000$</p>
+                    <button id="standart-receive-button" class="standart-pass-box-2">ABHOLEN</button>
+                </div>
+                <div class="standart-pass-box">
+                    <p class="pass-level">1 LVL</p>
+                    <img src="./images/cash.png" class="item">
+                    <p class="item-name">geld 15.000$</p>
+                    <button id="standart-receive-button" class="standart-pass-box-3">ABHOLEN</button>
+                </div>
+                <div class="standart-pass-box">
+                    <p class="pass-level">1 LVL</p>
+                    <img src="./images/cash.png" class="item">
+                    <p class="item-name">geld 15.000$</p>
+                    <button id="standart-receive-button" class="standart-pass-box-4">ABHOLEN</button>
+                </div>
+                <div class="standart-pass-box">
+                    <p class="pass-level">1 LVL</p>
+                    <img src="./images/cash.png" class="item">
+                    <p class="item-name">geld 15.000$</p>
+                    <button id="standart-receive-button" class="standart-pass-box-5">ABHOLEN</button>
+                </div>
+            </div>
+            <p class="pass-type-2">PREMIUM</p>
+            <div class="premium-pass-list">
+
+                <div class="premium-pass-box">
+                    <p class="pass-level">1 LVL</p>
+                    <img src="./images/cash.png" class="item">
+                    <p class="item-name">geld 15.000$</p>
+                    <button id="premium-receive-button" class="premium-pass-box-1">ABHOLEN</button>
+                </div>
+                <div class="premium-pass-box">
+                    <p class="pass-level">1 LVL</p>
+                    <img src="./images/cash.png" class="item">
+                    <p class="item-name">geld 15.000$</p>
+                    <button id="premium-receive-button" class="premium-pass-box-2">ABHOLEN</button>
+                </div>
+                <div class="premium-pass-box">
+                    <p class="pass-level">1 LVL</p>
+                    <img src="./images/cash.png" class="item">
+                    <p class="item-name">geld 15.000$</p>
+                    <button id="premium-receive-button" class="premium-pass-box-3">ABHOLEN</button>
+                </div>
+                <div class="premium-pass-box">
+                    <p class="pass-level">1 LVL</p>
+                    <img src="./images/cash.png" class="item">
+                    <p class="item-name">geld 15.000$</p>
+                    <button id="premium-receive-button" class="premium-pass-box-4">ABHOLEN</button>
+                </div>
+                <div class="premium-pass-box">
+                    <p class="pass-level">1 LVL</p>
+                    <img src="./images/cash.png" class="item">
+                    <p class="item-name">geld 15.000$</p>
+                    <button id="premium-receive-button" class="premium-pass-box-5">ABHOLEN</button>
+                </div>
+            </div>
+        </div>
+        <div class="bottom-wrapper">
+            <img src="./images/bmw.png" class="bmw">
+            <div class="ldBar level" id="circle-mircle" data-preset="circle", data-stroke="data:ldbar/res,gradient(#ffffff03,#ffffff03,#ffffff03,#4462FE)", style="width:6.5vw;height:6.5vw; transition: .5s;", data-value="100">
+                <p class="level-text">15</p>
+            </div>
+            <p class="level-text-2">3315/600</p>
+            <button id="buy-premium">PREMIUM KAUFEN</button>
+            <p class="bottom-text-1"><i class="fa-solid fa-triangle-exclamation"></i> DAS MUSST DU WISSEN!</p>
+            <p class="bottom-text-2">FSDG ERGEF ERGEFER GREFERGV GREFFSDG ERGEF ERGEFER GREFERGV GREFFSDG ERGEF ERGEFER GREFERGV GREF</p>
+        </div>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+
+</html>

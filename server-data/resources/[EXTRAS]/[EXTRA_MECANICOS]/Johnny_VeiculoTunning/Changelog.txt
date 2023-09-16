@@ -1,0 +1,19 @@
+
+
+
+
+- added getting item labels of all items from the ESX function.
+- added plates to be able to use more vehicles of the same type with the same owner
+- fixed the use of plates with spaces
+- added SQL files
+- added items images
+- added cancel button to be able to cancel the operations instead of only able todo them if choosen.
+- added missing translation into the language file
+
+
+
+
+TODO:
+- integrate T1gerMechanic lift and carjack
+- add suspension, brakes etc to use the vehicle bones of the wheels
+- add engine work to engine vehicle bone

@@ -1,0 +1,31 @@
+Locales['br'] = {
+  ['you_paid'] = 'Pagaste ~g~€%s~s~ para fazer o Teste de Condução',
+  ['go_next_point'] = 'Vá até ao próximo ponto!',
+  ['in_town_speed'] = 'Tu Entras-te na cidade atenção à celocidade! Limite de Velocidade: ~y~%s~s~ km/h',
+  ['next_point_speed'] = 'Vá até o próximo ponto! Limite de Velocidade: ~y~%s~s~ km/h',
+  ['stop_for_ped'] = '~r~Para~s~ para os pedestres ~y~passarem',
+  ['good_lets_cont'] = '~g~Boa~s~, Continua.',
+  ['stop_look_left'] = '~r~Para~s~ e olha para ~y~esquerda~s~. Limite de Velocidade: ~y~%s~s~ km/h',
+  ['good_turn_right'] = '~g~Boa~s~, Vira à direita e segue a linha',
+  ['watch_traffic_lightson'] = 'Observa o trânsito ~y~e liga as luzes~s~!',
+  ['stop_for_passing'] = '~r~Para~s~ para os outros veiculos passarem!',
+  ['hway_time'] = 'é Hora de conduzir na estrada! Limite de Velocidade: ~y~%s~s~ km/h',
+  ['gratz_stay_alert'] = 'Fica ~r~atento~s~ enquanto conduzes!',
+  ['passed_test'] = 'Tu ~g~Passas-te~s~ no teste, Parabéns!',
+  ['failed_test'] = 'Tu ~r~Falhas-te~s~ no teste, Boa sorte para a próxima!',
+  ['theory_test'] = 'Teste Teórico de Condução',
+  ['road_test_car'] = 'Teste de Condução de Ligeiros',
+  ['road_test_bike'] = 'Teste de Condução de Mota',
+  ['road_test_truck'] = 'Teste de Condução de Camião',
+  ['school_item'] = '%s€',
+  ['driving_school'] = 'Escola de Condução',
+  ['press_open_menu'] = 'Pressiona ~INPUT_CONTEXT~ para abrir o menu',
+  ['driving_school_blip'] = 'Escola de Condução',
+  ['driving_test_complete'] = 'Teste de Condução Concluido',
+  ['driving_too_fast'] = '~r~Estás a Conduzir Muito Rápido,~s~ O Limite da Velocidade Atual é: ~y~%s~s~ km/h!',
+  ['errors'] = 'Erros: ~r~%s~s~/%s',
+  ['you_damaged_veh'] = 'Danificas-te o Veiculo', 
+  
+  
+  
+}

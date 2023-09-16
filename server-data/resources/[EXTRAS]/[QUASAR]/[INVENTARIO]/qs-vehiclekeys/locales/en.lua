@@ -1,0 +1,51 @@
+Locales["en"] = {
+    ["VEHICLEKEYS_MENU_TITLE"] = "Key Copy",
+    ["VEHICLEKEYS_MENU_MODEL"] = "Model:",
+    ["VEHICLEKEYS_MENU_PLATE"] = "Plate:",
+
+    ["VEHICLEKEYS_DRAWTEXT_COPYKEYS"] = "[E] - Key Copy",
+    ["VEHICLEKEYS_DRAWTEXT_CHARGE"] = "Charge:",
+
+    ["VEHICLEKEYS_NOTIFICATION_NO_VEHICLES"] = "No vehicles nearby",
+    ["VEHICLEKEYS_NOTIFICATION_NO_KEYS"] = "You don't have the keys for that vehicle",
+    ["VEHICLEKEYS_NOTIFICATION_CHANGE_PLATE"] = "You changed your plate to:",
+    ["VEHICLEKEYS_NOTIFICATION_NO_PLATES"] = "You don't have the keys to this vehicle",
+    ["VEHICLEKEYS_NOTIFICATION_LOCK"] = "You have locked the vehicle",
+    ["VEHICLEKEYS_NOTIFICATION_UNLOCK"] = "You unlocked the vehicle",
+    ["VEHICLEKEYS_NOTIFICATION_NO_MONEY"] = "You don't have enough money",
+    ["VEHICLEKEYS_NOTIFICATION_LOCKPICK_SUCCESS"] = "You have successfully picked the lock",
+    ["VEHICLEKEYS_NOTIFICATION_LOCKPICK_BROKEN"] = "Your pick is broken",
+    ["VEHICLEKEYS_NOTIFICATION_LOCKPICK_FAIL"] = "You were unable to lockpick the vehicle",
+    ["VEHICLEKEYS_NOTIFICATION_TITLE"] = "Vehicle Theft",
+    ["VEHICLEKEYS_NOTIFICATION_POLICE_DISPATCH"] = "I sounded an alarm on:",
+    ["VEHICLEKEYS_NOTIFICATION_ALARM"] = "The vehicle alarm has started to sound",
+    ["VEHICLEKEYS_NOTIFICATION_NO_POLICES"] = "There are not enough police in the city",
+    ["VEHICLEKEYS_NOTIFICATION_CHARGE_NPC_KEYS"] = "The civilian gave you the keys to his vehicle",
+    ["VEHICLEKEYS_NOTIFICATION_CHARGE_NO_VEHICLE"] = "You must be in a vehicle to charge your Smartphone",
+    ["VEHICLEKEYS_NOTIFICATION_CHARGE_NO_KEYS"] = "You don't have the keys for this vehicle",
+    ["VEHICLEKEYS_NOTIFICATION_CHARGE_BATTERY_FULL"] = "The battery is already 100%",
+    ["VEHICLEKEYS_NOTIFICATION_CHARGE_CHARGED"] = "Your phone was charged at:",
+    ["VEHICLEKEYS_NOTIFICATION_CHARGE_NO_PHONE"] = "You don't have a Smartphone to charge",
+
+    ["VEHICLEKEYS_HOTWIRE_STEAL"] = "Stealing keys",
+    ["VEHICLEKEYS_HOTWIRE_TAKING_KEYS"] = "Taking keys",
+    ["VEHICLEKEYS_HOTWIRE"] = "Press H to hotwire",
+
+    ["VEHICLEKEYS_OPEN_PLATE"] = 'Open store',
+    ["VEHICLEKEYS_OPEN_PLATE_TAGET_ICON"] = 'fas fa-clipboard',
+    ["VEHICLEKEYS_MENU_TITLE_PLATE"] = 'Plate Shop',
+    ["VEHICLEKEYS_MENU_BUY_PLATE"] = 'Buy Plate',
+    ["VEHICLEKEYS_MENU_BUY_PLATE_DESCRIPTION"] = 'Buy for : $',
+    ["VEHICLEKEYS_MENU_NO_CHANGER_ITEM"] = 'No lockpick item',
+
+    ["VEHICLEKEYS_LOCKPICK_WHITELIST"] = 'The lock of this car can not be opened',
+
+    ["ADMINCOMMAND_NO_VEHICLE"] = "You are not in a vehicle",
+    ["ADMINCOMMAND_GIVED_VEHICLE"] = "You gave the car keys correctly",
+    ["ADMINCOMMAND_PLAYER"] = "Player",
+    ["ADMINCOMMAND_HELP"] = "Give Vehicle Keys",
+    ["ADMINCOMMAND_COMMAND"] = "givekey",
+    ["ADMINCOMMAND_RANGE"] = "admin",
+    ["ADMINCOMMAND_NO_PLAYER"] = "ID incorrect",
+    
+}

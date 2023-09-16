@@ -1,0 +1,68 @@
+{
+    "486394": {
+        "reason": "Blacklisted Event",
+        "name": "Cremozinnnnnn",
+        "time": "[2023-05-20] 16.58.15",
+        "module": "eventsProtection"
+    },
+    "056985": {
+        "reason": "Blacklisted Entity",
+        "name": "Xico Ma Baby",
+        "time": "[2023-05-22] 14.51.21",
+        "module": "entitiesProtection"
+    },
+    "138107": {
+        "reason": "Give Weapon",
+        "time": "[2023-05-28] 10.26.16",
+        "name": "Joao Sapateiro",
+        "module": "weaponsProtection"
+    },
+    "234379": {
+        "reason": "Give Weapon",
+        "name": "Ceo-MotaJr",
+        "time": "[2023-04-26] 21.27.49",
+        "module": "weaponsProtection"
+    },
+    "045483": {
+        "reason": "Blacklisted Entity",
+        "time": "[2023-05-28] 10.17.04",
+        "name": "AGUIAR",
+        "module": "entitiesProtection"
+    },
+    "008588": {
+        "reason": "Anti Fake Name",
+        "name": "SIMOXXZ",
+        "time": "[2023-05-14] 13.31.26",
+        "module": "eventsProtection"
+    },
+    "826867": {
+        "reason": "Blacklisted Words / Commands",
+        "name": "SNM Blackzz",
+        "time": "[2023-05-26] 16.26.12",
+        "module": "chatProtection"
+    },
+    "067396": {
+        "reason": "Explosions [Blacklist]",
+        "time": "[2023-05-15] 10.51.58",
+        "name": "JP722",
+        "module": "explosionProtection"
+    },
+    "392527": {
+        "reason": "ChocoHax AI",
+        "time": "[2023-05-25] 09.42.55",
+        "name": "POUCAS CONVERSAS",
+        "module": "ChocoHaxAI"
+    },
+    "412106": {
+        "reason": "Blacklisted Words / Commands",
+        "name": "ric",
+        "time": "[2023-05-26] 16.26.32",
+        "module": "chatProtection"
+    },
+    "337585": {
+        "reason": "Remove Weapon",
+        "name": "se me vês diz olá",
+        "time": "[2023-04-25] 17.54.51",
+        "module": "weaponsProtection"
+    }
+}

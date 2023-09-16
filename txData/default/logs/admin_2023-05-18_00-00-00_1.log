@@ -1,0 +1,2306 @@
+
+================================================================
+======== txAdmin Starting - 4/19/2023, 3:45:16 PM               
+================================================================
+[15:46:35][jjesuspt_25] created admins file
+[15:46:40][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[15:47:17][jjesuspt_25] Changing global settings via setup stepper and started Deployer.
+[15:47:53][jjesuspt_25] Setting recipe.
+[15:48:16][jjesuspt_25] Running recipe.
+[15:49:56][jjesuspt_25] Changing global/fxserver settings via setup stepper.
+[15:50:52][jjesuspt_25] executed "STOP SERVER"
+[15:50:58][jjesuspt_25] Changing global settings.
+[15:51:07][jjesuspt_25] Changing fxRunner settings.
+[15:51:15][jjesuspt_25] Changing monitor settings.
+[15:51:48][jjesuspt_25] Changing Player Controller settings.
+[15:52:33][jjesuspt_25] Changing discordBot settings.
+[15:52:42][jjesuspt_25] Changing menu settings.
+[15:53:32][jjesuspt_25] Changing discordBot settings.
+
+================================================================
+======== txAdmin Starting - 4/19/2023, 3:54:53 PM               
+================================================================
+[15:55:10][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[15:55:21][jjesuspt_25] Changing fxRunner settings.
+[15:56:51][jjesuspt_25] Changing monitor settings.
+[16:00:54][jjesuspt_25] Adding admin 'Johnny73PT'.
+[16:02:40][jjesuspt_25] Editing user 'Johnny73PT'.
+[16:02:49][jjesuspt_25] Editing user 'jjesuspt_25'.
+
+================================================================
+======== txAdmin Starting - 4/19/2023, 4:04:49 PM               
+================================================================
+[16:07:02][Johnny73PT] logged in from 2.81.193.181 via citizenfx
+[16:07:26][Johnny73PT] Changing own password.
+[16:12:22][Johnny73PT] Adding admin 'joaolitz'.
+[16:13:02][joaolitz] logged in from 109.48.53.22 via password
+[16:14:13][joaolitz] Changing own password.
+[16:17:58][Johnny73PT] Editing user 'joaolitz'.
+[16:18:33][Johnny73PT] Editing user 'joaolitz'.
+[16:22:13][Johnny73PT] Adding admin 'teixeira'.
+[16:24:54][Johnny73PT] Adding admin 'brunoj'.
+[16:26:21][Johnny73PT] Adding admin 'tesouras'.
+[16:26:40][Johnny73PT] Editing user 'brunoj'.
+[16:28:39][Johnny73PT] Adding admin 'joaolic'.
+[16:29:35][Johnny73PT] Editing user 'joaolic'.
+[16:31:39][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[16:31:45][jjesuspt_25] executed "START SERVER"
+[16:39:50][Johnny73PT] logged in via in-game ui
+[16:49:07][jjesuspt_25] logged in from 94.63.25.175 via citizenfx
+[16:49:07][Johnny73PT] logged in via in-game ui
+[16:49:31][jjesuspt_25] Warned player [2] MO PAZ: pilinha
+[17:14:31][jjesuspt_25] executed "RESTART SERVER"
+[17:16:38][brunoj] logged in from 148.69.11.200 via password
+[17:17:32][brunoj] Changing own password.
+[17:20:51][Johnny73PT] logged in via in-game ui
+[17:28:14][Johnny73PT] logged in via in-game ui
+[17:29:47][jjesuspt_25] executed "RESTART SERVER"
+[17:33:37][Johnny73PT] logged in via in-game ui
+[17:35:45][jjesuspt_25] executed "RESTART SERVER"
+[17:37:04][teixeira] logged in from 85.245.28.160 via password
+[17:37:16][teixeira] Changing own password.
+[17:39:25][Johnny73PT] logged in via in-game ui
+[17:40:28][jjesuspt_25] executed "RESTART SERVER"
+[17:44:04][Johnny73PT] logged in via in-game ui
+[17:46:18][jjesuspt_25] executed "RESTART SERVER"
+[17:49:17][Johnny73PT] logged in via in-game ui
+[17:53:57][jjesuspt_25] executed "RESTART SERVER"
+[17:55:59][Johnny73PT] logged in via in-game ui
+[17:57:00][Johnny73PT] logged in from via NUI iframe
+[18:00:09][jjesuspt_25] executed "RESTART SERVER"
+[18:02:27][Johnny73PT] logged in via in-game ui
+[18:06:25][jjesuspt_25] executed "stop Johnny_Identidade"
+[18:06:27][jjesuspt_25] executed "refresh"
+[18:06:32][jjesuspt_25] executed "ensure esx_identity"
+[18:08:57][Johnny73PT] logged in via in-game ui
+[18:09:46][jjesuspt_25] executed "RESTART SERVER"
+[18:11:56][Johnny73PT] logged in via in-game ui
+[18:13:13][jjesuspt_25] executed "RESTART SERVER"
+[18:15:48][Johnny73PT] logged in via in-game ui
+[18:20:09][jjesuspt_25] executed "RESTART SERVER"
+[18:22:20][Johnny73PT] logged in via in-game ui
+[18:25:48][jjesuspt_25] executed "RESTART SERVER"
+[18:28:10][Johnny73PT] logged in via in-game ui
+[18:30:49][jjesuspt_25] executed "RESTART SERVER"
+[18:36:37][jjesuspt_25] executed "RESTART SERVER"
+[18:38:45][Johnny73PT] logged in via in-game ui
+[18:39:51][jjesuspt_25] executed "RESTART SERVER"
+[18:42:28][Johnny73PT] logged in via in-game ui
+[18:44:49][Johnny73PT] logged in via in-game ui
+[18:45:30][jjesuspt_25] executed "RESTART SERVER"
+[18:47:35][Johnny73PT] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 4/19/2023, 6:48:38 PM               
+================================================================
+[18:48:45][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[18:49:11][jjesuspt_25] executed "START SERVER"
+[18:51:44][Johnny73PT] logged in via in-game ui
+[18:52:27][jjesuspt_25] executed "RESTART SERVER"
+[18:54:44][Johnny73PT] logged in via in-game ui
+[18:59:09][jjesuspt_25] logged in via in-game ui
+[19:00:53][joaolitz] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 4/19/2023, 7:02:07 PM               
+================================================================
+[19:02:20][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[19:02:52][jjesuspt_25] executed "START SERVER"
+[19:45:06][jjesuspt_25] logged in via in-game ui
+[19:45:50][jjesuspt_25] executed "RESTART SERVER"
+[19:48:05][jjesuspt_25] logged in via in-game ui
+[19:48:50][jjesuspt_25] executed "RESTART SERVER"
+[19:50:52][jjesuspt_25] logged in via in-game ui
+[19:54:08][jjesuspt_25] executed "RESTART SERVER"
+[20:00:34][jjesuspt_25] logged in via in-game ui
+[20:01:01][jjesuspt_25] executed "RESTART SERVER"
+[20:03:35][jjesuspt_25] logged in via in-game ui
+[20:03:58][jjesuspt_25] executed "RESTART SERVER"
+[20:06:35][jjesuspt_25] logged in via in-game ui
+[20:06:54][jjesuspt_25] executed "RESTART SERVER"
+[20:36:35][jjesuspt_25] logged in via in-game ui
+[20:37:10][jjesuspt_25] executed "RESTART SERVER"
+[20:43:33][jjesuspt_25] logged in via in-game ui
+[20:45:05][jjesuspt_25] executed "RESTART SERVER"
+[20:48:08][jjesuspt_25] logged in via in-game ui
+[20:48:34][jjesuspt_25] executed "RESTART SERVER"
+[20:51:12][jjesuspt_25] logged in via in-game ui
+[20:51:45][jjesuspt_25] executed "RESTART SERVER"
+[20:53:46][jjesuspt_25] logged in via in-game ui
+[20:54:10][jjesuspt_25] executed "RESTART SERVER"
+[20:58:08][jjesuspt_25] logged in via in-game ui
+[20:58:35][jjesuspt_25] executed "RESTART SERVER"
+[21:03:17][jjesuspt_25] logged in via in-game ui
+[21:03:46][jjesuspt_25] executed "RESTART SERVER"
+[21:05:57][jjesuspt_25] logged in via in-game ui
+[21:06:35][jjesuspt_25] executed "RESTART SERVER"
+[21:09:05][jjesuspt_25] logged in via in-game ui
+[21:10:09][jjesuspt_25] executed "RESTART SERVER"
+[21:12:16][jjesuspt_25] logged in via in-game ui
+[21:14:10][jjesuspt_25] executed "RESTART SERVER"
+[21:16:22][jjesuspt_25] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 4/19/2023, 10:28:01 PM              
+================================================================
+[22:28:16][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[22:28:28][jjesuspt_25] executed "START SERVER"
+[22:34:46][jjesuspt_25] logged in via in-game ui
+[22:51:45][joaolitz] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 4/19/2023, 11:26:01 PM              
+================================================================
+[23:26:06][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[23:26:11][jjesuspt_25] executed "START SERVER"
+[23:29:17][MONITOR] Restarting server (resource "roupasnovas" failed to start within the 90s time limit).
+[23:31:07][MONITOR] Restarting server (resource "roupasnovas" failed to start within the 90s time limit).
+
+================================================================
+======== txAdmin Starting - 4/19/2023, 11:31:59 PM              
+================================================================
+[23:32:08][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[23:32:12][jjesuspt_25] executed "START SERVER"
+
+================================================================
+======== txAdmin Starting - 4/19/2023, 11:34:16 PM              
+================================================================
+[23:34:49][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[23:34:51][jjesuspt_25] executed "START SERVER"
+[23:37:57][jjesuspt_25] logged in via in-game ui
+[00:48:51][jjesuspt_25] executed "ensure Johnny_PackAssaltos"
+[01:00:47][jjesuspt_25] executed "ensure Johnny_PackAssaltos"
+[01:05:37][Johnny73PT] logged in via in-game ui
+[01:10:29][Johnny73PT] logged in via in-game ui
+[01:20:36][jjesuspt_25] executed "ensure fl_spectate"
+[02:10:28][jjesuspt_25] executed "ensure JohnnyPack1"
+[04:07:46][jjesuspt_25] executed "ensure qs-inventory"
+[04:10:05][jjesuspt_25] executed "STOP SERVER"
+[04:10:23][jjesuspt_25] executed "START SERVER"
+[04:14:41][Johnny73PT] logged in via in-game ui
+[04:42:14][jjesuspt_25] executed "RESTART SERVER"
+[04:46:02][Johnny73PT] logged in via in-game ui
+[04:48:59][jjesuspt_25] executed "RESTART SERVER"
+[04:52:43][Johnny73PT] logged in via in-game ui
+[04:53:59][jjesuspt_25] executed "RESTART SERVER"
+[04:56:25][Johnny73PT] logged in via in-game ui
+[04:57:10][jjesuspt_25] executed "RESTART SERVER"
+[05:00:15][Johnny73PT] logged in via in-game ui
+[05:02:22][jjesuspt_25] executed "RESTART SERVER"
+[05:04:33][Johnny73PT] logged in via in-game ui
+[05:05:05][jjesuspt_25] executed "RESTART SERVER"
+[05:05:18][jjesuspt_25] executed "RESTART SERVER"
+[05:07:44][Johnny73PT] logged in via in-game ui
+[05:08:18][jjesuspt_25] executed "STOP SERVER"
+[05:08:51][jjesuspt_25] executed "START SERVER"
+[05:11:40][Johnny73PT] logged in via in-game ui
+[05:15:52][jjesuspt_25] executed "STOP SERVER"
+[05:16:37][jjesuspt_25] executed "START SERVER"
+[05:19:20][Johnny73PT] logged in via in-game ui
+[05:21:46][Johnny73PT] logged in via in-game ui
+[05:26:58][jjesuspt_25] executed "STOP SERVER"
+
+================================================================
+======== txAdmin Starting - 4/20/2023, 5:27:19 AM               
+================================================================
+
+================================================================
+======== txAdmin Starting - 4/20/2023, 4:53:27 PM               
+================================================================
+[16:53:41][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[16:53:46][jjesuspt_25] executed "START SERVER"
+[16:58:32][Johnny73PT] logged in via in-game ui
+[17:00:14][jjesuspt_25] executed "lynx permissions"
+[17:00:20][jjesuspt_25] executed "lynx permissions list"
+[17:01:38][jjesuspt_25] executed "lynx permissions list"
+[17:01:47][jjesuspt_25] executed "lynx permissions create superadmin *"
+[17:02:16][jjesuspt_25] executed "lynx permissions give 1 superadmin"
+[17:02:47][jjesuspt_25] executed "lynx"
+[17:03:09][jjesuspt_25] executed "lynx getids 1"
+[17:03:18][jjesuspt_25] executed "lynx help"
+[17:03:23][jjesuspt_25] executed "lynx help"
+[17:05:00][jjesuspt_25] executed "lynx"
+[17:05:07][jjesuspt_25] executed "lynx permissions adminmenu"
+[17:05:14][jjesuspt_25] executed "lynx permissions give adminmenu"
+[17:05:19][jjesuspt_25] executed "lynx permissions give 1 adminmenu"
+[17:05:27][jjesuspt_25] executed "lynx permissions test"
+[17:05:32][jjesuspt_25] executed "lynx permissions test 1"
+[17:06:56][jjesuspt_25] executed "STOP SERVER"
+
+================================================================
+======== txAdmin Starting - 4/20/2023, 8:36:23 PM               
+================================================================
+[20:36:34][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[20:36:48][jjesuspt_25] executed "START SERVER"
+[20:40:19][jjesuspt_25] logged in via in-game ui
+[20:41:23][jjesuspt_25] executed "help"
+[20:41:32][jjesuspt_25] executed "lynx help"
+[20:41:43][jjesuspt_25] executed "lynx"
+[20:41:54][jjesuspt_25] executed "lynx help"
+[22:23:10][jjesuspt_25] executed "stop "Johnny_PSP""
+[22:23:20][jjesuspt_25] executed "ensure "Johnny_PSP""
+[22:24:26][jjesuspt_25] executed "ensure "Johnny_PSP""
+[22:51:37][teixeira] logged in from 85.245.28.160 via password
+[22:58:50][teixeira] logged in via in-game ui
+[23:12:47][joaolitz] logged in via in-game ui
+[23:17:39][joaolitz] logged in via in-game ui
+[23:39:40][jjesuspt_25] executed "RESTART SERVER"
+[23:43:46][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[23:45:40][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[23:56:20][jjesuspt_25] executed "STOP SERVER"
+[23:56:51][jjesuspt_25] executed "START SERVER"
+[23:59:40][jjesuspt_25] logged in via in-game ui
+[00:00:04][joaolitz] logged in via in-game ui
+[00:01:45][Johnny73PT] logged in via in-game ui
+[00:08:51][jjesuspt_25] executed "lynx"
+[00:10:12][jjesuspt_25] executed "lynx help"
+[00:10:17][jjesuspt_25] executed "lynx permissions"
+[00:10:22][jjesuspt_25] executed "lynx permissions list"
+[00:10:30][jjesuspt_25] executed "lynx permissions"
+[00:10:39][jjesuspt_25] executed "lynx permissions set"
+[00:10:45][jjesuspt_25] executed "lynx permissions give"
+[00:10:51][jjesuspt_25] executed "lynx permissions give steam:1100001470baaf7 superadmin"
+[00:11:06][jjesuspt_25] executed "lynx permissions give 1 superadmin"
+[00:12:52][teixeira] logged in via in-game ui
+[00:13:19][jjesuspt_25] logged in via in-game ui
+[00:30:05][teixeira] logged in via in-game ui
+[01:27:45][joaolitz] logged in via in-game ui
+[02:36:35][joaolitz] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 4/21/2023, 7:28:20 PM               
+================================================================
+[19:28:36][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[19:28:41][jjesuspt_25] executed "START SERVER"
+[19:32:03][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[19:33:03][jjesuspt_25] executed "RESTART SERVER"
+[19:34:55][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[19:39:55][tesouras] logged in via in-game ui
+[19:40:40][jjesuspt_25] logged in via in-game ui
+[19:47:30][teixeira] logged in from 85.245.28.160 via password
+[19:48:14][teixeira] logged in via in-game ui
+[19:55:39][jjesuspt_25] executed "RESTART SERVER"
+[19:57:33][tesouras] logged in via in-game ui
+[19:58:28][teixeira] logged in via in-game ui
+[21:26:21][joaolitz] logged in via in-game ui
+[21:29:48][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[21:30:34][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[21:31:41][jjesuspt_25] logged in via in-game ui
+[21:51:28][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[21:53:40][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[22:09:16][tesouras] logged in via in-game ui
+[22:26:03][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[22:27:28][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[22:28:14][jjesuspt_25] executed "stop "Johnny_PackAssaltos""
+[22:28:19][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[22:30:29][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[22:31:24][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[22:32:17][jjesuspt_25] executed "RESTART SERVER"
+[22:34:22][tesouras] logged in via in-game ui
+[22:42:34][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[22:46:48][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[22:50:36][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[22:51:00][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[23:10:52][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[23:24:32][jjesuspt_25] executed "setgroup 3 superadmin"
+[23:34:53][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[23:35:17][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[23:45:11][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[00:39:39][teixeira] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 4/22/2023, 12:46:43 AM              
+================================================================
+[00:46:52][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[00:46:58][jjesuspt_25] executed "START SERVER"
+[00:50:17][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[00:55:09][teixeira] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 4/22/2023, 1:02:26 AM               
+================================================================
+[01:02:43][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[01:02:49][jjesuspt_25] executed "START SERVER"
+[06:00:31][SCHEDULER] Restarting server (scheduled restart at 06:00).
+[14:32:59][joaolitz] logged in from 109.48.53.22 via password
+[14:39:55][joaolitz] logged in via in-game ui
+[15:00:41][SCHEDULER] Restarting server (scheduled restart at 15:00).
+[15:04:02][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[15:22:28][joaolitz] logged in from 109.48.53.22 via password
+[15:24:28][joaolitz] logged in via in-game ui
+[18:30:18][joaolitz] logged in via in-game ui
+[20:05:05][joaolic] logged in from 85.247.209.82 via password
+[20:05:14][joaolic] Changing own password.
+[20:07:04][joaolitz] logged in via in-game ui
+[20:28:09][teixeira] logged in via in-game ui
+[20:38:02][joaolic] logged in via in-game ui
+[20:53:45][jjesuspt_25] executed "setgroup 4 admin"
+[20:53:57][jjesuspt_25] executed "setgroup 4 mod"
+[20:54:06][jjesuspt_25] executed "setgroup 4 admin"
+[20:55:34][joaolitz] logged in via in-game ui
+[21:01:48][jjesuspt_25] executed "ensure "Johnny_Carros""
+[21:02:10][jjesuspt_25] executed "RESTART SERVER"
+[21:02:52][teixeira] logged in from 85.245.28.160 via password
+[21:05:06][jjesuspt_25] executed "RESTART SERVER"
+[21:13:49][joaolitz] logged in via in-game ui
+[21:23:48][jjesuspt_25] executed "setgroup 1 admin"
+[21:23:48][teixeira] logged in via in-game ui
+[21:33:11][joaolitz] logged in via in-game ui
+[21:52:44][teixeira] logged in via in-game ui
+[21:53:57][joaolic] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 4/22/2023, 10:25:39 PM              
+================================================================
+[22:26:45][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[22:31:01][jjesuspt_25] executed "START SERVER"
+[22:38:12][jjesuspt_25] logged in via in-game ui
+[22:43:14][joaolic] logged in via in-game ui
+[22:52:40][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[00:50:31][joaolitz] logged in from 109.48.53.22 via password
+[00:54:01][joaolitz] logged in via in-game ui
+[01:25:24][joaolic] logged in via in-game ui
+[02:23:52][joaolic] logged in via in-game ui
+[06:00:47][SCHEDULER] Restarting server (scheduled restart at 06:00).
+[06:04:39][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[10:44:59][jjesuspt_25] logged in via in-game ui
+[10:50:29][jjesuspt_25] executed "RESTART SERVER"
+[10:52:29][jjesuspt_25] logged in via in-game ui
+[10:54:51][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[10:56:16][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[11:05:06][jjesuspt_25] executed "RESTART SERVER"
+[11:08:08][jjesuspt_25] logged in via in-game ui
+[11:18:59][jjesuspt_25] executed "ensure "LuxuAdmin""
+[11:20:41][jjesuspt_25] executed "ensure "LuxuAdmin""
+[11:23:14][jjesuspt_25] executed "RESTART SERVER"
+[11:25:19][jjesuspt_25] logged in via in-game ui
+[11:28:36][jjesuspt_25] executed "RESTART SERVER"
+[11:28:57][jjesuspt_25] executed "RESTART SERVER"
+[11:32:31][jjesuspt_25] executed "RESTART SERVER"
+[11:33:27][jjesuspt_25] executed "RESTART SERVER"
+[11:41:25][jjesuspt_25] executed "setgroup 1 superadmin"
+[11:49:17][joaolic] logged in via in-game ui
+[12:04:05][jjesuspt_25] executed "ensure "Johnny_Motel""
+[12:05:47][jjesuspt_25] executed "RESTART SERVER"
+[12:09:31][joaolic] logged in via in-game ui
+[13:04:38][jjesuspt_25] logged in via in-game ui
+[13:20:09][joaolic] logged in via in-game ui
+[13:23:06][joaolic] logged in via in-game ui
+[13:46:04][jjesuspt_25] executed "RESTART SERVER"
+[13:47:18][jjesuspt_25] executed "RESTART SERVER"
+[13:51:39][joaolic] logged in via in-game ui
+[14:11:36][jjesuspt_25] executed "RESTART SERVER"
+[14:13:57][joaolic] logged in via in-game ui
+[14:21:36][jjesuspt_25] logged in via in-game ui
+[14:22:22][jjesuspt_25] executed "ensure "Johnny_Hud""
+[14:57:03][jjesuspt_25] executed "RESTART SERVER"
+[15:00:17][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[15:00:59][SCHEDULER] Restarting server (scheduled restart at 15:00).
+
+================================================================
+======== txAdmin Starting - 4/23/2023, 3:52:49 PM               
+================================================================
+[15:53:01][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[15:53:03][jjesuspt_25] executed "START SERVER"
+[15:56:29][jjesuspt_25] logged in via in-game ui
+[15:57:28][jjesuspt_25] Changing monitor settings.
+[16:01:01][joaolic] logged in via in-game ui
+[16:11:50][jjesuspt_25] executed "ensure "nation_bennys""
+[16:15:23][jjesuspt_25] executed "ensure "nation_bennys""
+[16:30:57][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:32:02][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:33:26][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:33:36][jjesuspt_25] executed "ensure "Johnny_AlertasPolicia""
+[16:33:40][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:37:27][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:39:12][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:39:53][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:40:24][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:41:46][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:42:49][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:44:34][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:50:00][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:51:50][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:52:33][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:52:55][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:53:33][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:54:28][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:54:57][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:55:34][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:57:48][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:58:33][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:59:10][jjesuspt_25] executed "ensure "Johnny_PSP""
+[16:59:40][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:02:37][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:03:23][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:04:03][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:04:54][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:05:20][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:08:36][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:08:50][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:10:07][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:10:48][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:11:11][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:12:07][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:12:51][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:15:00][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:17:50][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:18:48][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:22:54][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:25:24][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:28:23][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:28:50][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:35:21][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:36:14][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:36:47][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:37:25][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:39:44][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:41:41][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:50:32][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:54:59][jjesuspt_25] executed "ensure "Johnny_PSP""
+[17:55:11][jjesuspt_25] executed "ensure "Johnny_PSP""
+[18:08:14][jjesuspt_25] executed "ensure "Johnny_PSP""
+[18:10:10][jjesuspt_25] executed "ensure "Johnny_PSP""
+[18:11:20][jjesuspt_25] executed "ensure "Johnny_PSP""
+[18:20:49][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[18:24:03][jjesuspt_25] executed "ensure "Johnny_PackAssaltos""
+[18:25:34][jjesuspt_25] executed "ensure "Johnny_INEM""
+[18:26:24][jjesuspt_25] executed "ensure "Johnny_INEM""
+[18:28:03][jjesuspt_25] executed "ensure "Johnny_INEM""
+[18:30:58][jjesuspt_25] executed "ensure "Johnny_INEM""
+[18:32:09][teixeira] logged in via in-game ui
+[18:33:17][joaolic] logged in via in-game ui
+[18:41:29][jjesuspt_25] executed "ensure "Johnny_PackEmpregos""
+[18:44:08][jjesuspt_25] executed "ensure "Johnny_PackEmpregos""
+[18:45:14][jjesuspt_25] executed "ensure "Johnny_PackEmpregos""
+[18:45:37][jjesuspt_25] executed "ensure "Johnny_PackEmpregos""
+[18:45:53][jjesuspt_25] executed "ensure "Johnny_PackEmpregos""
+[18:50:02][jjesuspt_25] executed "ensure "qs-garages""
+
+================================================================
+======== txAdmin Starting - 4/23/2023, 7:00:13 PM               
+================================================================
+[19:00:21][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[19:00:28][jjesuspt_25] executed "START SERVER"
+[19:03:24][joaolic] logged in via in-game ui
+[19:03:37][teixeira] logged in via in-game ui
+[19:03:48][jjesuspt_25] logged in via in-game ui
+[19:04:01][joaolitz] logged in via in-game ui
+[19:04:03][tesouras] logged in via in-game ui
+[19:09:43][joaolic] logged in via in-game ui
+[19:09:53][joaolitz] logged in via in-game ui
+[19:14:51][jjesuspt_25] executed "ensure "Johnny_Reports""
+[19:15:43][jjesuspt_25] logged in via in-game ui
+[19:19:39][jjesuspt_25] executed "ensure "Johnny_Reports""
+[19:21:14][jjesuspt_25] logged in via in-game ui
+[19:23:54][jjesuspt_25] logged in via in-game ui
+[19:26:32][jjesuspt_25] executed "ensure "Johnny_Reports""
+[19:50:45][joaolic] logged in via in-game ui
+[19:53:50][jjesuspt_25] logged in via in-game ui
+[19:54:30][jjesuspt_25] executed "ensure "Johnny_Reports""
+[20:18:32][jjesuspt_25] executed "ensure "Johnny_PackEmpregos""
+[20:19:10][jjesuspt_25] executed "ensure "Johnny_Gangs""
+[20:28:49][joaolitz] logged in via in-game ui
+[20:35:48][tesouras] logged in via in-game ui
+[20:43:42][tesouras] logged in via in-game ui
+[20:56:31][jjesuspt_25] executed "ensure "Johnny_Reports""
+[21:29:47][jjesuspt_25] executed "ensure "Johnny_Reports""
+[22:00:07][jjesuspt_25] executed "ensure "Johnny_PackEmpregos""
+[22:00:12][jjesuspt_25] executed "ensure "Johnny_Reports""
+[22:07:21][jjesuspt_25] Kicked #What? Não era o Artur: no reason provided
+[22:14:40][jjesuspt_25] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 4/23/2023, 11:24:24 PM              
+================================================================
+[23:24:46][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[23:25:19][jjesuspt_25] executed "START SERVER"
+[23:27:15][jjesuspt_25] executed "RESTART SERVER"
+[23:32:29][jjesuspt_25] executed "RESTART SERVER"
+[23:33:43][jjesuspt_25] executed "RESTART SERVER"
+[23:36:02][jjesuspt_25] executed "lynx create group max *"
+[23:36:13][jjesuspt_25] executed "lynx permissions create group max *"
+[23:36:32][jjesuspt_25] executed "RESTART SERVER"
+[23:58:25][jjesuspt_25] logged in via in-game ui
+[23:59:36][jjesuspt_25] logged in via in-game ui
+[00:03:10][jjesuspt_25] Kicked #kikogc0414: no reason provided
+[00:03:13][jjesuspt_25] Kicked #Majorex2597: no reason provided
+[00:03:16][jjesuspt_25] Kicked #pinto: no reason provided
+[00:04:37][joaolitz] logged in via in-game ui
+[00:06:29][jjesuspt_25] Kicked #Desmembrados Facil: no reason provided
+[00:06:34][jjesuspt_25] Kicked #kikogc0414: no reason provided
+[00:06:37][jjesuspt_25] Kicked #Majorex2597: no reason provided
+[00:06:42][jjesuspt_25] logged in via in-game ui
+[00:10:17][jjesuspt_25] executed "ensure "Johnny_Reports""
+[00:11:29][jjesuspt_25] executed "ensure "Johnny_Reports""
+[00:13:16][jjesuspt_25] executed "stop "Johnny_Reports""
+[00:13:41][jjesuspt_25] executed "ensure "Johnny_Reports""
+[00:13:44][jjesuspt_25] executed "RESTART SERVER"
+[00:16:03][jjesuspt_25] logged in via in-game ui
+[00:17:12][joaolitz] logged in via in-game ui
+[00:17:20][jjesuspt_25] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 4/24/2023, 12:19:03 AM              
+================================================================
+[00:19:14][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[00:19:17][jjesuspt_25] executed "START SERVER"
+[00:21:41][jjesuspt_25] executed "ensure "esx_afk""
+[00:22:19][tesouras] logged in via in-game ui
+[00:22:39][jjesuspt_25] logged in via in-game ui
+[00:22:44][joaolitz] logged in via in-game ui
+[00:26:40][teixeira] logged in via in-game ui
+[00:39:51][jjesuspt_25] logged in via in-game ui
+[00:50:11][jjesuspt_25] executed "lynx permissions give 34"
+[00:50:27][jjesuspt_25] executed "lynx permissions give steam:1100001470baaf7"
+[00:50:52][jjesuspt_25] executed "lynx permissions give steam:1100001470baaf7"
+[00:51:03][jjesuspt_25] executed "lynx permissions give steam:1100001470baaf7"
+[00:59:28][jjesuspt_25] executed "lynx permissions give 34 superadmin"
+[00:59:48][jjesuspt_25] executed "lynx permissions give max 34"
+[01:00:00][jjesuspt_25] executed "lynx permissions give 34 max"
+[01:00:45][jjesuspt_25] executed "lynx permissions give 2 max"
+[01:01:01][jjesuspt_25] executed "lynx permissions give 34 max"
+[01:01:15][jjesuspt_25] executed "lynx permissions give 34 max*"
+[01:01:20][jjesuspt_25] executed "lynx permissions give 34 max *"
+[01:01:39][jjesuspt_25] executed "lynx permissions give steam:1100001470baaf7 max"
+[01:03:27][jjesuspt_25] executed "lynx permissions give 34 max"
+[01:05:02][jjesuspt_25] executed "lynx permissions give 34 superadmin"
+[01:05:10][jjesuspt_25] executed "lynx create group max *"
+[01:05:15][jjesuspt_25] executed "lynx create group max"
+[01:05:29][jjesuspt_25] executed "lynx permissions create group super"
+[01:05:40][jjesuspt_25] executed "lynx permissions create super"
+[01:05:51][jjesuspt_25] executed "lynx permissions give 34 group max"
+[01:06:01][joaolic] logged in via in-game ui
+[01:06:05][jjesuspt_25] executed "lynx permissions give 2 group max"
+[01:08:48][jjesuspt_25] executed "lynx permissions give 34 group max"
+[01:08:55][jjesuspt_25] executed "lynx permissions give 34 max"
+[01:10:17][teixeira] logged in via in-game ui
+[02:23:21][joaolitz] logged in via in-game ui
+[02:58:11][teixeira] logged in via in-game ui
+[04:27:10][teixeira] logged in via in-game ui
+[05:00:09][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[10:56:14][joaolic] logged in via in-game ui
+[12:00:19][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:04:55][joaolic] logged in via in-game ui
+[12:09:12][joaolic] logged in via in-game ui
+[12:47:02][tesouras] logged in via in-game ui
+[12:58:25][tesouras] logged in via in-game ui
+[14:04:23][tesouras] logged in via in-game ui
+[14:18:02][joaolitz] logged in via in-game ui
+[14:18:49][joaolic] logged in via in-game ui
+[15:01:13][joaolitz] logged in via in-game ui
+[15:12:20][jjesuspt_25] executed "restart esx_afk"
+[15:21:38][jjesuspt_25] executed "restart esx_afk"
+[15:22:48][joaolitz] logged in via in-game ui
+[15:31:01][jjesuspt_25] executed "restart esx_afk"
+[15:35:44][jjesuspt_25] executed "kick 117 Foste kickado por AFK"
+[15:36:03][jjesuspt_25] executed "kick 117 Foste_kickado_por_AFK"
+[15:55:49][tesouras] logged in via in-game ui
+[15:59:31][joaolic] logged in via in-game ui
+[16:00:00][jjesuspt_25] executed "givebattlepass 131"
+[16:00:14][jjesuspt_25] executed "givebattlepass 131"
+[16:00:18][jjesuspt_25] executed "givebattlepass"
+[16:23:25][Johnny73PT] logged in via in-game ui
+[16:47:35][joaolitz] logged in via in-game ui
+[17:24:39][joaolic] logged in via in-game ui
+[18:21:28][joaolitz] logged in via in-game ui
+[18:36:22][joaolic] logged in via in-game ui
+[18:51:06][teixeira] logged in via in-game ui
+[19:00:29][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[19:06:37][teixeira] logged in via in-game ui
+[19:11:50][joaolitz] logged in via in-game ui
+[19:41:40][joaolic] logged in via in-game ui
+[19:45:20][tesouras] logged in via in-game ui
+[20:00:13][jjesuspt_25] executed "restart esx_afk"
+[20:12:43][joaolitz] logged in via in-game ui
+[20:22:21][jjesuspt_25] executed "restart esx_afk"
+[20:22:58][jjesuspt_25] executed "restart esx_afk"
+[20:33:21][joaolic] logged in via in-game ui
+[20:34:44][jjesuspt_25] logged in via in-game ui
+[20:47:54][jjesuspt_25] executed "ensure "qs-garages""
+[20:49:24][jjesuspt_25] executed "ensure "qs-garages""
+[20:53:24][jjesuspt_25] executed "ensure "qs-garages""
+[20:53:29][jjesuspt_25] executed "ensure "esx_afk""
+[21:11:54][joaolitz] logged in via in-game ui
+[21:38:46][joaolitz] logged in via in-game ui
+[21:39:58][jjesuspt_25] Sending announcement: RR as 22
+[21:40:10][jjesuspt_25] Sending announcement: RR as 22!
+[21:53:02][jjesuspt_25] Sending announcement: RR AS 22!
+[21:53:04][jjesuspt_25] Sending announcement: RR AS 22!
+[21:59:26][jjesuspt_25] Sending announcement: RR SAIAM!!
+[21:59:49][jjesuspt_25] executed "txaKickAll "txAdmin Web Panel""
+[21:59:52][jjesuspt_25] executed "STOP SERVER"
+
+================================================================
+======== txAdmin Starting - 4/24/2023, 10:01:09 PM              
+================================================================
+[22:01:35][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[22:01:38][jjesuspt_25] executed "START SERVER"
+[22:02:36][joaolic] logged in from 85.247.209.82 via password
+[22:03:13][joaolic] logged in from 85.247.209.82 via password
+[22:04:03][jjesuspt_25] executed "restart esx_afk"
+[22:04:43][jjesuspt_25] Kicked #He,blow.me»»»»: ainda_nao
+[22:05:18][tesouras] logged in via in-game ui
+[22:05:43][joaolic] logged in via in-game ui
+[22:06:11][jjesuspt_25] executed "ensure "Johnny_Roupas""
+
+================================================================
+======== txAdmin Starting - 4/24/2023, 10:13:53 PM              
+================================================================
+[22:14:03][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[22:14:07][jjesuspt_25] executed "START SERVER"
+[22:15:43][jjesuspt_25] executed "restart esx_afk"
+[22:16:20][tesouras] logged in via in-game ui
+[22:16:43][joaolic] logged in via in-game ui
+[22:17:31][jjesuspt_25] executed "RESTART SERVER"
+[22:19:23][tesouras] logged in via in-game ui
+[22:22:02][teixeira] logged in via in-game ui
+[22:22:15][joaolitz] logged in via in-game ui
+[22:23:05][joaolic] logged in via in-game ui
+[22:47:51][jjesuspt_25] logged in via in-game ui
+[00:25:53][tesouras] logged in via in-game ui
+[00:53:09][jjesuspt_25] executed "ensure Johnny_Reports"
+[00:53:26][jjesuspt_25] executed "lynx enable"
+[00:54:35][jjesuspt_25] executed "lynx ban"
+[00:54:40][jjesuspt_25] executed "lynx unban"
+[00:54:44][jjesuspt_25] executed "lynx unban joão"
+[00:54:51][jjesuspt_25] executed "lynx unban JoãoLitz"
+[00:55:03][jjesuspt_25] executed "lynx unban Fiury"
+[00:55:06][jjesuspt_25] executed "lynx"
+[00:55:15][jjesuspt_25] executed "lynx unban"
+[01:00:50][joaolic] logged in via in-game ui
+[01:17:18][jjesuspt_25] executed "ensure Johnny_Reports"
+[01:17:21][jjesuspt_25] executed "lynx enable"
+[01:24:06][joaolic] logged in via in-game ui
+[01:25:20][jjesuspt_25] executed "ensure Johnny_Reports"
+[01:25:22][jjesuspt_25] executed "lynx enable"
+[01:27:12][joaolic] logged in via in-game ui
+[01:28:12][jjesuspt_25] executed "ensure Johnny_Spectate"
+[01:28:15][jjesuspt_25] executed "lynx enable"
+[01:28:51][joaolic] logged in via in-game ui
+[01:30:44][joaolic] logged in via in-game ui
+[01:32:55][joaolic] logged in via in-game ui
+[01:50:27][Johnny73PT] logged in via in-game ui
+[02:09:18][joaolic] logged in via in-game ui
+[02:16:05][jjesuspt_25] executed "ensure Johnny_INEM"
+[02:16:07][jjesuspt_25] executed "lynx enable"
+[02:28:59][jjesuspt_25] executed "ensure Johnny_INEM"
+[02:29:00][jjesuspt_25] executed "lynx enable"
+[02:37:39][jjesuspt_25] executed "ensure Johnny_RadarPolicia"
+[02:37:40][jjesuspt_25] executed "lynx enable"
+[03:43:32][jjesuspt_25] executed "lynx enable"
+[05:00:03][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[09:51:52][joaolic] logged in via in-game ui
+[11:16:40][joaolic] logged in via in-game ui
+[11:49:59][joaolic] logged in via in-game ui
+[12:00:11][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:17:45][joaolic] logged in via in-game ui
+[16:26:58][joaolitz] logged in via in-game ui
+[16:28:52][jjesuspt_25] Scheduling server restart at 16:35
+[16:35:17][SCHEDULER] Restarting server (scheduled restart at 16:35).
+[16:37:50][joaolitz] logged in via in-game ui
+[16:48:14][joaolitz] logged in via in-game ui
+[17:04:15][teixeira] logged in via in-game ui
+[18:34:47][jjesuspt_25] logged in via in-game ui
+[19:00:20][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[19:03:04][jjesuspt_25] executed "lynx unban loway"
+[19:03:16][jjesuspt_25] executed "lynx unban Lowayy"
+[19:03:54][jjesuspt_25] executed "lynx unban 393226"
+[19:05:27][jjesuspt_25] logged in via in-game ui
+[19:05:39][teixeira] logged in via in-game ui
+[19:42:24][joaolitz] logged in via in-game ui
+[19:52:06][joaolitz] logged in via in-game ui
+[19:53:58][jjesuspt_25] logged in via in-game ui
+[19:56:32][teixeira] logged in via in-game ui
+[20:07:53][joaolitz] logged in via in-game ui
+[20:12:07][tesouras] logged in via in-game ui
+[20:20:13][jjesuspt_25] executed "refresh"
+[20:20:28][jjesuspt_25] executed "ensure Johnny_PSP"
+[20:23:13][jjesuspt_25] executed "ensure Johnny_PSP"
+[20:23:53][jjesuspt_25] executed "ensure Johnny_PSP"
+[20:24:26][jjesuspt_25] executed "ensure Johnny_PSP"
+[20:24:47][jjesuspt_25] executed "ensure Johnny_PSP"
+[20:28:31][jjesuspt_25] executed "ensure Johnny_PSP"
+[20:28:54][jjesuspt_25] executed "ensure Johnny_PSP"
+[20:30:05][joaolitz] logged in via in-game ui
+[20:35:01][joaolitz] logged in via in-game ui
+[21:00:41][jjesuspt_25] executed "ensure "qs-garages""
+[21:00:47][jjesuspt_25] executed "ensure "esx_afk""
+[21:06:38][tesouras] logged in via in-game ui
+[21:17:10][jjesuspt_25] logged in via in-game ui
+[21:38:23][jjesuspt_25] executed "ensure "esx_afk""
+[21:39:00][jjesuspt_25] executed "ensure "esx_afk""
+[21:44:18][jjesuspt_25] executed "ensure "Johnny_Reports""
+[21:44:26][jjesuspt_25] executed "ensure "esx_afk""
+[21:53:32][jjesuspt_25] executed "stop "esx_afk""
+[21:58:23][jjesuspt_25] executed "ensure "esx_afk""
+[22:07:51][joaolic] logged in via in-game ui
+[22:47:29][joaolic] logged in from 85.247.209.82 via password
+[23:26:09][jjesuspt_25] logged in from 94.63.25.175 via citizenfx
+[23:26:09][tesouras] logged in via in-game ui
+[23:26:09][joaolic] logged in via in-game ui
+[23:26:15][jjesuspt_25] executed "ensure "Johnny_PackEmpregos""
+[23:27:41][jjesuspt_25] executed "lynx enable"
+[23:29:28][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[23:29:28][tesouras] logged in via in-game ui
+[23:29:28][joaolic] logged in via in-game ui
+[23:29:29][jjesuspt_25] executed "ensure "Johnny_PackEmpregos""
+[23:29:47][jjesuspt_25] executed "lynx enable"
+[23:30:22][jjesuspt_25] executed "ensure "Johnny_PackEmpregos""
+[23:31:20][jjesuspt_25] executed "lynx enable"
+[00:03:56][joaolitz] logged in via in-game ui
+[01:06:48][jjesuspt_25] Banned <steam:110000146aa9f8c>: javardar
+[01:28:57][jjesuspt_25] logged in via in-game ui
+[01:48:12][jjesuspt_25] Warned player [234] doodllez_TTV: LAMBE ME A PILINHA :)
+[02:31:39][joaolitz] logged in via in-game ui
+[05:00:35][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:03:53][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[10:25:55][jjesuspt_25] logged in via in-game ui
+[10:27:23][jjesuspt_25] executed "ensure "Johnny_Reports""
+[10:27:43][jjesuspt_25] executed "lynx enable"
+[10:33:54][jjesuspt_25] executed "ensure "Johnny_Coords""
+[10:34:12][jjesuspt_25] executed "ensure "Johnny_Mapper""
+
+================================================================
+======== txAdmin Starting - 4/26/2023, 10:36:48 AM              
+================================================================
+[10:37:49][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[10:38:22][jjesuspt_25] executed "START SERVER"
+[10:42:03][jjesuspt_25] executed "STOP SERVER"
+
+================================================================
+======== txAdmin Starting - 4/26/2023, 10:52:35 AM              
+================================================================
+[10:52:52][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[10:52:54][jjesuspt_25] executed "START SERVER"
+[10:55:00][jjesuspt_25] executed "ensure "esx_afk""
+[10:56:44][jjesuspt_25] logged in via in-game ui
+[11:13:12][jjesuspt_25] logged in via in-game ui
+[11:15:09][jjesuspt_25] executed "ensure "JohnnyPack1""
+[11:15:27][jjesuspt_25] executed "lynx enable"
+
+================================================================
+======== txAdmin Starting - 4/26/2023, 11:19:30 AM              
+================================================================
+[11:20:45][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[11:20:47][jjesuspt_25] executed "START SERVER"
+[11:22:28][jjesuspt_25] executed "lynx enable"
+[11:24:48][jjesuspt_25] logged in via in-game ui
+[11:25:39][jjesuspt_25] executed "RESTART SERVER"
+[11:27:26][jjesuspt_25] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 4/26/2023, 11:27:47 AM              
+================================================================
+[11:27:53][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[11:28:04][jjesuspt_25] executed "START SERVER"
+[11:31:01][jjesuspt_25] executed "lynx enable"
+[11:31:37][jjesuspt_25] executed "STOP SERVER"
+
+================================================================
+======== txAdmin Starting - 4/26/2023, 11:32:41 AM              
+================================================================
+
+================================================================
+======== txAdmin Starting - 4/26/2023, 11:33:37 AM              
+================================================================
+[11:33:46][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[11:33:48][jjesuspt_25] executed "START SERVER"
+[11:36:16][jjesuspt_25] executed "lynx enable"
+
+================================================================
+======== txAdmin Starting - 4/26/2023, 11:41:38 AM              
+================================================================
+[11:41:52][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[11:41:54][jjesuspt_25] executed "START SERVER"
+[11:44:06][jjesuspt_25] logged in via in-game ui
+[11:45:40][jjesuspt_25] executed "ensure "Johnny_Reports""
+[11:46:20][jjesuspt_25] executed "RESTART SERVER"
+[11:48:35][jjesuspt_25] logged in via in-game ui
+[11:49:23][jjesuspt_25] executed "stop "esx_afk""
+
+================================================================
+======== txAdmin Starting - 4/26/2023, 11:51:58 AM              
+================================================================
+[11:52:21][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[11:52:30][jjesuspt_25] executed "START SERVER"
+[11:54:02][jjesuspt_25] logged in via in-game ui
+[11:57:17][joaolic] logged in via in-game ui
+[12:00:58][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:37:54][joaolic] logged in via in-game ui
+[12:42:35][jjesuspt_25] executed "lynx enable"
+[12:42:39][jjesuspt_25] executed "lynx enable"
+[12:45:20][joaolic] logged in via in-game ui
+[13:35:08][joaolitz] logged in via in-game ui
+[13:49:22][joaolitz] logged in via in-game ui
+[14:32:59][joaolitz] logged in via in-game ui
+[15:32:27][joaolic] logged in via in-game ui
+[15:41:13][Johnny73PT] logged in via in-game ui
+[16:12:00][joaolitz] logged in via in-game ui
+[16:31:26][joaolitz] logged in via in-game ui
+[17:39:39][jjesuspt_25] executed "lynx unban 109857"
+[17:42:35][joaolic] logged in via in-game ui
+[19:00:07][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[19:25:03][joaolic] logged in via in-game ui
+[19:25:57][joaolic] logged in from 85.247.209.82 via password
+[19:47:54][teixeira] logged in via in-game ui
+[20:04:20][joaolitz] logged in via in-game ui
+[20:27:41][tesouras] logged in via in-game ui
+[21:01:56][joaolitz] logged in via in-game ui
+[21:09:14][joaolitz] logged in via in-game ui
+[22:05:50][teixeira] logged in via in-game ui
+[22:19:59][joaolitz] logged in via in-game ui
+[22:39:23][jjesuspt_25] logged in via in-game ui
+[22:48:39][jjesuspt_25] logged in via in-game ui
+[23:10:06][joaolic] logged in via in-game ui
+[00:08:10][jjesuspt_25] executed "lynx enable"
+[00:08:12][jjesuspt_25] executed "lynx enable"
+[00:08:26][joaolic] logged in via in-game ui
+[00:55:15][joaolitz] logged in via in-game ui
+[02:35:31][joaolitz] logged in via in-game ui
+[02:37:48][joaolitz] logged in from via NUI iframe
+[02:43:05][joaolic] logged in via in-game ui
+[03:42:18][joaolitz] logged in via in-game ui
+[03:43:55][joaolitz] logged in via in-game ui
+[05:00:22][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:03:36][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[12:00:31][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[13:29:07][joaolic] logged in via in-game ui
+[13:42:49][joaolitz] logged in via in-game ui
+[14:23:30][joaolitz] logged in via in-game ui
+[14:42:19][joaolitz] logged in via in-game ui
+[17:17:08][teixeira] logged in via in-game ui
+[17:25:52][joaolitz] logged in via in-game ui
+[19:00:40][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[19:04:57][tesouras] logged in via in-game ui
+[19:41:32][teixeira] logged in via in-game ui
+[20:47:22][joaolitz] logged in via in-game ui
+[20:54:43][joaolitz] logged in via in-game ui
+[21:29:47][tesouras] logged in via in-game ui
+[23:33:52][tesouras] logged in via in-game ui
+[00:01:15][jjesuspt_25] logged in via in-game ui
+[00:50:55][teixeira] logged in via in-game ui
+[01:04:04][teixeira] logged in via in-game ui
+[02:03:11][joaolic] logged in via in-game ui
+[03:01:50][teixeira] logged in via in-game ui
+[03:33:43][teixeira] logged in via in-game ui
+[05:00:55][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:03:59][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[09:12:21][jjesuspt_25] logged in via in-game ui
+[09:15:22][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[09:15:22][jjesuspt_25] logged in via in-game ui
+[09:15:31][jjesuspt_25] executed "ensure "qs-garages""
+[09:16:45][jjesuspt_25] executed "ensure "qs-garages""
+[09:18:09][jjesuspt_25] executed "RESTART SERVER"
+[09:22:01][jjesuspt_25] logged in via in-game ui
+[09:22:51][jjesuspt_25] executed "ensure "esx_afk""
+[09:23:10][jjesuspt_25] executed "lynx enable"
+[09:23:11][jjesuspt_25] executed "lynx enable"
+[09:24:32][jjesuspt_25] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 4/28/2023, 9:30:46 AM               
+================================================================
+[09:31:09][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[09:31:15][jjesuspt_25] executed "START SERVER"
+[09:33:21][jjesuspt_25] logged in via in-game ui
+[09:40:27][jjesuspt_25] logged in via in-game ui
+[09:49:19][jjesuspt_25] executed "ensure "qs-core""
+[09:49:56][jjesuspt_25] executed "RESTART SERVER"
+[09:51:49][jjesuspt_25] logged in via in-game ui
+[09:56:20][jjesuspt_25] executed "ensure "qs-vehiclekeys""
+[09:57:23][jjesuspt_25] executed "ensure "qs-vehiclekeys""
+[10:10:13][jjesuspt_25] executed "RESTART SERVER"
+[10:12:13][jjesuspt_25] logged in via in-game ui
+[10:23:30][tesouras] logged in via in-game ui
+[10:44:27][jjesuspt_25] executed "txaKickAll "txAdmin Web Panel""
+[10:44:29][jjesuspt_25] executed "RESTART SERVER"
+[10:44:43][jjesuspt_25] executed "RESTART SERVER"
+[10:52:21][jjesuspt_25] logged in via in-game ui
+[10:57:27][tesouras] logged in via in-game ui
+[11:50:59][joaolic] logged in via in-game ui
+[12:00:48][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:19:58][jjesuspt_25] logged in via in-game ui
+[12:47:52][tesouras] logged in via in-game ui
+[13:25:24][jjesuspt_25] logged in via in-game ui
+[14:05:13][tesouras] logged in via in-game ui
+[14:06:42][joaolic] logged in via in-game ui
+[15:24:53][joaolic] logged in via in-game ui
+[16:16:31][jjesuspt_25] executed "giveaccountmoney 64 bank 1000000"
+[16:16:43][jjesuspt_25] executed "giveaccountmoney 64 bank 900000"
+[17:15:47][teixeira] logged in via in-game ui
+[17:15:51][jjesuspt_25] logged in via in-game ui
+[17:51:08][joaolitz] logged in via in-game ui
+[19:00:58][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[19:03:26][teixeira] logged in via in-game ui
+[19:03:41][joaolic] logged in via in-game ui
+[19:06:27][joaolitz] logged in via in-game ui
+[19:24:03][joaolic] logged in via in-game ui
+[19:59:08][tesouras] logged in via in-game ui
+[21:18:53][teixeira] logged in via in-game ui
+[23:17:36][joaolitz] logged in via in-game ui
+[23:34:25][joaolic] logged in via in-game ui
+[23:55:06][jjesuspt_25] executed "ensure "qs-crafting""
+[23:57:29][jjesuspt_25] executed "ensure "qs-crafting""
+[23:58:14][jjesuspt_25] executed "ensure "qs-crafting""
+[23:58:42][jjesuspt_25] executed "lynx enable"
+[00:16:16][jjesuspt_25] executed "ensure "qs-crafting""
+[00:16:27][jjesuspt_25] executed "lynx enable"
+[00:24:00][jjesuspt_25] logged in via in-game ui
+[00:40:42][jjesuspt_25] logged in via in-game ui
+[01:39:11][joaolitz] logged in via in-game ui
+[05:00:13][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:03:51][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[12:00:21][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:17:07][tesouras] logged in via in-game ui
+[12:27:41][tesouras] logged in via in-game ui
+[12:35:44][tesouras] logged in via in-game ui
+[14:00:00][tesouras] logged in via in-game ui
+[15:00:03][joaolitz] logged in via in-game ui
+[15:43:47][tesouras] logged in via in-game ui
+[16:29:33][teixeira] logged in via in-game ui
+[18:04:03][teixeira] logged in via in-game ui
+[18:23:55][joaolic] logged in via in-game ui
+[18:31:29][joaolitz] logged in via in-game ui
+[18:32:56][tesouras] logged in via in-game ui
+[18:35:55][joaolitz] logged in via in-game ui
+[19:00:32][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[19:21:41][joaolitz] logged in via in-game ui
+[20:31:04][joaolitz] logged in via in-game ui
+[21:48:44][tesouras] logged in via in-game ui
+[21:55:26][joaolitz] logged in via in-game ui
+[22:25:22][joaolitz] logged in via in-game ui
+[22:50:51][joaolitz] logged in via in-game ui
+[23:01:04][joaolitz] logged in via in-game ui
+[23:15:55][teixeira] logged in via in-game ui
+[23:15:59][tesouras] logged in via in-game ui
+[23:45:06][jjesuspt_25] logged in via in-game ui
+[23:55:44][tesouras] logged in via in-game ui
+[23:57:15][tesouras] logged in via in-game ui
+[00:06:42][joaolitz] logged in via in-game ui
+[00:10:58][tesouras] logged in via in-game ui
+[00:19:39][joaolic] logged in via in-game ui
+[01:11:01][joaolitz] logged in via in-game ui
+[01:17:58][joaolic] logged in via in-game ui
+[01:22:26][jjesuspt_25] logged in via in-game ui
+[01:30:47][joaolitz] logged in via in-game ui
+[01:41:22][joaolitz] logged in via in-game ui
+[01:50:09][joaolitz] logged in via in-game ui
+[02:31:41][joaolitz] logged in via in-game ui
+[02:56:16][joaolitz] logged in via in-game ui
+[02:58:18][teixeira] logged in via in-game ui
+[03:06:25][joaolitz] logged in via in-game ui
+[03:22:10][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[03:22:11][teixeira] logged in via in-game ui
+[03:22:11][jjesuspt_25] logged in via in-game ui
+[03:22:11][joaolitz] logged in via in-game ui
+[03:22:14][jjesuspt_25] executed "lynx enable"
+[04:03:18][joaolitz] logged in via in-game ui
+[05:00:47][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:04:04][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[05:06:52][joaolitz] logged in via in-game ui
+[05:07:02][jjesuspt_25] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 4/30/2023, 5:11:58 AM               
+================================================================
+[05:12:09][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[05:12:14][jjesuspt_25] executed "START SERVER"
+[05:14:58][jjesuspt_25] logged in via in-game ui
+[05:15:06][joaolitz] logged in via in-game ui
+[05:17:47][jjesuspt_25] executed "ensure "Johnny_Carros""
+[05:17:57][jjesuspt_25] executed "lynx enable"
+[05:20:49][jjesuspt_25] executed "ensure "Johnny_Carros""
+[05:25:40][jjesuspt_25] executed "ensure "Johnny_Carros""
+[05:28:12][jjesuspt_25] executed "ensure "Johnny_Carros""
+[05:29:52][jjesuspt_25] executed "ensure "Johnny_Carros""
+[05:30:49][jjesuspt_25] executed "RESTART SERVER"
+[05:32:21][jjesuspt_25] logged in via in-game ui
+[05:34:30][jjesuspt_25] executed "ensure "Johnny_Carros""
+[05:34:44][jjesuspt_25] executed "lynx enable"
+[05:35:50][jjesuspt_25] executed "ensure "Johnny_Carros""
+[05:37:31][jjesuspt_25] executed "ensure "qs-garages""
+[05:39:22][jjesuspt_25] executed "ensure "Johnny_Carros""
+[05:39:35][jjesuspt_25] executed "lynx enable"
+[05:41:16][jjesuspt_25] executed "ensure "Johnny_Carros""
+[05:41:24][jjesuspt_25] executed "lynx enable"
+[05:42:47][jjesuspt_25] executed "ensure "Johnny_Carros""
+[05:43:06][jjesuspt_25] executed "lynx enable"
+[05:45:21][jjesuspt_25] executed "ensure "Johnny_Carros""
+
+================================================================
+======== txAdmin Starting - 4/30/2023, 11:11:14 AM              
+================================================================
+[11:12:20][tesouras] logged in from 127.0.0.1 via password
+[11:13:08][tesouras] Changing own password.
+[13:07:33][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+
+================================================================
+======== txAdmin Starting - 4/30/2023, 1:18:52 PM               
+================================================================
+[13:19:07][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[13:19:09][jjesuspt_25] executed "START SERVER"
+
+================================================================
+======== txAdmin Starting - 4/30/2023, 1:19:47 PM               
+================================================================
+[13:20:05][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[13:20:07][jjesuspt_25] executed "START SERVER"
+[13:20:36][jjesuspt_25] executed "RESTART SERVER"
+[13:22:06][jjesuspt_25] executed "lynx enable"
+[13:23:31][jjesuspt_25] logged in via in-game ui
+[13:28:57][jjesuspt_25] executed "refresh"
+[13:29:03][jjesuspt_25] executed "ensure "Johnny_SomCarros""
+[13:36:11][jjesuspt_25] executed "lynx enable"
+[13:42:02][tesouras] logged in via in-game ui
+[13:56:41][joaolic] logged in via in-game ui
+[13:59:22][tesouras] logged in via in-game ui
+[14:19:54][joaolitz] logged in via in-game ui
+[14:30:46][tesouras] logged in via in-game ui
+[14:34:30][jjesuspt_25] logged in via in-game ui
+[15:36:48][joaolitz] logged in via in-game ui
+[15:56:50][jjesuspt_25] executed "lynx unban 706226"
+[15:57:02][jjesuspt_25] executed "ensure "qs-casino""
+[15:57:16][jjesuspt_25] executed "lynx enable"
+[15:57:42][jjesuspt_25] executed "ensure "qs-luckywheel""
+[15:57:47][jjesuspt_25] executed "lynx enable"
+[16:04:50][joaolitz] logged in via in-game ui
+[16:23:30][jjesuspt_25] logged in via in-game ui
+[16:33:48][teixeira] logged in via in-game ui
+[16:58:11][jjesuspt_25] logged in via in-game ui
+[17:22:07][joaolitz] logged in via in-game ui
+[17:54:27][tesouras] logged in via in-game ui
+[19:00:56][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[19:03:05][jjesuspt_25] logged in via in-game ui
+[19:03:56][joaolitz] logged in via in-game ui
+[19:04:04][teixeira] logged in via in-game ui
+[19:04:54][tesouras] logged in via in-game ui
+[19:07:46][jjesuspt_25] executed "ensure "Johnny_PSP""
+[19:08:22][jjesuspt_25] executed "ensure "Johnny_PSP""
+[19:09:19][jjesuspt_25] executed "ensure "Johnny_PSP""
+[19:09:34][jjesuspt_25] executed "lynx enable"
+[19:23:59][jjesuspt_25] executed "ensure "okokBilling""
+[19:24:06][jjesuspt_25] executed "lynx enable"
+[19:47:04][tesouras] logged in via in-game ui
+[19:49:34][joaolic] logged in via in-game ui
+[20:14:35][joaolitz] logged in via in-game ui
+[20:34:05][jjesuspt_25] executed "ensure "qs-shops""
+[20:34:12][jjesuspt_25] executed "lynx enable"
+[21:35:57][joaolitz] logged in via in-game ui
+[21:51:29][teixeira] logged in via in-game ui
+[21:55:18][teixeira] logged in via in-game ui
+[21:58:34][teixeira] logged in via in-game ui
+[23:00:21][joaolitz] logged in via in-game ui
+[23:31:33][joaolic] logged in via in-game ui
+[23:54:13][joaolitz] logged in via in-game ui
+[00:07:13][teixeira] logged in via in-game ui
+[00:11:39][teixeira] logged in via in-game ui
+[00:13:41][teixeira] logged in via in-game ui
+[00:23:25][joaolitz] logged in via in-game ui
+[01:09:16][jjesuspt_25] executed "ensure "qs-shops""
+[01:16:29][jjesuspt_25] executed "ensure "qs-shops""
+[01:18:14][jjesuspt_25] executed "ensure "qs-shops""
+[01:26:02][jjesuspt_25] executed "ensure "Johnny_PackEmpregos""
+[01:26:09][jjesuspt_25] executed "lynx enable"
+[01:32:54][joaolitz] logged in via in-game ui
+[01:51:59][joaolitz] logged in via in-game ui
+[05:00:10][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:03:33][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[10:40:41][joaolic] logged in via in-game ui
+[12:00:18][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:10:59][joaolic] logged in via in-game ui
+[12:57:58][jjesuspt_25] executed "lynx enable"
+[12:58:00][jjesuspt_25] executed "lynx enable"
+[12:59:06][jjesuspt_25] logged in via in-game ui
+[05:02:13][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[05:02:14][joaolic] logged in via in-game ui
+[05:02:14][jjesuspt_25] logged in via in-game ui
+[13:14:11][jjesuspt_25] executed "ensure "qs-garages""
+[13:16:18][jjesuspt_25] executed "ensure "qs-garages""
+[13:17:15][jjesuspt_25] executed "ensure "qs-garages""
+[13:20:03][jjesuspt_25] executed "ensure "qs-garages""
+[13:20:31][jjesuspt_25] executed "lynx enable"
+[13:26:46][jjesuspt_25] executed "ensure "qs-garages""
+[13:27:11][jjesuspt_25] executed "lynx enable"
+[13:28:26][joaolic] logged in via in-game ui
+[13:31:25][jjesuspt_25] executed "ensure "qs-armor""
+[13:44:07][jjesuspt_25] executed "lynx enable"
+[13:45:08][joaolitz] logged in via in-game ui
+[13:59:05][joaolitz] logged in via in-game ui
+[14:41:40][joaolic] logged in via in-game ui
+[15:05:19][joaolic] logged in via in-game ui
+[15:06:22][joaolitz] logged in via in-game ui
+[16:50:16][Johnny73PT] logged in via in-game ui
+[18:29:25][jjesuspt_25] executed "ensure "qs-shops""
+[18:29:32][jjesuspt_25] executed "lynx enable"
+[18:55:41][tesouras] logged in via in-game ui
+[19:00:35][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[19:03:54][joaolic] logged in via in-game ui
+[19:10:24][tesouras] logged in via in-game ui
+[20:20:10][joaolitz] logged in via in-game ui
+[21:12:35][joaolitz] logged in via in-game ui
+[21:20:25][joaolic] logged in via in-game ui
+[21:58:28][tesouras] logged in via in-game ui
+[22:20:23][tesouras] logged in via in-game ui
+[22:48:02][joaolitz] logged in via in-game ui
+[22:51:43][tesouras] logged in via in-game ui
+[00:04:30][joaolitz] logged in via in-game ui
+[00:32:45][joaolitz] logged in via in-game ui
+[01:29:56][joaolitz] logged in via in-game ui
+[01:40:03][joaolitz] logged in via in-game ui
+[02:03:13][joaolic] logged in via in-game ui
+[03:01:49][teixeira] logged in via in-game ui
+[05:00:50][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:04:04][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[05:07:22][teixeira] logged in via in-game ui
+[05:40:44][teixeira] logged in via in-game ui
+[12:00:57][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[15:47:31][joaolitz] logged in via in-game ui
+[17:53:04][joaolitz] logged in via in-game ui
+[18:46:14][tesouras] logged in via in-game ui
+[19:00:07][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[19:01:45][tesouras] logged in via in-game ui
+[20:00:29][joaolitz] logged in via in-game ui
+[20:47:33][tesouras] logged in via in-game ui
+[21:17:58][joaolitz] logged in via in-game ui
+[21:59:42][joaolitz] logged in via in-game ui
+[22:14:09][teixeira] logged in via in-game ui
+[15:41:37][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[15:41:37][teixeira] logged in via in-game ui
+[15:41:37][joaolitz] logged in via in-game ui
+[15:42:45][jjesuspt_25] executed "ensure Johnny_PackEmpregos"
+[15:42:51][jjesuspt_25] executed "lynx enable"
+[15:50:26][jjesuspt_25] Sending announcement: RR EM 5 MINUTOS
+[15:54:20][jjesuspt_25] Sending announcement: RR EM 1 MINUTO
+[15:58:22][jjesuspt_25] executed "RESTART SERVER"
+[16:01:24][jjesuspt_25] executed "RESTART SERVER"
+[16:01:29][jjesuspt_25] executed "STOP SERVER"
+
+================================================================
+======== txAdmin Starting - 5/3/2023, 4:02:10 PM                
+================================================================
+[16:02:33][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[16:02:39][jjesuspt_25] executed "START SERVER"
+[16:09:31][jjesuspt_25] executed "lynx enable"
+[16:12:29][jjesuspt_25] logged in via in-game ui
+[16:15:23][joaolitz] logged in via in-game ui
+[19:00:13][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[19:02:59][joaolitz] logged in via in-game ui
+[05:00:30][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:04:16][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[06:36:04][joaolitz] logged in via in-game ui
+[06:37:43][joaolitz] logged in via in-game ui
+[07:56:49][joaolitz] logged in from via NUI iframe
+[09:18:25][joaolic] logged in via in-game ui
+[11:00:12][tesouras] logged in via in-game ui
+[11:02:16][joaolic] logged in via in-game ui
+[12:00:38][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:07:06][jjesuspt_25] executed "RESTART SERVER"
+[12:13:47][jjesuspt_25] executed "enable lynx"
+[12:16:47][jjesuspt_25] executed "restart esx_afk"
+[12:28:57][joaolic] logged in from 85.247.209.82 via password
+[12:29:08][joaolic] executed "RESTART SERVER"
+[13:10:10][jjesuspt_25] executed "RESTART SERVER"
+[13:30:26][jjesuspt_25] executed "RESTART SERVER"
+[13:51:12][tesouras] logged in via in-game ui
+[13:51:25][joaolitz] logged in via in-game ui
+[14:16:13][joaolitz] logged in via in-game ui
+[14:19:18][tesouras] logged in via in-game ui
+[14:27:03][joaolitz] logged in via in-game ui
+[14:28:37][joaolitz] logged in via in-game ui
+[14:38:42][jjesuspt_25] Kicked #Patas: no reason provided
+[14:39:29][jjesuspt_25] executed "txaKickAll "txAdmin Web Panel""
+[14:39:33][jjesuspt_25] executed "RESTART SERVER"
+[14:40:53][tesouras] logged in via in-game ui
+[14:43:32][joaolitz] logged in via in-game ui
+[14:46:54][joaolitz] logged in via in-game ui
+[14:47:01][tesouras] logged in via in-game ui
+[15:45:26][joaolitz] logged in from via NUI iframe
+[15:45:38][jjesuspt_25] logged in via in-game ui
+[15:55:37][jjesuspt_25] logged in via in-game ui
+[15:56:16][jjesuspt_25] logged in from via NUI iframe
+[15:57:04][jjesuspt_25] executed "refresh"
+[15:57:09][jjesuspt_25] executed "ensure LuxuModules"
+[15:57:12][jjesuspt_25] executed "ensure LuxuAdmin"
+[15:58:39][jjesuspt_25] executed "refresh"
+[15:58:44][jjesuspt_25] executed "ensure LuxuModules"
+[15:58:47][jjesuspt_25] executed "ensure LuxuAdmin"
+[15:59:06][jjesuspt_25] executed "lynx enable"
+[16:04:40][Johnny73PT] logged in via in-game ui
+[16:10:35][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[16:10:35][joaolitz] logged in via in-game ui
+[16:10:35][Johnny73PT] logged in via in-game ui
+[16:10:38][jjesuspt_25] executed "refresh"
+[16:10:42][jjesuspt_25] executed "stop LuxuAdmin"
+[16:10:47][jjesuspt_25] executed "stop LuxuModules"
+[16:10:50][jjesuspt_25] executed "stop ox_lib"
+[16:12:15][jjesuspt_25] executed "refresh"
+[16:12:18][jjesuspt_25] executed "ensure ox_lib"
+[16:12:27][jjesuspt_25] executed "ensure LuxuModules"
+[16:12:32][jjesuspt_25] executed "ensure LuxuAdmin"
+[16:12:43][jjesuspt_25] executed "ensure LuxuAdmin"
+[16:16:50][jjesuspt_25] executed "lynx enable"
+[16:18:36][jjesuspt_25] logged in via in-game ui
+[16:19:49][jjesuspt_25] logged in via in-game ui
+[16:28:19][jjesuspt_25] executed "ensure "qs-crafting""
+[16:28:33][jjesuspt_25] executed "enable lynx"
+[16:28:37][jjesuspt_25] executed "lynx enable"
+[16:35:45][jjesuspt_25] executed "lynx unban 523026"
+[16:40:26][jjesuspt_25] executed "refresh"
+[16:40:31][jjesuspt_25] executed "ensure LuxuModules"
+[16:40:34][jjesuspt_25] executed "ensure LuxuADMIN"
+[16:40:38][jjesuspt_25] executed "ensure LuxuAdmin"
+[16:40:40][jjesuspt_25] executed "lynx enable"
+[16:40:46][jjesuspt_25] logged in via in-game ui
+[16:46:30][jjesuspt_25] logged in via in-game ui
+[16:51:44][teixeira] logged in via in-game ui
+[17:02:42][jjesuspt_25] logged in via in-game ui
+[17:21:10][joaolic] logged in via in-game ui
+[17:22:50][jjesuspt_25] logged in via in-game ui
+[18:03:17][joaolitz] logged in via in-game ui
+[18:38:48][joaolitz] logged in via in-game ui
+[19:00:48][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[19:03:47][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[19:05:56][teixeira] logged in via in-game ui
+[19:21:21][joaolitz] logged in via in-game ui
+[19:24:19][jjesuspt_25] executed "stop JAM"
+[19:24:20][jjesuspt_25] executed "refreewh"
+[19:24:23][jjesuspt_25] executed "refresh"
+[19:24:26][jjesuspt_25] executed "ensure JAM"
+[19:24:29][jjesuspt_25] executed "lynx enable"
+[19:24:53][jjesuspt_25] executed "ensure JAM"
+[19:24:54][jjesuspt_25] executed "lynx enable"
+[02:29:43][teixeira] logged in via in-game ui
+[02:32:14][teixeira] logged in from 85.245.28.144 via password
+[03:31:38][jjesuspt_25] logged in via in-game ui
+[03:36:04][teixeira] logged in via in-game ui
+[03:37:17][jjesuspt_25] logged in via in-game ui
+[03:59:21][joaolitz] logged in via in-game ui
+[04:37:31][teixeira] logged in via in-game ui
+[04:50:44][joaolitz] logged in via in-game ui
+[04:52:51][Johnny73PT] logged in via in-game ui
+[04:55:32][jjesuspt_25] executed "lynx enable"
+[05:00:02][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:03:31][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[13:04:00][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[05:06:02][teixeira] logged in via in-game ui
+[05:06:05][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[05:06:06][teixeira] logged in via in-game ui
+[05:14:41][jjesuspt_25] executed "lynx enable"
+[05:14:43][jjesuspt_25] executed "lynx enable"
+[05:17:16][jjesuspt_25] Sending announcement: pessoal preciso de dar um rr para atualizar umas coisas
+[05:17:47][jjesuspt_25] Sending announcement: preciso que disconectem do sv, é rapido
+[05:18:09][jjesuspt_25] executed "STOP SERVER"
+
+================================================================
+======== txAdmin Starting - 5/5/2023, 5:18:59 AM                
+================================================================
+[05:19:15][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[05:19:18][jjesuspt_25] executed "START SERVER"
+[05:22:34][jjesuspt_25] executed "lynx enable"
+[05:23:42][Johnny73PT] logged in via in-game ui
+[05:32:15][teixeira] logged in via in-game ui
+[05:40:41][jjesuspt_25] executed "º"
+[05:40:48][jjesuspt_25] executed "ensure Johnny_VeiculoTunning"
+[05:40:52][jjesuspt_25] executed "lynx enable"
+[05:43:34][jjesuspt_25] executed "ensure Johnny_VeiculoTunning"
+[05:43:36][jjesuspt_25] executed "lynx enable"
+[05:47:10][jjesuspt_25] executed "ensure Johnny_VeiculoTunning"
+[05:47:13][jjesuspt_25] executed "lynx enable"
+[05:52:28][jjesuspt_25] executed "lynx give"
+[05:52:35][jjesuspt_25] executed "lynx permissions list"
+[05:52:44][jjesuspt_25] executed "lynx permissions give"
+[05:52:53][jjesuspt_25] executed "lynx permissions give 2 super"
+[06:20:49][joaolitz] logged in via in-game ui
+[08:55:35][joaolitz] logged in via in-game ui
+[09:51:07][joaolitz] logged in via in-game ui
+[10:13:42][joaolitz] logged in via in-game ui
+[12:00:06][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:03:59][tesouras] logged in via in-game ui
+[12:05:28][tesouras] logged in via in-game ui
+[13:08:39][tesouras] logged in via in-game ui
+[15:44:25][joaolitz] logged in via in-game ui
+[16:14:16][teixeira] logged in via in-game ui
+[16:22:11][teixeira] logged in via in-game ui
+[16:23:34][tesouras] logged in via in-game ui
+[16:27:30][teixeira] logged in via in-game ui
+[16:41:00][jjesuspt_25] logged in via in-game ui
+[16:42:28][jjesuspt_25] executed "ensure "Johnny_Chat""
+[16:43:09][jjesuspt_25] executed "lynx enable"
+[16:57:00][jjesuspt_25] executed "ensure "Johnny_Chat""
+[16:57:50][jjesuspt_25] executed "ensure "Johnny_Chat""
+[16:57:58][jjesuspt_25] executed "lynx enable"
+[16:59:09][jjesuspt_25] executed "ensure "Johnny_Chat""
+[17:00:25][jjesuspt_25] executed "lynx enable"
+[17:00:40][jjesuspt_25] executed "ensure "Johnny_Chat""
+[17:01:58][jjesuspt_25] executed "ensure "Johnny_Chat""
+[17:02:04][jjesuspt_25] executed "lynx enable"
+[17:03:56][jjesuspt_25] executed "ensure "Johnny_Chat""
+[17:04:03][jjesuspt_25] executed "lynx enable"
+[17:05:07][jjesuspt_25] executed "ensure "Johnny_Chat""
+[17:05:18][jjesuspt_25] executed "lynx enable"
+[17:06:30][jjesuspt_25] executed "ensure "Johnny_Chat""
+[17:06:38][jjesuspt_25] executed "lynx enable"
+[17:07:34][jjesuspt_25] executed "ensure "Johnny_Chat""
+[17:08:12][jjesuspt_25] executed "ensure "Johnny_Chat""
+[17:13:36][jjesuspt_25] executed "ensure "Johnny_Chat""
+[17:14:15][jjesuspt_25] executed "ensure "Johnny_Chat""
+[17:14:48][jjesuspt_25] executed "ensure "Johnny_Chat""
+[17:15:21][jjesuspt_25] executed "ensure "Johnny_Chat""
+[17:16:16][jjesuspt_25] executed "ensure "Johnny_Chat""
+[17:16:47][jjesuspt_25] executed "ensure "Johnny_Chat""
+[17:18:29][jjesuspt_25] executed "lynx enable"
+[17:19:26][jjesuspt_25] logged in via in-game ui
+[17:39:07][jjesuspt_25] logged in via in-game ui
+[18:14:06][Johnny73PT] logged in via in-game ui
+[18:19:00][jjesuspt_25] logged in via in-game ui
+[18:43:20][joaolitz] logged in via in-game ui
+[18:43:28][jjesuspt_25] executed "ensure "LuxuAdmin""
+[18:43:33][jjesuspt_25] executed "lynx enable"
+[18:51:14][jjesuspt_25] Changing monitor settings.
+[19:11:58][joaolitz] logged in via in-game ui
+[20:00:49][jjesuspt_25] executed "ensure "Johnny_Carros""
+[20:01:26][jjesuspt_25] executed "lynx enable"
+[20:01:41][jjesuspt_25] executed "ensure "Johnny_Carros""
+[20:02:34][teixeira] logged in via in-game ui
+[20:03:43][jjesuspt_25] executed "lynx enable"
+[20:04:05][jjesuspt_25] executed "RESTART SERVER"
+[20:06:40][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[20:11:01][teixeira] logged in via in-game ui
+[20:15:53][jjesuspt_25] executed "ensure "Johnny_Carros""
+[20:16:09][jjesuspt_25] executed "lynx enable"
+[20:17:30][jjesuspt_25] executed "ensure "Johnny_Carros""
+[20:17:43][jjesuspt_25] executed "lynx enable"
+[20:19:44][jjesuspt_25] executed "ensure "Johnny_Carros""
+
+================================================================
+======== txAdmin Starting - 5/5/2023, 8:22:28 PM                
+================================================================
+[20:22:33][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[20:22:34][jjesuspt_25] executed "START SERVER"
+[20:24:31][teixeira] logged in via in-game ui
+[02:24:24][teixeira] logged in via in-game ui
+[02:27:30][teixeira] logged in via in-game ui
+[05:00:37][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:03:50][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[05:06:51][teixeira] logged in via in-game ui
+[05:25:12][tesouras] logged in via in-game ui
+[08:31:13][joaolitz] logged in via in-game ui
+[10:41:45][joaolitz] logged in via in-game ui
+[11:01:16][teixeira] logged in via in-game ui
+[11:13:39][joaolitz] logged in via in-game ui
+[12:00:46][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:05:55][teixeira] logged in via in-game ui
+[12:06:31][joaolitz] logged in via in-game ui
+[12:28:27][tesouras] logged in via in-game ui
+[13:06:13][joaolitz] logged in via in-game ui
+[13:22:59][teixeira] logged in via in-game ui
+[13:37:33][joaolitz] logged in via in-game ui
+[13:52:03][tesouras] logged in via in-game ui
+[15:14:47][joaolitz] logged in via in-game ui
+[16:07:52][jjesuspt_25] logged in via in-game ui
+[16:09:33][jjesuspt_25] executed "ensure "qs-vehiclekeys""
+[16:09:39][jjesuspt_25] executed "stop "qs-vehiclekeys""
+[16:09:50][jjesuspt_25] executed "lynx enable"
+[16:10:50][teixeira] logged in via in-game ui
+[16:15:53][jjesuspt_25] executed "ensure "qs-vehiclekeys""
+[16:16:00][jjesuspt_25] executed "lynx enable"
+[17:08:51][joaolitz] logged in via in-game ui
+[17:10:22][joaolitz] logged in via in-game ui
+[17:11:55][joaolitz] logged in via in-game ui
+[17:27:07][joaolitz] logged in via in-game ui
+[18:45:56][SCHEDULER] Restarting server (scheduled restart at 18:45).
+[18:49:01][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[18:50:37][tesouras] logged in via in-game ui
+[18:54:11][teixeira] logged in via in-game ui
+[19:07:39][joaolitz] logged in via in-game ui
+[19:10:49][joaolitz] logged in via in-game ui
+[05:00:10][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:03:35][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[05:44:26][teixeira] logged in via in-game ui
+[07:08:24][joaolic] logged in via in-game ui
+[07:30:40][joaolitz] logged in via in-game ui
+[07:42:32][teixeira] logged in via in-game ui
+[08:07:54][tesouras] logged in via in-game ui
+[08:47:05][joaolitz] logged in via in-game ui
+[08:51:58][joaolic] logged in via in-game ui
+[10:38:21][joaolitz] logged in via in-game ui
+[10:58:41][teixeira] logged in via in-game ui
+[11:12:24][teixeira] logged in via in-game ui
+[12:00:20][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:03:34][teixeira] logged in via in-game ui
+[12:11:54][joaolic] logged in via in-game ui
+[12:22:32][tesouras] logged in via in-game ui
+[13:06:56][teixeira] logged in via in-game ui
+[13:43:42][joaolic] logged in via in-game ui
+[13:45:47][joaolitz] logged in via in-game ui
+[13:52:08][Johnny73PT] logged in from 87.103.62.145 via password
+[13:52:15][Johnny73PT] logged in from 87.103.62.145 via password
+[14:09:58][teixeira] logged in via in-game ui
+[16:43:38][joaolitz] logged in via in-game ui
+[18:45:29][SCHEDULER] Restarting server (scheduled restart at 18:45).
+[18:48:48][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[02:56:26][joaolic] logged in via in-game ui
+[05:00:43][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:04:01][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[05:08:20][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[05:08:27][jjesuspt_25] executed "STOP SERVER"
+
+================================================================
+======== txAdmin Starting - 5/8/2023, 5:09:30 AM                
+================================================================
+[05:10:33][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[05:10:36][jjesuspt_25] executed "START SERVER"
+[05:10:53][jjesuspt_25] executed "STOP SERVER"
+[05:14:55][jjesuspt_25] executed "RESTART SERVER"
+[05:17:14][jjesuspt_25] executed "STOP SERVER"
+[05:19:34][jjesuspt_25] executed "START SERVER"
+[05:20:45][jjesuspt_25] executed "lynx enable"
+[05:20:47][jjesuspt_25] executed "lynx enable"
+[05:21:50][jjesuspt_25] logged in via in-game ui
+[05:50:19][joaolic] logged in via in-game ui
+[05:50:41][joaolitz] logged in via in-game ui
+[05:58:48][joaolitz] logged in via in-game ui
+[06:04:47][joaolitz] logged in via in-game ui
+[06:07:58][joaolic] logged in from via NUI iframe
+[06:46:43][joaolitz] logged in via in-game ui
+[06:57:37][joaolic] logged in via in-game ui
+[08:51:21][joaolitz] logged in via in-game ui
+[10:24:37][teixeira] logged in via in-game ui
+[10:57:16][tesouras] logged in via in-game ui
+[11:13:44][jjesuspt_25] logged in via in-game ui
+[11:40:58][jjesuspt_25] logged in via in-game ui
+[12:00:37][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:04:39][tesouras] logged in via in-game ui
+[12:04:58][teixeira] logged in via in-game ui
+[12:05:50][jjesuspt_25] logged in via in-game ui
+[12:12:57][teixeira] logged in via in-game ui
+[12:24:03][jjesuspt_25] executed "ensure "Johnny_DoorLock""
+[12:24:08][jjesuspt_25] executed "lynx enable"
+[12:26:43][jjesuspt_25] executed "ensure "Johnny_Gangs""
+[12:26:48][jjesuspt_25] executed "lynx enable"
+[13:10:25][jjesuspt_25] executed "ensure "Johnny_DoorLock""
+[13:10:30][jjesuspt_25] executed "ensure "Johnny_Gangs""
+[13:10:38][jjesuspt_25] executed "lynx enable"
+[13:36:02][joaolitz] logged in via in-game ui
+[13:37:56][joaolitz] logged in via in-game ui
+[15:57:51][joaolic] logged in via in-game ui
+[16:10:07][jjesuspt_25] logged in via in-game ui
+[16:42:08][joaolitz] logged in via in-game ui
+[18:45:47][SCHEDULER] Restarting server (scheduled restart at 18:45).
+[18:49:05][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[20:56:49][jjesuspt_25] executed "txaKickAll "UPDATE NO SERVIDOR""
+[20:56:56][jjesuspt_25] executed "STOP SERVER"
+[20:57:16][jjesuspt_25] executed "START SERVER"
+[20:59:53][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[21:18:59][jjesuspt_25] executed "lynx enable"
+[21:19:04][jjesuspt_25] executed "RESTART SERVER"
+[21:25:45][jjesuspt_25] executed "ensure cd_garage"
+[21:25:53][jjesuspt_25] executed "lynx enable"
+[21:25:59][jjesuspt_25] executed "RESTART SERVER"
+[02:10:46][jjesuspt_25] logged in via in-game ui
+[03:04:11][jjesuspt_25] executed "lynx enable"
+[03:12:39][joaolic] logged in via in-game ui
+[05:00:01][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:03:08][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[05:58:35][joaolic] logged in via in-game ui
+[07:45:57][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[08:03:09][joaolitz] logged in via in-game ui
+[08:06:10][teixeira] logged in via in-game ui
+[09:15:42][joaolitz] logged in via in-game ui
+[10:55:57][tesouras] logged in via in-game ui
+[10:56:18][joaolitz] logged in via in-game ui
+[11:15:24][joaolitz] logged in via in-game ui
+[11:24:33][joaolic] logged in via in-game ui
+[12:00:09][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:01:31][tesouras] logged in via in-game ui
+[12:31:25][jjesuspt_25] logged in from 148.69.3.187 via citizenfx
+[12:31:25][tesouras] logged in via in-game ui
+[12:31:42][jjesuspt_25] executed "lynx enable"
+[13:00:41][jjesuspt_25] executed "lynx enable"
+[13:05:19][teixeira] logged in via in-game ui
+[13:18:00][jjesuspt_25] executed "ensure "cd_garage""
+[13:18:08][jjesuspt_25] executed "lynx enable"
+[13:55:22][joaolitz] logged in via in-game ui
+[14:00:34][teixeira] logged in via in-game ui
+[14:48:16][jjesuspt_25] executed "ensure "Johnny_DoorLock""
+[14:48:27][jjesuspt_25] executed "lynx enable"
+[14:50:49][jjesuspt_25] logged in via in-game ui
+[15:28:58][joaolic] logged in via in-game ui
+[16:11:03][joaolitz] logged in via in-game ui
+[16:14:21][jjesuspt_25] executed "ensure Johnny_TalkToNPC"
+[16:14:25][jjesuspt_25] executed "ensure Johnny_TalkToNpc"
+[16:14:30][jjesuspt_25] executed "lynx enable"
+[16:15:02][jjesuspt_25] executed "lynx enable"
+[16:15:04][jjesuspt_25] executed "ensure Johnny_TalkToNpc"
+[16:15:06][jjesuspt_25] executed "lynx enable"
+[16:17:12][jjesuspt_25] executed "ensure Johnny_TalkToNpc"
+[16:17:15][jjesuspt_25] executed "lynx enable"
+[16:18:22][joaolitz] logged in via in-game ui
+[17:05:46][jjesuspt_25] executed "ensure Johnny_TalkToNpc"
+[17:05:50][jjesuspt_25] executed "lynx enable"
+[17:07:58][jjesuspt_25] executed "ensure Johnny_TalkToNpc"
+[17:08:03][jjesuspt_25] executed "lynx enable"
+[17:14:50][jjesuspt_25] executed "ensure Johnny_DoorLock"
+[17:14:53][jjesuspt_25] executed "lynx enable"
+[17:15:17][jjesuspt_25] executed "ensure Johnny_DoorLock"
+[17:15:19][jjesuspt_25] executed "lynx enable"
+[17:17:07][jjesuspt_25] executed "ensure bit-motels"
+[17:17:16][jjesuspt_25] executed "lynx enable"
+[17:20:26][jjesuspt_25] executed "ensure bit-motels"
+[17:20:27][jjesuspt_25] executed "lynx enable"
+[17:33:04][jjesuspt_25] executed "ensure bit-motels"
+[17:33:10][jjesuspt_25] executed "ensure Johnny_TalkToNpc"
+[17:33:12][jjesuspt_25] executed "lynx enable"
+[17:33:33][jjesuspt_25] executed "ensure Johnny_TalkToNpc"
+[17:33:37][jjesuspt_25] executed "lynx enable"
+[17:37:15][jjesuspt_25] executed "ensure Johnny_TalkToNpc"
+[17:40:28][jjesuspt_25] executed "ensure Johnny_TalkToNpc"
+[17:40:31][jjesuspt_25] executed "lynx enable"
+[17:42:33][jjesuspt_25] executed "ensure Johnny_TalkToNpc"
+[17:42:35][jjesuspt_25] executed "lynx enable"
+[17:57:07][jjesuspt_25] executed "stop Johnny_Tatuagens"
+[17:57:08][jjesuspt_25] executed "refresh"
+[17:57:11][jjesuspt_25] executed "lynx enable"
+[18:05:33][jjesuspt_25] executed "ensure Johnny_Tatuagens"
+[18:05:35][jjesuspt_25] executed "lynx enable"
+[18:07:02][jjesuspt_25] executed "ensure Johnny_Tatuagens"
+[18:07:03][jjesuspt_25] executed "lynx enable"
+[18:45:19][SCHEDULER] Restarting server (scheduled restart at 18:45).
+[18:48:58][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[19:03:39][jjesuspt_25] logged in via in-game ui
+[03:00:31][jjesuspt_25] logged in via in-game ui
+[05:00:30][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:04:29][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[06:08:35][joaolitz] logged in via in-game ui
+[09:49:39][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[09:49:57][jjesuspt_25] Changing monitor settings.
+[09:50:42][jjesuspt_25] Changing monitor settings.
+[10:25:08][teixeira] logged in via in-game ui
+[10:34:50][tesouras] logged in via in-game ui
+[11:10:05][jjesuspt_25] executed "ensure qs-shops"
+[11:10:07][jjesuspt_25] executed "lynx enable"
+[11:11:39][jjesuspt_25] executed "ensure qs-shops"
+[11:11:40][jjesuspt_25] executed "lynx enable"
+[11:12:41][jjesuspt_25] executed "ensure qs-shops"
+[11:12:42][jjesuspt_25] executed "lynx enable"
+[11:32:02][jjesuspt_25] Changing monitor settings.
+[12:00:39][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:03:55][teixeira] logged in via in-game ui
+[13:11:34][tesouras] logged in via in-game ui
+[14:40:43][jjesuspt_25] executed "ensure "esx_basicneeds""
+[14:40:54][jjesuspt_25] executed "lynx enable"
+[14:42:59][joaolitz] logged in via in-game ui
+[14:45:26][jjesuspt_25] executed "ensure "esx_basicneeds""
+[14:45:32][jjesuspt_25] executed "lynx enable"
+[14:57:40][jjesuspt_25] executed "ensure "Johnny_PackEmpregos""
+[14:57:46][jjesuspt_25] executed "ensure "Johnny_Gangs""
+[14:57:51][jjesuspt_25] executed "lynx enable"
+[14:58:04][jjesuspt_25] executed "ensure "Johnny_INEM""
+[14:58:10][jjesuspt_25] executed "lynx enable"
+[15:02:43][jjesuspt_25] executed "ensure "Johnny_INEM""
+[15:03:24][jjesuspt_25] executed "ensure "Johnny_INEM""
+[15:03:34][jjesuspt_25] executed "lynx enable"
+[15:03:51][jjesuspt_25] executed "ensure "Johnny_INEM""
+[15:04:21][jjesuspt_25] executed "ensure "Johnny_INEM""
+[15:04:28][jjesuspt_25] executed "lynx enable"
+[15:07:28][jjesuspt_25] executed "ensure "Johnny_INEM""
+[15:07:34][jjesuspt_25] executed "lynx enable"
+[15:08:49][jjesuspt_25] executed "ensure "Johnny_INEM""
+[15:08:58][jjesuspt_25] executed "lynx enable"
+[15:10:36][jjesuspt_25] executed "ensure "Johnny_INEM""
+[15:10:41][jjesuspt_25] executed "lynx enable"
+[15:11:20][jjesuspt_25] executed "ensure "Johnny_INEM""
+[15:11:44][jjesuspt_25] executed "ensure "Johnny_INEM""
+[15:11:58][jjesuspt_25] executed "lynx enable"
+[15:12:49][jjesuspt_25] executed "ensure "Johnny_INEM""
+[15:12:57][jjesuspt_25] executed "lynx enable"
+[15:16:53][jjesuspt_25] logged in via in-game ui
+[15:21:26][joaolitz] logged in via in-game ui
+[16:03:01][joaolitz] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 5/10/2023, 5:47:42 PM               
+================================================================
+[17:48:15][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[17:49:00][jjesuspt_25] executed "START SERVER"
+[17:52:38][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[19:00:41][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[05:00:52][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:04:20][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[07:20:52][joaolitz] logged in via in-game ui
+[07:30:36][joaolitz] logged in via in-game ui
+[09:01:24][teixeira] logged in via in-game ui
+[10:42:59][joaolitz] logged in via in-game ui
+[10:54:36][tesouras] logged in via in-game ui
+[11:08:31][jjesuspt_25] executed "lynx enable"
+[11:09:45][teixeira] logged in via in-game ui
+[11:23:27][jjesuspt_25] logged in via in-game ui
+[11:43:35][tesouras] logged in via in-game ui
+[11:52:27][joaolitz] logged in via in-game ui
+[12:00:01][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:01:48][tesouras] logged in via in-game ui
+[12:02:00][teixeira] logged in via in-game ui
+[12:23:59][teixeira] logged in via in-game ui
+[12:33:04][jjesuspt_25] logged in via in-game ui
+[13:11:20][tesouras] logged in via in-game ui
+[13:17:41][joaolitz] logged in via in-game ui
+[13:50:53][jjesuspt_25] logged in via in-game ui
+[14:07:25][jjesuspt_25] logged in via in-game ui
+[14:43:11][jjesuspt_25] executed "ensure "Johnny_Gangs""
+[14:43:15][jjesuspt_25] executed "lynx enable"
+[14:43:43][jjesuspt_25] executed "ensure "Johnny_DoorLock""
+[14:44:34][jjesuspt_25] executed "ensure "Johnny_DoorLock""
+[14:44:39][jjesuspt_25] executed "lynx enable"
+[14:46:35][jjesuspt_25] executed "ensure "cd_garage""
+[14:46:41][jjesuspt_25] executed "lynx enable"
+[14:48:37][jjesuspt_25] executed "ensure "Johnny_DoorLock""
+[14:48:41][jjesuspt_25] executed "lynx enable"
+[14:50:22][jjesuspt_25] executed "ensure "qs-shops""
+[14:50:26][jjesuspt_25] executed "lynx enable"
+[14:53:20][jjesuspt_25] executed "ensure "qs-shops""
+[14:53:25][jjesuspt_25] executed "lynx enable"
+[14:54:19][joaolitz] logged in via in-game ui
+[14:57:24][jjesuspt_25] executed "lynx unban 061873"
+[15:04:11][jjesuspt_25] executed "lynx unban 901522"
+[15:15:36][jjesuspt_25] executed "ensure "cd_garage""
+[15:15:47][jjesuspt_25] executed "lynx enable"
+[15:39:49][teixeira] logged in via in-game ui
+[19:00:12][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[19:03:54][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[03:27:20][jjesuspt_25] logged in via in-game ui
+[03:30:49][joaolic] logged in via in-game ui
+[03:30:50][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[03:30:51][jjesuspt_25] logged in via in-game ui
+[03:30:51][joaolic] logged in via in-game ui
+[03:30:55][jjesuspt_25] executed "ensure "cd_garage""
+[03:31:00][jjesuspt_25] executed "lynx enable"
+[03:34:12][jjesuspt_25] executed "ensure "Johnny_Carros""
+[03:34:30][jjesuspt_25] executed "RESTART SERVER"
+[03:37:22][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[05:00:22][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[10:56:41][tesouras] logged in via in-game ui
+[11:45:57][teixeira] logged in via in-game ui
+[12:00:31][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:02:42][tesouras] logged in via in-game ui
+[12:06:06][teixeira] logged in via in-game ui
+[12:59:44][tesouras] logged in via in-game ui
+[13:00:58][teixeira] logged in via in-game ui
+[13:28:58][joaolic] logged in via in-game ui
+[14:55:33][joaolitz] logged in via in-game ui
+[19:00:42][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[19:04:43][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[03:55:17][jjesuspt_25] logged in from 148.69.3.187 via citizenfx
+[03:55:22][jjesuspt_25] executed "RESTART SERVER"
+[03:56:38][jjesuspt_25] logged in from 148.69.3.187 via citizenfx
+[03:59:04][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[04:03:13][tesouras] logged in via in-game ui
+[05:00:54][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:02:14][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[05:02:16][jjesuspt_25] executed "RESTART SERVER"
+[05:03:38][tesouras] logged in via in-game ui
+[05:04:29][jjesuspt_25] executed "STOP SERVER"
+[05:07:28][jjesuspt_25] executed "RESTART SERVER"
+[05:08:10][jjesuspt_25] executed "STOP SERVER"
+[05:09:37][jjesuspt_25] executed "START SERVER"
+[05:10:42][tesouras] logged in via in-game ui
+[05:12:28][jjesuspt_25] executed "ensure Johnny_SomCarros"
+[05:12:48][jjesuspt_25] executed "start Johnny_SomCarros"
+[05:16:30][jjesuspt_25] executed "start Johnny_SomCarros"
+[05:16:44][jjesuspt_25] executed "restart Johnny_SomCarros"
+[05:18:51][jjesuspt_25] executed "RESTART SERVER"
+[05:20:19][tesouras] logged in via in-game ui
+[06:23:27][jjesuspt_25] executed "restart Johnny_Chat"
+[06:23:32][jjesuspt_25] executed "lynx enable"
+[06:27:39][jjesuspt_25] executed "restart Johnny_Chat"
+[06:27:40][jjesuspt_25] executed "lynx enable"
+[06:31:56][jjesuspt_25] executed "restart Johnny_Chat"
+[06:31:57][jjesuspt_25] executed "lynx enable"
+[06:33:02][jjesuspt_25] executed "restart Johnny_Chat"
+[06:33:02][jjesuspt_25] executed "lynx enable"
+[06:37:12][jjesuspt_25] executed "restart Johnny_Chat"
+[06:37:13][jjesuspt_25] executed "lynx enable"
+[06:43:38][teixeira] logged in via in-game ui
+[06:45:30][jjesuspt_25] executed "restart Johnny_Chat"
+[06:45:31][jjesuspt_25] executed "lynx enable"
+[06:46:28][jjesuspt_25] executed "restart Johnny_Chat"
+[06:46:29][jjesuspt_25] executed "lynx enable"
+[06:47:15][jjesuspt_25] executed "restart Johnny_Chat"
+[06:47:16][jjesuspt_25] executed "lynx enable"
+[09:20:51][teixeira] logged in via in-game ui
+[09:23:25][jjesuspt_25] executed "lynx enable"
+[09:23:30][jjesuspt_25] executed "lynx enable"
+[10:14:47][joaolitz] logged in via in-game ui
+[10:24:35][teixeira] logged in via in-game ui
+[11:07:52][joaolitz] logged in via in-game ui
+[12:00:04][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:13:38][jjesuspt_25] executed "lynx enable"
+[12:13:49][jjesuspt_25] executed "lynx enable"
+[12:14:02][jjesuspt_25] executed "stop Johnny_SomCarros"
+[12:14:18][jjesuspt_25] executed "lynx enable"
+[12:15:53][teixeira] logged in via in-game ui
+[12:28:02][joaolitz] logged in via in-game ui
+[13:03:14][jjesuspt_25] executed "restart Johnny_SomCarros"
+[13:03:26][jjesuspt_25] executed "start Johnny_SomCarros"
+[13:03:33][jjesuspt_25] executed "lynx enable"
+[13:05:29][tesouras] logged in via in-game ui
+[13:12:57][jjesuspt_25] executed "restart Johnny_DoorLock"
+[13:13:19][jjesuspt_25] executed "lynx enable"
+[13:14:10][jjesuspt_25] executed "restart Johnny_DoorLock"
+[13:14:13][jjesuspt_25] executed "lynx enable"
+[13:15:19][jjesuspt_25] executed "restart Johnny_DoorLock"
+[13:15:43][jjesuspt_25] executed "lynx enable"
+[13:17:12][jjesuspt_25] executed "restart Johnny_DoorLock"
+[13:17:14][jjesuspt_25] executed "lynx enable"
+[13:17:31][jjesuspt_25] executed "restart Johnny_DoorLock"
+[13:17:34][jjesuspt_25] executed "lynx enable"
+[13:18:34][jjesuspt_25] executed "restart Johnny_DoorLock"
+[13:18:35][jjesuspt_25] executed "lynx enable"
+[13:19:03][jjesuspt_25] executed "restart Johnny_DoorLock"
+[13:19:04][jjesuspt_25] executed "lynx enable"
+[13:20:10][jjesuspt_25] executed "restart Johnny_DoorLock"
+[13:20:11][jjesuspt_25] executed "lynx enable"
+[13:22:23][jjesuspt_25] executed "restart Johnny_DoorLock"
+[13:22:25][jjesuspt_25] executed "lynx enable"
+[13:23:38][jjesuspt_25] executed "restart Johnny_DoorLock"
+[13:23:39][jjesuspt_25] executed "lynx enable"
+[13:25:47][jjesuspt_25] executed "restart Johnny_DoorLock"
+[13:25:48][jjesuspt_25] executed "lynx enable"
+[13:26:00][jjesuspt_25] executed "restart Johnny_DoorLock"
+[13:26:01][jjesuspt_25] executed "lynx enable"
+[13:29:50][jjesuspt_25] executed "restart nation_bennys"
+[13:29:52][jjesuspt_25] executed "lynx enable"
+[13:34:47][jjesuspt_25] executed "restart nation_bennys"
+[13:34:49][jjesuspt_25] executed "lynx enable"
+[13:34:58][jjesuspt_25] executed "restart Johnny_Gangs"
+[13:35:01][jjesuspt_25] executed "lynx enable"
+[13:38:19][jjesuspt_25] executed "restart cd_garage"
+[13:38:22][jjesuspt_25] executed "lynx enable"
+[13:38:39][jjesuspt_25] executed "restart cd_garage"
+[13:38:40][jjesuspt_25] executed "lynx enable"
+[13:39:06][jjesuspt_25] executed "restart cd_garage"
+[13:39:07][jjesuspt_25] executed "lynx enable"
+[13:39:55][jjesuspt_25] executed "restart cd_garage"
+[13:39:57][jjesuspt_25] executed "lynx enable"
+[13:40:06][jjesuspt_25] executed "restart cd_garage"
+[13:40:07][jjesuspt_25] executed "lynx enable"
+[13:40:35][jjesuspt_25] executed "restart cd_garage"
+[13:40:35][jjesuspt_25] executed "lynx enable"
+[13:40:59][jjesuspt_25] executed "restart cd_garage"
+[13:41:00][jjesuspt_25] executed "lynx enable"
+[13:45:45][jjesuspt_25] executed "restart cd_garage"
+[13:45:46][jjesuspt_25] executed "lynx enable"
+[13:46:25][jjesuspt_25] executed "restart cd_garage"
+[13:46:26][jjesuspt_25] executed "lynx enable"
+[13:47:33][jjesuspt_25] executed "lynx enable"
+[13:47:35][jjesuspt_25] executed "lynx enable"
+[13:48:10][jjesuspt_25] logged in via in-game ui
+[13:49:26][joaolitz] logged in via in-game ui
+[14:05:22][joaolitz] logged in via in-game ui
+[15:28:35][jjesuspt_25] logged in via in-game ui
+[15:31:04][jjesuspt_25] executed "ensure "JohnnyPack1""
+[15:31:47][jjesuspt_25] executed "ensure "JohnnyPack1""
+[15:41:54][jjesuspt_25] executed "ensure "JohnnyPack1""
+[15:42:03][jjesuspt_25] executed "lynx enable"
+[16:14:37][joaolitz] logged in via in-game ui
+[16:21:19][teixeira] logged in via in-game ui
+[18:09:29][joaolitz] logged in via in-game ui
+[19:00:13][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[19:03:20][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[04:27:48][joaolic] logged in via in-game ui
+[04:51:53][tesouras] logged in via in-game ui
+[05:00:25][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:02:58][joaolic] logged in from 85.247.209.82 via password
+[05:03:56][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[05:05:28][joaolic] executed "RESTART SERVER"
+[05:06:45][tesouras] logged in via in-game ui
+[05:07:46][joaolic] logged in via in-game ui
+[06:08:51][joaolic] logged in via in-game ui
+[06:10:28][joaolic] logged in via in-game ui
+[06:12:25][joaolic] logged in via in-game ui
+[06:55:35][joaolitz] logged in via in-game ui
+[08:09:53][joaolitz] logged in via in-game ui
+[09:07:46][joaolic] logged in via in-game ui
+[09:16:16][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[09:16:16][tesouras] logged in via in-game ui
+[09:16:16][joaolic] logged in via in-game ui
+[09:16:24][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[09:16:24][tesouras] logged in via in-game ui
+[09:16:24][joaolic] logged in via in-game ui
+[09:16:33][jjesuspt_25] executed "lynx enable"
+[09:16:35][jjesuspt_25] executed "lynx enable"
+[09:17:39][joaolitz] logged in via in-game ui
+[10:17:25][teixeira] logged in via in-game ui
+[10:25:06][joaolitz] logged in via in-game ui
+[10:40:00][joaolic] logged in via in-game ui
+[12:00:35][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:02:52][tesouras] logged in via in-game ui
+[12:04:02][joaolitz] logged in via in-game ui
+[12:04:05][teixeira] logged in via in-game ui
+[12:06:36][joaolic] logged in via in-game ui
+[12:17:28][jjesuspt_25] executed "ensure "qs-smartphone""
+[12:17:33][jjesuspt_25] executed "lynx enable"
+[12:36:40][jjesuspt_25] logged in via in-game ui
+[13:28:09][joaolitz] logged in via in-game ui
+[13:36:07][joaolic] logged in via in-game ui
+[14:52:58][joaolic] logged in via in-game ui
+[15:32:45][joaolitz] logged in via in-game ui
+[15:45:42][jjesuspt_25] logged in via in-game ui
+[16:01:38][joaolitz] logged in via in-game ui
+[16:03:08][joaolitz] logged in via in-game ui
+[17:07:08][jjesuspt_25] logged in via in-game ui
+[17:20:07][Johnny73PT] logged in via in-game ui
+[18:40:39][joaolitz] logged in via in-game ui
+[19:00:46][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[19:04:04][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[02:54:33][joaolic] logged in via in-game ui
+[03:00:18][joaolic] logged in via in-game ui
+[03:23:18][jjesuspt_25] logged in via in-game ui
+[03:41:46][jjesuspt_25] executed "lynx unban 573987"
+[03:54:36][joaolic] logged in via in-game ui
+[03:56:25][joaolic] logged in via in-game ui
+[05:00:56][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:03:32][joaolic] logged in from 85.247.209.82 via password
+[05:03:36][joaolic] executed "RESTART SERVER"
+[05:05:30][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[05:30:39][joaolic] logged in via in-game ui
+[06:47:58][jjesuspt_25] Sending announcement: Vou Ter de dar RR em 2 minutos, os staffs vao vos ajudar caso precisem agora, para trocar stand
+[06:49:09][jjesuspt_25] Sending announcement: 1 minuto
+[06:49:46][jjesuspt_25] executed "txaKickAll "RR""
+[06:49:50][jjesuspt_25] executed "STOP SERVER"
+[06:50:00][jjesuspt_25] executed "RESTART SERVER"
+[06:50:08][jjesuspt_25] executed "STOP SERVER"
+[06:51:33][jjesuspt_25] executed "START SERVER"
+[06:54:24][jjesuspt_25] logged in via in-game ui
+[06:56:59][jjesuspt_25] executed "ensure "JAM""
+[07:00:25][jjesuspt_25] executed "ensure "JAM""
+[07:01:03][jjesuspt_25] executed "ensure "JAM""
+[07:01:26][jjesuspt_25] executed "RESTART SERVER"
+[07:02:39][jjesuspt_25] executed "STOP SERVER"
+
+================================================================
+======== txAdmin Starting - 5/15/2023, 7:20:52 AM               
+================================================================
+[07:21:03][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[07:21:06][jjesuspt_25] executed "START SERVER"
+[07:24:44][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[07:26:43][jjesuspt_25] executed "lynx enable"
+[07:28:28][jjesuspt_25] logged in via in-game ui
+[07:29:00][joaolic] logged in via in-game ui
+[07:29:36][teixeira] logged in via in-game ui
+[07:55:43][jjesuspt_25] executed "lynx unban 565553"
+[07:56:48][teixeira] logged in via in-game ui
+[07:57:47][jjesuspt_25] executed "lynx unban 13362"
+[07:58:14][jjesuspt_25] executed "ensure "esx_afk""
+[07:58:31][jjesuspt_25] executed "lynx enable"
+[07:58:32][jjesuspt_25] executed "lynx enable"
+[08:15:29][jjesuspt_25] executed "lynx unban 588359"
+[08:15:40][jjesuspt_25] executed "lynx unban 305626"
+[08:43:02][joaolic] logged in via in-game ui
+[08:58:33][teixeira] logged in via in-game ui
+[10:40:39][tesouras] logged in via in-game ui
+[11:00:10][teixeira] logged in via in-game ui
+[11:10:26][tesouras] logged in via in-game ui
+[12:00:56][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:04:04][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[12:08:58][tesouras] logged in via in-game ui
+[12:12:16][jjesuspt_25] logged in via in-game ui
+[12:17:28][joaolitz] logged in via in-game ui
+[12:50:03][tesouras] logged in via in-game ui
+[14:20:25][jjesuspt_25] executed "restart qs-shops"
+[14:20:29][jjesuspt_25] executed "lynx enable"
+[14:22:27][joaolitz] logged in via in-game ui
+[14:22:36][jjesuspt_25] executed "restart qs-shops"
+[14:22:37][jjesuspt_25] executed "lynx enable"
+[14:25:29][jjesuspt_25] executed "restart Johnny_DoorLock"
+[14:25:34][jjesuspt_25] executed "lynx enable"
+[15:01:53][tesouras] logged in via in-game ui
+[15:18:56][joaolic] logged in via in-game ui
+[16:12:47][Johnny73PT] logged in via in-game ui
+[17:12:09][joaolitz] logged in from via NUI iframe
+[18:15:39][joaolitz] logged in via in-game ui
+[19:00:06][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[19:09:09][joaolitz] logged in via in-game ui
+[02:29:50][joaolic] logged in via in-game ui
+[03:06:39][joaolic] logged in via in-game ui
+[04:43:19][joaolic] logged in via in-game ui
+[05:00:23][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:04:20][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[05:35:08][joaolic] logged in via in-game ui
+[06:42:27][jjesuspt_25] logged in from 87.103.56.81 via citizenfx
+[06:49:25][jjesuspt_25] executed "txaKickAll "RR Urgente""
+[06:49:28][jjesuspt_25] executed "RESTART SERVER"
+[06:57:21][jjesuspt_25] executed "RESTART SERVER"
+[09:03:40][joaolitz] logged in via in-game ui
+[09:33:22][teixeira] logged in via in-game ui
+[10:15:33][joaolic] logged in via in-game ui
+[10:38:15][teixeira] logged in via in-game ui
+[10:40:35][tesouras] logged in via in-game ui
+[10:50:54][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[10:50:54][tesouras] logged in via in-game ui
+[10:50:54][teixeira] logged in via in-game ui
+[10:51:02][jjesuspt_25] executed "restart Johnny_INEM"
+[10:51:08][jjesuspt_25] executed "lynx enable"
+[10:56:51][jjesuspt_25] executed "restart Johnny_INEM"
+[10:56:52][jjesuspt_25] executed "lynx enable"
+[11:00:06][jjesuspt_25] executed "restart Johnny_INEM"
+[11:00:08][jjesuspt_25] executed "lynx enable"
+[11:04:06][jjesuspt_25] executed "restart Johnny_INEM"
+[11:04:07][jjesuspt_25] executed "lynx enable"
+[11:50:11][joaolic] logged in via in-game ui
+[12:00:35][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:04:02][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[12:06:20][tesouras] logged in via in-game ui
+[12:07:01][joaolic] logged in via in-game ui
+[12:18:09][jjesuspt_25] executed "txaKickAll "NAO ENTREM ATÉ INFO CONTRARIA""
+[12:18:11][jjesuspt_25] executed "RESTART SERVER"
+[12:20:07][jjesuspt_25] executed "RESTART SERVER"
+[12:21:11][jjesuspt_25] executed "lynx enable"
+[12:21:14][jjesuspt_25] executed "lynx enable"
+[12:22:59][jjesuspt_25] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin Starting - 5/16/2023, 12:29:23 PM              
+================================================================
+[12:29:28][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[12:29:29][jjesuspt_25] executed "START SERVER"
+[12:34:18][jjesuspt_25] executed "RESTART SERVER"
+[12:39:19][jjesuspt_25] executed "RESTART SERVER"
+[13:09:09][jjesuspt_25] executed "RESTART SERVER"
+[13:54:21][joaolitz] logged in via in-game ui
+[14:01:42][tesouras] logged in via in-game ui
+[14:05:18][jjesuspt_25] logged in via in-game ui
+[14:15:47][teixeira] logged in via in-game ui
+[14:24:30][joaolitz] logged in via in-game ui
+[14:47:00][teixeira] logged in via in-game ui
+[15:02:48][joaolic] logged in via in-game ui
+[16:12:34][jjesuspt_25] Banned <steam:110000133d6a6c7>: Cheater
+[16:13:32][jjesuspt_25] Banned <steam:11000014009a343>: Cumplice de Cheats
+[16:13:59][jjesuspt_25] Banned <steam:1100001363aa266>: Cumplice de Cheats
+[16:14:15][jjesuspt_25] Banned <steam:11000011c9b35a0>: Cumplice de Cheats
+[16:14:25][jjesuspt_25] Banned <steam:11000014cd5c2d7>: Cumplice de Cheats
+[16:14:35][jjesuspt_25] Banned <steam:1100001467f9afe>: Cumplice de Cheats
+[16:15:15][jjesuspt_25] Banned <steam:11000010c5f7377>: Cumplice de Cheats
+[16:15:24][jjesuspt_25] Banned <steam:110000141242508>: Cumplice de Cheats
+[16:15:31][jjesuspt_25] Banned <steam:110000141fa2694>: Cumplice de Cheats
+[16:15:39][jjesuspt_25] Banned <steam:110000136bed4d3>: Cumplice de Cheats
+[16:15:44][jjesuspt_25] Banned <steam:11000014400bde6>: Cumplice de Cheats
+[16:15:51][jjesuspt_25] Banned <steam:110000136a64dd9>: Cumplice de Cheats
+[16:15:57][jjesuspt_25] Banned <steam:110000131ff1294>: Cumplice de Cheats
+[16:16:05][jjesuspt_25] Banned <steam:110000114487ece>: Cumplice de Cheats
+[16:30:05][jjesuspt_25] Revoked warn id W3PC-W1X5 from doodllez_TTV
+[16:30:07][jjesuspt_25] Revoked warn id WH2M-KU4H from MO PAZ
+[16:41:12][jjesuspt_25] Warned player [50] Anda cá: Eduardo gostas de pilinha?
+[17:49:20][joaolic] logged in from 85.247.209.82 via password
+[17:49:23][joaolic] executed "RESTART SERVER"
+[17:53:18][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[17:56:34][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[17:59:52][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[18:03:11][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[18:06:49][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[18:10:17][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[19:00:32][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[19:03:03][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[02:12:25][joaolic] logged in via in-game ui
+[02:13:46][joaolic] logged in via in-game ui
+[04:32:34][jjesuspt_25] executed "txaKickAll "RR""
+[04:32:36][jjesuspt_25] executed "RESTART SERVER"
+[04:35:50][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[04:40:32][jjesuspt_25] logged in via in-game ui
+[05:00:49][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:05:06][jjesuspt_25] logged in via in-game ui
+[05:26:13][jjesuspt_25] executed "ensure "Johnny_Hud""
+[05:26:55][jjesuspt_25] executed "ensure "Johnny_Hud""
+[05:29:13][jjesuspt_25] executed "ensure "Johnny_Hud""
+[05:36:16][jjesuspt_25] executed "ensure Johnny_Hud"
+[05:36:29][jjesuspt_25] executed "ensure Johnny_Hud"
+[05:36:38][jjesuspt_25] executed "ensure Johnny_Hud"
+[05:39:59][jjesuspt_25] executed "ensure Johnny_Hud"
+[05:41:21][jjesuspt_25] executed "ensure Johnny_Hud"
+[05:41:58][jjesuspt_25] executed "ensure Johnny_Hud"
+[05:42:58][jjesuspt_25] executed "ensure Johnny_Hud"
+[05:44:47][jjesuspt_25] executed "ensure Johnny_Hud"
+[05:45:03][jjesuspt_25] executed "ensure Johnny_Hud"
+[05:45:33][jjesuspt_25] executed "ensure Johnny_Hud"
+[05:46:33][jjesuspt_25] executed "ensure Johnny_Hud"
+[05:46:48][jjesuspt_25] executed "lynx enable"
+[05:52:11][jjesuspt_25] executed "ensure Johnny_INEM"
+[05:53:09][jjesuspt_25] executed "ensure Johnny_INEM"
+[05:54:25][jjesuspt_25] executed "ensure Johnny_INEM"
+[05:54:42][jjesuspt_25] executed "ensure Johnny_INEM"
+[05:55:17][jjesuspt_25] executed "ensure Johnny_INEM"
+[05:55:27][jjesuspt_25] executed "ensure Johnny_INEM"
+[05:55:44][jjesuspt_25] executed "ensure Johnny_INEM"
+[05:57:54][jjesuspt_25] executed "lynx enable"
+[05:59:18][joaolitz] logged in via in-game ui
+[06:01:01][jjesuspt_25] executed "ensure Johnny_INEM"
+[06:01:02][jjesuspt_25] executed "lynx enable"
+[06:02:22][jjesuspt_25] executed "ensure Johnny_INEM"
+[06:02:26][jjesuspt_25] executed "lynx enable"
+[06:05:07][jjesuspt_25] executed "ensure Johnny_INEM"
+[06:05:08][jjesuspt_25] executed "lynx enable"
+[06:32:58][jjesuspt_25] executed "ensure "cd_garage""
+[06:33:11][jjesuspt_25] executed "lynx enable"
+[06:33:37][jjesuspt_25] executed "ensure "cd_garage""
+[06:33:42][jjesuspt_25] executed "lynx enable"
+[06:57:59][jjesuspt_25] executed "ensure "cd_garage""
+[06:58:08][jjesuspt_25] executed "lynx enable"
+[06:59:32][jjesuspt_25] executed "refresh"
+[06:59:42][jjesuspt_25] executed "ensure "JAM""
+[06:59:57][jjesuspt_25] executed "lynx enable"
+[08:27:14][joaolitz] logged in via in-game ui
+[09:20:00][jjesuspt_25] executed "refresh"
+[09:20:03][jjesuspt_25] executed "ensure JAM"
+[09:20:05][jjesuspt_25] executed "lynx enable"
+[09:20:13][jjesuspt_25] Sending announcement: testem o stand
+[09:42:42][teixeira] logged in from 85.245.28.144 via password
+[09:43:04][teixeira] Warned player [34] Lowayy: gay
+[09:43:40][teixeira] Warned player [34] Lowayy: gay do caralho
+[09:46:25][teixeira] Warned player [32] vortex2k3: Atenção ao AFK, na próxima vais BAN 7 dias.
+[09:52:11][teixeira] logged in via in-game ui
+[10:56:44][jjesuspt_25] Banned <steam:1100001476586a9>: javardao, volta pra cona da tua mae
+[11:01:53][tesouras] logged in via in-game ui
+[11:54:47][teixeira] Warned player [34] Lowayy: Cao do caralho
+[11:54:55][teixeira] Warned player [32] vortex2k3: Cao do caralho
+[12:00:59][SCHEDULER] Restarting server (scheduled restart at 12:00).
+
+================================================================
+======== txAdmin Starting - 5/17/2023, 12:02:28 PM              
+================================================================
+[12:02:31][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[12:02:33][jjesuspt_25] executed "START SERVER"
+[12:05:48][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[12:07:58][tesouras] logged in via in-game ui
+[12:09:21][teixeira] logged in via in-game ui
+[12:15:26][jjesuspt_25] executed "restart Johnny_SomCarros"
+[12:15:30][jjesuspt_25] executed "lynx enable"
+[12:16:47][jjesuspt_25] executed "restart Johnny_SomCarros"
+[12:16:49][jjesuspt_25] executed "lynx enable"
+[12:49:55][joaolitz] logged in via in-game ui
+[13:00:10][joaolitz] logged in via in-game ui
+[14:09:34][joaolitz] logged in via in-game ui
+[15:10:36][teixeira] logged in via in-game ui
+[16:55:15][joaolitz] logged in via in-game ui
+[17:09:45][joaolitz] logged in via in-game ui
+[19:00:37][SCHEDULER] Restarting server (scheduled restart at 19:00).
+[19:25:21][jjesuspt_25] Changing fxRunner settings.
+[19:29:08][jjesuspt_25] Sending announcement: Pessoal vou precisar de colocar o sv em manutenção para dar um update em vários scripts, guardem os vossos itens e deem disconnect por favor Ass: Johnny
+[19:30:57][jjesuspt_25] Sending announcement: vou fechar em 5 minutos
+[19:35:38][jjesuspt_25] executed "STOP SERVER"
+
+================================================================
+======== txAdmin Starting - 5/17/2023, 7:55:23 PM               
+================================================================
+[19:55:28][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[19:55:32][jjesuspt_25] executed "START SERVER"
+[19:56:35][jjesuspt_25] executed "RESTART SERVER"
+[19:57:42][jjesuspt_25] executed "ensure qs-vehiclekeys"
+[19:58:52][jjesuspt_25] executed "ensure baseevents"
+[19:58:56][jjesuspt_25] executed "ensure qs-vehiclekeys"
+[19:59:38][jjesuspt_25] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin Starting - 5/17/2023, 8:01:59 PM               
+================================================================
+[20:02:21][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[20:02:36][jjesuspt_25] executed "START SERVER"
+[20:05:02][jjesuspt_25] executed "lynx enabled"
+[20:05:04][jjesuspt_25] executed "lynx enabled"
+[20:05:06][jjesuspt_25] executed "lynx enable"
+[20:07:03][Johnny73PT] logged in via in-game ui
+[20:22:20][jjesuspt_25] executed "STOP SERVER"
+[20:22:33][jjesuspt_25] executed "START SERVER"
+[20:24:41][jjesuspt_25] executed "lynx enable"
+[20:25:59][Johnny73PT] logged in via in-game ui
+[20:43:25][jjesuspt_25] executed "exportQS"
+[20:46:18][jjesuspt_25] executed "ensure qs-vehiclekeys"
+[20:46:23][jjesuspt_25] executed "lynx enable"
+[01:19:58][teixeira] logged in via in-game ui
+[03:10:07][jjesuspt_25] logged in via in-game ui
+[03:15:05][jjesuspt_25] executed "ensure "qs-shops""
+[03:16:25][jjesuspt_25] executed "ensure "qs-shops""
+[03:19:25][jjesuspt_25] executed "ensure "qs-shops""
+[03:19:57][jjesuspt_25] executed "ensure "qs-shops""
+[03:20:46][jjesuspt_25] executed "ensure "qs-shops""
+[03:23:48][jjesuspt_25] executed "ensure "qs-shops""
+[03:25:49][jjesuspt_25] executed "ensure "qs-shops""
+[03:28:12][jjesuspt_25] executed "ensure "qs-shops""
+[03:29:40][jjesuspt_25] executed "lynx enabled"
+[03:29:48][jjesuspt_25] executed "lynx enable"
+[03:29:53][jjesuspt_25] executed "ensure "qs-shops""
+[03:30:47][jjesuspt_25] executed "ensure "qs-shops""
+[03:30:51][jjesuspt_25] executed "lynx enable"
+[05:00:09][SCHEDULER] Restarting server (scheduled restart at 05:00).
+[05:03:50][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[05:05:50][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[05:28:44][joaolic] logged in via in-game ui
+[05:40:05][joaolic] logged in via in-game ui
+[07:32:44][joaolitz] logged in via in-game ui
+[08:56:32][joaolitz] logged in via in-game ui
+[09:09:22][jjesuspt_25] logged in from 87.103.56.81 via citizenfx
+[09:09:22][joaolitz] logged in via in-game ui
+[09:09:26][jjesuspt_25] executed "STOP SERVER"
+
+================================================================
+======== txAdmin Starting - 5/18/2023, 9:35:26 AM               
+================================================================
+[09:36:30][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[09:36:55][jjesuspt_25] Changing Player Controller settings.
+[09:36:59][jjesuspt_25] executed "START SERVER"
+[09:40:00][MONITOR] Restarting server (resource "Johnny_Roupas" failed to start within the 90s time limit).
+[09:40:56][jjesuspt_25] executed "RESTART SERVER"
+[09:44:02][jjesuspt_25] executed "lynx enable"
+[09:44:09][jjesuspt_25] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin Starting - 5/18/2023, 9:46:54 AM               
+================================================================
+[09:47:06][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[09:47:12][jjesuspt_25] executed "START SERVER"
+[09:50:33][jjesuspt_25] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin Starting - 5/18/2023, 9:54:33 AM               
+================================================================
+
+================================================================
+======== txAdmin Starting - 5/18/2023, 9:57:34 AM               
+================================================================
+[09:57:48][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[09:57:50][jjesuspt_25] executed "START SERVER"
+[10:05:49][jjesuspt_25] executed "RESTART SERVER"
+[10:15:30][jjesuspt_25] executed "RESTART SERVER"
+[10:29:13][jjesuspt_25] executed "RESTART SERVER"
+[10:33:32][jjesuspt_25] Approved whitelist request from JokerPT#6539.
+[10:54:13][jjesuspt_25] Approved whitelist request from guifranco1904#0945.
+[10:54:25][jjesuspt_25] executed "ensure qs-armor"
+[11:12:48][jjesuspt_25] executed "lynx enable"
+[11:19:16][jjesuspt_25] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin Starting - 5/18/2023, 11:35:38 AM              
+================================================================
+[11:35:56][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[11:36:02][jjesuspt_25] executed "START SERVER"
+[11:40:30][jjesuspt_25] Approved whitelist request from OlivS#2809.
+[11:41:50][tesouras] logged in via in-game ui
+[11:51:22][jjesuspt_25] executed "RESTART SERVER"
+[11:53:14][tesouras] logged in via in-game ui
+[12:00:38][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:03:19][jjesuspt_25] executed "RESTART SERVER"
+[12:05:30][jjesuspt_25] executed "RESTART SERVER"
+[12:07:02][jjesuspt_25] executed "RESTART SERVER"
+[12:14:39][jjesuspt_25] executed "RESTART SERVER"
+[12:32:04][jjesuspt_25] executed "RESTART SERVER"
+[12:40:25][jjesuspt_25] executed "RESTART SERVER"
+[12:53:00][jjesuspt_25] executed "RESTART SERVER"
+[13:18:27][tesouras] logged in via in-game ui
+[13:22:39][jjesuspt_25] executed "restart Johnny_SomCarros"
+[13:22:42][jjesuspt_25] executed "lynx enabled"
+[13:23:13][jjesuspt_25] executed "lynx enabled"
+[13:23:24][jjesuspt_25] executed "lynx enable"
+[13:25:54][jjesuspt_25] executed "restart Johnny_SomCarros"
+[13:25:57][jjesuspt_25] executed "lynx enable"
+[13:27:35][jjesuspt_25] executed "restart Johnny_SomCarros"
+[13:27:36][jjesuspt_25] executed "lynx enable"
+[13:28:13][tesouras] logged in via in-game ui
+[13:28:36][jjesuspt_25] executed "RESTART SERVER"
+[13:31:18][tesouras] logged in via in-game ui
+[13:33:13][jjesuspt_25] executed "restart Johnny_SomCarros"
+[13:33:16][jjesuspt_25] executed "lynx enabled"
+[13:33:21][jjesuspt_25] executed "lynx enable"
+[13:33:38][jjesuspt_25] executed "restart Johnny_Carros"
+[13:33:42][jjesuspt_25] executed "lynx enabled"
+[13:33:49][jjesuspt_25] executed "RESTART SERVER"
+[13:36:02][tesouras] logged in via in-game ui
+[13:38:01][jjesuspt_25] Approved whitelist request from Scream_Succesor#3495.
+[13:50:56][jjesuspt_25] executed "restart qs_shops"
+[13:51:01][jjesuspt_25] executed "lynx enable"
+[13:51:02][jjesuspt_25] executed "lynx enable"
+[13:51:49][jjesuspt_25] executed "restart qs-shops"
+[13:51:53][jjesuspt_25] executed "lynx enable"
+[14:36:26][jjesuspt_25] executed "lynx enabled"
+[14:36:27][jjesuspt_25] executed "lynx enabled"
+[14:36:32][jjesuspt_25] executed "lynx enabled"
+[14:36:36][jjesuspt_25] executed "lynx enable"
+[14:44:49][jjesuspt_25] executed "lynx enable"
+[14:47:54][jjesuspt_25] executed "lynx enable"
+[14:51:35][jjesuspt_25] executed "lynx enable"
+[14:52:14][jjesuspt_25] executed "lynx enable"
+[16:45:44][jjesuspt_25] executed "STOP SERVER"
+[16:45:58][jjesuspt_25] executed "START SERVER"
+[16:48:26][jjesuspt_25] executed "refresh"
+[16:48:30][jjesuspt_25] executed "ensure LuxuModules"
+[16:48:37][jjesuspt_25] executed "ensure LuxuAdmin"
+[16:49:01][jjesuspt_25] executed "refresh"
+[16:49:02][jjesuspt_25] executed "ensure LuxuModules"
+[16:49:04][jjesuspt_25] executed "ensure LuxuAdmin"
+[16:49:09][jjesuspt_25] executed "ensure LuxuAdmin"
+[16:49:15][jjesuspt_25] executed "ensure LuxuAdmin"
+[16:50:02][jjesuspt_25] executed "ensure LuxuModules"
+[17:22:53][jjesuspt_25] executed "STOP SERVER"
+[17:23:00][jjesuspt_25] executed "START SERVER"
+[17:27:27][jjesuspt_25] executed "lynx enable"
+[17:29:28][jjesuspt_25] Approved whitelist request from Johnny73-#9404.
+[17:29:34][jjesuspt_25] Approved whitelist request from joãolitz#3054.
+[17:29:36][jjesuspt_25] Approved whitelist request from danny_77#6901.
+[17:31:45][Johnny73PT] logged in via in-game ui
+[17:50:16][jjesuspt_25] executed "refresh"
+[17:50:21][jjesuspt_25] executed "ensure Johnny_Modules"
+[17:50:26][jjesuspt_25] executed "ensure LuxuAdmin"
+[17:52:11][jjesuspt_25] executed "refresh"
+[17:52:12][jjesuspt_25] executed "ensure LuxuAdmin"
+[17:53:13][jjesuspt_25] executed "ensure LuxuAdmin"
+[17:54:54][jjesuspt_25] executed "ensure LuxuModules"
+[17:54:55][jjesuspt_25] executed "ensure LuxuAdmin"
+[17:57:01][jjesuspt_25] executed "ensure LuxuModules"
+[17:57:02][jjesuspt_25] executed "ensure LuxuAdmin"
+[18:00:02][jjesuspt_25] executed "ensure LuxuModules"
+[18:00:03][jjesuspt_25] executed "ensure LuxuAdmin"
+[18:01:51][jjesuspt_25] executed "ensure LuxuModules"
+[18:01:51][jjesuspt_25] executed "ensure LuxuAdmin"
+[18:02:37][jjesuspt_25] executed "ensure LuxuModules"
+[18:02:38][jjesuspt_25] executed "ensure LuxuAdmin"
+[18:32:10][jjesuspt_25] executed "ensure LuxuModules"
+[18:32:10][jjesuspt_25] executed "ensure LuxuAdmin"
+[18:33:38][jjesuspt_25] executed "ensure LuxuModules"
+[18:33:38][jjesuspt_25] executed "ensure LuxuModules"
+[18:33:39][jjesuspt_25] executed "ensure LuxuModules"
+[18:33:43][jjesuspt_25] executed "ensure LuxuAdmin"
+[18:34:27][jjesuspt_25] executed "RESTART SERVER"
+[18:37:40][Johnny73PT] logged in via in-game ui
+[18:43:43][jjesuspt_25] executed "ensure LuxuModules"
+[18:43:47][jjesuspt_25] executed "ensure LuxuAdmin"
+[18:46:47][jjesuspt_25] executed "ensure qs-vehiclekeys"
+[18:46:50][jjesuspt_25] executed "lynx enable"
+[18:48:40][jjesuspt_25] executed "refresh"
+[18:48:41][jjesuspt_25] executed "ensure qs-vehiclekeys"
+[18:53:36][jjesuspt_25] executed "ensure LuxuModules"
+[18:53:38][jjesuspt_25] executed "ensure LuxuAdmin"
+[18:54:59][jjesuspt_25] executed "ensure LuxuModules"
+[18:55:00][jjesuspt_25] executed "ensure LuxuAdmin"
+[18:56:17][jjesuspt_25] executed "ensure LuxuModules"
+[18:56:18][jjesuspt_25] executed "ensure LuxuAdmin"
+[18:56:29][jjesuspt_25] Changing monitor settings.
+[18:58:31][jjesuspt_25] executed "lynx enable"
+[19:14:37][jjesuspt_25] executed "ensure LuxuModules"
+[19:14:42][jjesuspt_25] executed "ensure LuxuAdmin"
+[19:17:49][jjesuspt_25] executed "ensure LuxuModules"
+[19:17:49][jjesuspt_25] executed "ensure LuxuAdmin"
+[19:19:14][jjesuspt_25] executed "ensure LuxuModules"
+[19:19:14][jjesuspt_25] executed "ensure LuxuAdmin"
+
+================================================================
+======== txAdmin Starting - 5/18/2023, 8:35:25 PM               
+================================================================
+[20:35:34][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[20:51:45][jjesuspt_25] executed "START SERVER"
+[20:54:04][jjesuspt_25] executed "lynx enable"
+
+================================================================
+======== txAdmin Starting - 5/18/2023, 10:00:41 PM              
+================================================================
+[22:00:51][jjesuspt_25] logged in from 127.0.0.1 via citizenfx
+[22:00:53][jjesuspt_25] executed "START SERVER"
+[22:10:29][jjesuspt_25] executed "RESTART SERVER"
+[22:23:18][jjesuspt_25] executed "STOP SERVER"

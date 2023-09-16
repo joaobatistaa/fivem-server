@@ -1,0 +1,48 @@
+23:24:17 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+23:24:17 [^4Auth^0] [^5INFO^0] You're currently connected to ^3ChocoHax.NET Classic #2^0
+23:24:17 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+23:24:17 [^4Auth^0] [^5INFO^0] Latest News - ^3Welcome to ChocoHax, to maintain a safe environment for all users, we have implemented a few rules. Please read them carefully.^0
+23:24:34 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+23:26:11 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+23:26:11 [^4Auth^0] [^5INFO^0] You're currently connected to ^3ChocoHax.NET Classic #2^0
+23:26:11 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+23:26:11 [^4Auth^0] [^5INFO^0] Latest News - ^3Welcome to ChocoHax, to maintain a safe environment for all users, we have implemented a few rules. Please read them carefully.^0
+23:28:19 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+23:28:19 [^4Auth^0] [^5INFO^0] You're currently connected to ^3ChocoHax.NET Classic #2^0
+23:28:19 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+23:28:19 [^4Auth^0] [^5INFO^0] Latest News - ^3Welcome to ChocoHax, to maintain a safe environment for all users, we have implemented a few rules. Please read them carefully.^0
+23:33:22 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+23:33:22 [^4Auth^0] [^5INFO^0] You're currently connected to ^3ChocoHax.NET Classic #2^0
+23:33:22 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+23:33:22 [^4Auth^0] [^5INFO^0] Latest News - ^3Welcome to ChocoHax, to maintain a safe environment for all users, we have implemented a few rules. Please read them carefully.^0
+23:34:51 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+23:34:51 [^4Auth^0] [^5INFO^0] You're currently connected to ^3ChocoHax.NET Classic #2^0
+23:34:51 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+23:34:51 [^4Auth^0] [^5INFO^0] Latest News - ^3Welcome to ChocoHax, to maintain a safe environment for all users, we have implemented a few rules. Please read them carefully.^0
+23:36:02 [^4ChocoHax^0] [^1ERR^0] lynx create group max * is an invalid command
+23:36:13 [^4Permissions^0] [^2SUCCESS^0] Permissions Group => ^3group^0 has been created
+23:36:13 [^4Permissions^0] [^5INFO^0] Permission Granted => ^3teleport^0 for the group => ^3group^0
+23:36:13 [^4Permissions^0] [^5INFO^0] Permission Granted => ^3debugMenu^0 for the group => ^3group^0
+23:36:13 [^4Permissions^0] [^5INFO^0] Permission Granted => ^3vehicles^0 for the group => ^3group^0
+23:36:13 [^4Permissions^0] [^5INFO^0] Permission Granted => ^3adminmenu^0 for the group => ^3group^0
+23:36:13 [^4Permissions^0] [^5INFO^0] Permission Granted => ^3entitiesProtection^0 for the group => ^3group^0
+23:36:13 [^4Permissions^0] [^5INFO^0] Permission Granted => ^3weaponsProtection^0 for the group => ^3group^0
+23:36:13 [^4Permissions^0] [^5INFO^0] Permission Granted => ^3ban^0 for the group => ^3group^0
+23:36:13 [^4Permissions^0] [^5INFO^0] Permission Granted => ^3clientBypass^0 for the group => ^3group^0
+23:36:13 [^4Permissions^0] [^5INFO^0] Permission Granted => ^3spectate^0 for the group => ^3group^0
+23:36:13 [^4Permissions^0] [^5INFO^0] Permission Granted => ^3weapons^0 for the group => ^3group^0
+23:36:13 [^4Permissions^0] [^5INFO^0] Permission Granted => ^3fxparticlesProtection^0 for the group => ^3group^0
+23:36:13 [^4Permissions^0] [^5INFO^0] Permission Granted => ^3screenshot^0 for the group => ^3group^0
+23:36:13 [^4Permissions^0] [^5INFO^0] Permission Granted => ^3explosionProtection^0 for the group => ^3group^0
+23:36:13 [^4Permissions^0] [^5INFO^0] Permission Granted => ^3loginProtection^0 for the group => ^3group^0
+23:36:13 [^4Permissions^0] [^5INFO^0] Permission Granted => ^3getids^0 for the group => ^3group^0
+23:36:13 [^4Permissions^0] [^5INFO^0] Permission Granted => ^3cleararea^0 for the group => ^3group^0
+23:36:13 [^4Permissions^0] [^5INFO^0] Permission Granted => ^3chatProtection^0 for the group => ^3group^0
+23:36:14 [^4Permissions^0] [^5INFO^0] Permission Granted => ^3kick^0 for the group => ^3group^0
+23:36:14 [^4Permissions^0] [^5INFO^0] Permission Granted => ^3clearpedtasksimmediatelyProtection^0 for the group => ^3group^0
+23:36:14 [^4Permissions^0] [^5INFO^0] Permission Granted => ^3esp^0 for the group => ^3group^0
+23:37:25 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+23:37:25 [^4Auth^0] [^5INFO^0] You're currently connected to ^3ChocoHax.NET Classic #2^0
+23:37:25 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+23:37:25 [^4Auth^0] [^5INFO^0] Latest News - ^3Welcome to ChocoHax, to maintain a safe environment for all users, we have implemented a few rules. Please read them carefully.^0
+23:58:47 [^4loginProtection^0] [^5INFO^0] ^3Macran Eristoff aka fiesta^0 disconnected from the server...

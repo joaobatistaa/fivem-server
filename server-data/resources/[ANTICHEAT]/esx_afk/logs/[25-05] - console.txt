@@ -1,0 +1,26 @@
+04:05:46 [^4Auth^0] [^5INFO^0] Conectado ao ChocoHax... Bem-vindo ^3jjesus_25^0
+04:05:46 [^4Auth^0] [^5INFO^0] Você está atualmente conectado a ^3Lynx Collective (Google LLC #2)^0
+04:05:46 [^4Auth^0] [^5INFO^0] O IP do seu servidor atual: ^351.91.215.9^0
+04:05:46 [^4Auth^0] [^5INFO^0] Últimas notícias - ^3ChocoHax 1.8.3 has been released, check out the forum for more info!^0
+04:05:46 [^4Auth^0] [^5INFO^0] Há uma nova atualização para ChocoHax => ^31.8.3r2^0
+09:42:55 [^4Ban System^0] [^2SUCCESS^0] [+] ^3392527^0
+09:42:55 [^4ChocoLog^0] [^5INFO^0] [^1Banido globalmente^0] [^219^0] (^2POUCAS CONVERSAS^0) foi detectado por ^2ChocoHaxAI^0 para ^3ChocoHax AI^0
+09:42:55 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+12:06:36 [^4Auth^0] [^5INFO^0] Conectado ao ChocoHax... Bem-vindo ^3jjesus_25^0
+12:06:36 [^4Auth^0] [^5INFO^0] Você está atualmente conectado a ^3Lynx Collective (Google LLC #2)^0
+12:06:37 [^4Auth^0] [^5INFO^0] O IP do seu servidor atual: ^351.91.215.9^0
+12:06:37 [^4Auth^0] [^5INFO^0] Últimas notícias - ^3ChocoHax 1.8.3 has been released, check out the forum for more info!^0
+12:06:37 [^4Auth^0] [^5INFO^0] Há uma nova atualização para ChocoHax => ^31.8.3r2^0
+13:03:55 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+13:03:58 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+13:03:59 [^4ChocoLog^0] [^5INFO^0] [^1Aviso^0] [^22^0] (^2CavalinhoOriginal^0) foi detectado por ^2clientProtection^0 para ^3Anti Resource Restart^0
+13:03:59 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+13:04:05 [^4ChocoLog^0] [^5INFO^0] [^1Aviso^0] [^215^0] (^2TaDeRibeir0^0) foi detectado por ^2clientProtection^0 para ^3Anti Resource Restart^0
+13:04:05 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+13:04:05 [^4ChocoLog^0] [^5INFO^0] [^1Aviso^0] [^215^0] (^2TaDeRibeir0^0) foi detectado por ^2clientProtection^0 para ^3Anti Resource Restart^0
+13:04:05 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+19:00:49 [^4Auth^0] [^5INFO^0] Conectado ao ChocoHax... Bem-vindo ^3jjesus_25^0
+19:00:49 [^4Auth^0] [^5INFO^0] Você está atualmente conectado a ^3Lynx Collective (Google LLC #2)^0
+19:00:49 [^4Auth^0] [^5INFO^0] O IP do seu servidor atual: ^351.91.215.9^0
+19:00:49 [^4Auth^0] [^5INFO^0] Últimas notícias - ^3ChocoHax 1.8.3 has been released, check out the forum for more info!^0
+19:00:49 [^4Auth^0] [^5INFO^0] Há uma nova atualização para ChocoHax => ^31.8.3r2^0

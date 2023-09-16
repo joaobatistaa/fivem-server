@@ -1,0 +1,372 @@
+10:05:47 [Warning] [10] (TIMI) has been detected by eventsProtection for Logged Event
+10:19:47 [Warning] [11] (ligma) has been detected by eventsProtection for Logged Event
+10:20:34 [Warning] [11] (ligma) has been detected by eventsProtection for Logged Event
+10:21:48 [Warning] [11] (ligma) has been detected by eventsProtection for Logged Event
+10:21:55 [Warning] [11] (ligma) has been detected by eventsProtection for Logged Event
+10:22:14 [Warning] [11] (ligma) has been detected by eventsProtection for Logged Event
+10:22:19 [Warning] [11] (ligma) has been detected by eventsProtection for Logged Event
+10:22:26 [Warning] [11] (ligma) has been detected by eventsProtection for Logged Event
+10:22:52 [Warning] [11] (ligma) has been detected by eventsProtection for Logged Event
+10:22:58 [Warning] [11] (ligma) has been detected by eventsProtection for Logged Event
+10:23:40 [Warning] [11] (ligma) has been detected by eventsProtection for Logged Event
+10:32:43 [Warning] [11] (ligma) has been detected by eventsProtection for Logged Event
+10:50:59 [Warning] [10] (TIMI) has been detected by eventsProtection for Logged Event
+13:53:59 [Warning] [11] (Dr. Salazar) has been detected by eventsProtection for Logged Event
+13:55:36 [Warning] [11] (Dr. Salazar) has been detected by eventsProtection for Logged Event
+14:33:09 [Warning] [11] (Dr. Salazar) has been detected by eventsProtection for Logged Event
+14:34:12 [Warning] [11] (Dr. Salazar) has been detected by eventsProtection for Logged Event
+14:37:43 [Warning] [11] (Dr. Salazar) has been detected by eventsProtection for Logged Event
+14:39:44 [Warning] [11] (Dr. Salazar) has been detected by eventsProtection for Logged Event
+15:00:19 [Warning] [29] (Vittali_) has been detected by eventsProtection for Logged Event
+15:05:57 [Warning] [25] (Mshow) has been detected by eventsProtection for Logged Event
+15:39:38 [Warning] [11] (Dr. Salazar) has been detected by eventsProtection for Logged Event
+15:41:13 [Warning] [11] (Dr. Salazar) has been detected by eventsProtection for Logged Event
+15:54:29 [Warning] [43] (TIMI) has been detected by eventsProtection for Logged Event
+15:54:57 [Warning] [34] (SHU PASSEIOS) has been detected by eventsProtection for Logged Event
+16:01:58 [Warning] [29] (Vittali_) has been detected by eventsProtection for Logged Event
+16:03:00 [Warning] [41] (MO PAZ) has been detected by eventsProtection for Logged Event
+16:04:48 [Warning] [41] (MO PAZ) has been detected by eventsProtection for Logged Event
+16:12:22 [Warning] [41] (MO PAZ) has been detected by eventsProtection for Logged Event
+16:58:39 [Warning] [14] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+17:56:26 [Warning] [48] (Dr. Salazar) has been detected by eventsProtection for Logged Event
+20:14:01 [Warning] [79] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:14:01 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:14:13 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:32:54 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:33:00 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:33:03 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:33:05 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:33:09 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:33:12 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:33:14 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:33:17 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:33:18 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:33:22 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:33:23 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:33:27 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:33:28 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:33:33 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:33:36 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:33:38 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:33:44 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:33:45 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:33:49 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:33:51 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:33:54 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:33:57 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:34:00 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:34:03 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:34:04 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:34:10 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:34:10 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:34:14 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:34:15 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:34:19 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:34:20 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:34:25 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:34:26 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:34:31 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:34:31 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:34:36 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:34:37 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:34:40 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:34:43 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:34:46 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:34:49 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:34:51 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:34:55 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:34:57 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:35:01 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:35:03 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:35:08 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:36:33 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:36:34 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:36:49 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:36:49 [Warning] [9] (Migas) has been detected by eventsProtection for Logged Event
+20:36:54 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:36:59 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:37:03 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+20:37:05 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:37:10 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:37:15 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:37:21 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:37:28 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:37:34 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:37:41 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:37:48 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:37:55 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:38:02 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:38:09 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:38:15 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:38:21 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:38:28 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:38:33 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:38:38 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:38:44 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:38:50 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+20:38:56 [Warning] [102] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+21:01:01 [Warning] [73] (Teixolas) has been detected by clientProtection for Anti Resource Restart
+21:01:01 [Warning] [95] (doodllez_TTV) has been detected by clientProtection for Anti Resource Restart
+21:01:01 [Warning] [12] (Vittali_) has been detected by clientProtection for Anti Resource Restart
+21:01:03 [Warning] [20] (Raimundo 51) has been detected by clientProtection for Anti Resource Restart
+21:01:05 [Warning] [112] (babuíno africano) has been detected by clientProtection for Anti Resource Restart
+21:01:05 [Warning] [134] (Johny) has been detected by clientProtection for Anti Resource Restart
+21:01:06 [Warning] [102] (BOT Ragnar) has been detected by clientProtection for Anti Resource Restart
+21:01:08 [Warning] [120] (capito) has been detected by clientProtection for Anti Resource Restart
+21:01:09 [Warning] [133] ([YouMadBro]) has been detected by clientProtection for Anti Resource Restart
+21:01:09 [Warning] [126] (Xapamassa.nUmuro) has been detected by clientProtection for Anti Resource Restart
+21:01:10 [Warning] [115] (sandro9k-.) has been detected by clientProtection for Anti Resource Restart
+21:01:10 [Warning] [127] (chora mais) has been detected by clientProtection for Anti Resource Restart
+21:01:10 [Warning] [43] (rc) has been detected by clientProtection for Anti Resource Restart
+21:01:10 [Warning] [129] (	) has been detected by clientProtection for Anti Resource Restart
+21:01:11 [Warning] [128] (arrabida jr) has been detected by clientProtection for Anti Resource Restart
+21:01:11 [Warning] [118] (Jacao) has been detected by clientProtection for Anti Resource Restart
+21:01:11 [Warning] [135] (Skillermortal1) has been detected by clientProtection for Anti Resource Restart
+21:01:14 [Warning] [119] (uDiablo) has been detected by clientProtection for Anti Resource Restart
+21:01:15 [Warning] [1] (G0RU♡) has been detected by clientProtection for Anti Resource Restart
+21:01:15 [Warning] [91] (Dr. Fadjoja™) has been detected by clientProtection for Anti Resource Restart
+21:01:16 [Warning] [116] (guita PIMPY  ♿) has been detected by clientProtection for Anti Resource Restart
+21:01:19 [Warning] [122] (Penalty©) has been detected by clientProtection for Anti Resource Restart
+21:01:24 [Warning] [106] (jota200553) has been detected by clientProtection for Anti Resource Restart
+21:01:44 [Warning] [82] (,DANIOUSSS) has been detected by clientProtection for Anti Resource Restart
+21:02:07 [Warning] [101] (dá-lhe pelé) has been detected by clientProtection for Anti Resource Restart
+21:02:14 [Warning] [109] (Jordan Kiribi) has been detected by clientProtection for Anti Resource Restart
+21:02:16 [Warning] [124] (FLECHA) has been detected by clientProtection for Anti Resource Restart
+21:02:20 [Warning] [78] (Aisha) has been detected by clientProtection for Anti Resource Restart
+21:02:21 [Warning] [131] (𝐖𝐨𝐥𝐟𝐟) has been detected by clientProtection for Anti Resource Restart
+21:02:33 [Warning] [113] (Jotaa) has been detected by clientProtection for Anti Resource Restart
+21:03:14 [Warning] [117] (VIEIRA) has been detected by clientProtection for Anti Resource Restart
+21:03:17 [Warning] [107] (Slayer.yt) has been detected by clientProtection for Anti Resource Restart
+21:03:17 [Warning] [130] (Piriquito) has been detected by clientProtection for Anti Resource Restart
+21:06:06 [Warning] [100] (engole denovo) has been detected by clientProtection for Anti Resource Restart
+21:07:10 [Warning] [132] (Ankor) has been detected by clientProtection for Anti Resource Restart
+21:23:16 [Warning] [120] (capito) has been detected by eventsProtection for Logged Event
+22:10:03 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+22:10:08 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+22:18:36 [Warning] [73] (Teixolas) has been detected by eventsProtection for Logged Event
+22:18:50 [Warning] [73] (Teixolas) has been detected by eventsProtection for Logged Event
+22:23:35 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:23:41 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:23:46 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:23:52 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:23:58 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:24:03 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:24:09 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:24:15 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:24:21 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:24:26 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:24:30 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:24:37 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:24:43 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:24:49 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:24:57 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:25:02 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:25:07 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:25:12 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:25:17 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:25:23 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:25:30 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:30:36 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:30:46 [Warning] [129] (	) has been detected by eventsProtection for Logged Event
+22:33:30 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+22:50:07 [Warning] [187] (ligma) has been detected by eventsProtection for Logged Event
+22:50:13 [Warning] [187] (ligma) has been detected by eventsProtection for Logged Event
+22:50:18 [Warning] [187] (ligma) has been detected by eventsProtection for Logged Event
+22:50:24 [Warning] [187] (ligma) has been detected by eventsProtection for Logged Event
+22:50:33 [Warning] [187] (ligma) has been detected by eventsProtection for Logged Event
+22:50:38 [Warning] [187] (ligma) has been detected by eventsProtection for Logged Event
+22:50:44 [Warning] [187] (ligma) has been detected by eventsProtection for Logged Event
+22:50:49 [Warning] [187] (ligma) has been detected by eventsProtection for Logged Event
+22:50:54 [Warning] [187] (ligma) has been detected by eventsProtection for Logged Event
+22:51:00 [Warning] [187] (ligma) has been detected by eventsProtection for Logged Event
+22:52:14 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+22:58:12 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+22:58:14 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+22:58:17 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+22:58:22 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+22:58:25 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+22:58:28 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+22:58:30 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+22:58:33 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+22:58:36 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+22:58:39 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+22:58:41 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+22:58:45 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+22:58:45 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+22:58:51 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+22:58:51 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+22:58:56 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+22:58:56 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+22:59:00 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+22:59:02 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+22:59:07 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+22:59:08 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+22:59:13 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+22:59:13 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+22:59:17 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+22:59:19 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+22:59:23 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+22:59:25 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+22:59:30 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+22:59:30 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+22:59:36 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+22:59:37 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+22:59:42 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+22:59:43 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+22:59:48 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+22:59:49 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+22:59:53 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+22:59:55 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+22:59:59 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:00:00 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+23:00:05 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:00:06 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+23:00:11 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:00:12 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+23:00:19 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+23:00:19 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:00:25 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:00:26 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+23:00:31 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:00:31 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+23:00:37 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:00:37 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+23:00:43 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:00:43 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+23:00:49 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:00:50 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+23:00:55 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:00:55 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+23:01:01 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:01:01 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+23:01:07 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+23:01:12 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+23:01:15 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:01:16 [Warning] [202] (BOT Ragnar) has been detected by eventsProtection for Logged Event
+23:01:21 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:01:27 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:01:33 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:01:39 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:01:45 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:01:51 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:01:57 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:02:03 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:02:08 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:02:15 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:02:20 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:02:26 [Warning] [95] (doodllez_TTV) has been detected by eventsProtection for Logged Event
+23:17:55 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:19:46 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:23:49 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:23:57 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:24:02 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:24:12 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:24:18 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:24:23 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:24:42 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:24:44 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:24:48 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:24:49 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:24:53 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:24:55 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:24:57 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:25:00 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:25:02 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:25:06 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:25:06 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:25:12 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:25:12 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:25:17 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:25:17 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:25:21 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:25:23 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:25:26 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:25:28 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:25:30 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:25:34 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:25:35 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:25:39 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:25:40 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:25:46 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:25:46 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:25:51 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:25:52 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:25:57 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:25:58 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:26:02 [Warning] [142] (-OlivS -Taz) has been detected by eventsProtection for Logged Event
+23:26:04 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:26:10 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:26:15 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:27:42 [Warning] [175] (Ritler) has been detected by clientProtection for Anti Resource Restart
+23:27:46 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:27:51 [Warning] [219] (Migas) has been detected by eventsProtection for Logged Event
+23:28:06 [Warning] [213] (Quim ze  ) has been detected by clientProtection for Anti Resource Restart
+23:28:08 [Warning] [143] (Ruiafonso23) has been detected by clientProtection for Anti Resource Restart
+23:28:11 [Warning] [143] (Ruiafonso23) has been detected by clientProtection for Anti Resource Restart
+23:28:11 [Warning] [143] (Ruiafonso23) has been detected by clientProtection for Anti Resource Restart
+23:28:17 [Warning] [207] (	) has been detected by clientProtection for Anti Resource Restart
+23:28:19 [Warning] [213] (Quim ze  ) has been detected by clientProtection for Anti Resource Restart
+23:28:20 [Warning] [213] (Quim ze  ) has been detected by clientProtection for Anti Resource Restart
+23:28:28 [Warning] [207] (	) has been detected by clientProtection for Anti Resource Restart
+23:29:54 [Warning] [227] ([YouMadBro]) has been detected by clientProtection for Anti Resource Restart
+23:29:55 [Warning] [227] ([YouMadBro]) has been detected by clientProtection for Anti Resource Restart
+23:29:55 [Warning] [228] (ElGaio) has been detected by clientProtection for Anti Resource Restart
+23:29:56 [Warning] [228] (ElGaio) has been detected by clientProtection for Anti Resource Restart
+23:29:57 [Warning] [208] (vasques26) has been detected by clientProtection for Anti Resource Restart
+23:29:57 [Warning] [208] (vasques26) has been detected by clientProtection for Anti Resource Restart
+23:29:57 [Warning] [202] (BOT Ragnar) has been detected by clientProtection for Anti Resource Restart
+23:29:57 [Warning] [202] (BOT Ragnar) has been detected by clientProtection for Anti Resource Restart
+23:29:58 [Warning] [205] (Vittali_) has been detected by clientProtection for Anti Resource Restart
+23:29:58 [Warning] [234] (doodllez_TTV) has been detected by clientProtection for Anti Resource Restart
+23:29:58 [Warning] [205] (Vittali_) has been detected by clientProtection for Anti Resource Restart
+23:30:01 [Warning] [191] (TIMI) has been detected by clientProtection for Anti Resource Restart
+23:30:01 [Warning] [225] (MIX) has been detected by clientProtection for Anti Resource Restart
+23:30:01 [Warning] [191] (TIMI) has been detected by clientProtection for Anti Resource Restart
+23:30:01 [Warning] [225] (MIX) has been detected by clientProtection for Anti Resource Restart
+23:30:02 [Warning] [192] (PƐrs0n4) has been detected by clientProtection for Anti Resource Restart
+23:30:02 [Warning] [192] (PƐrs0n4) has been detected by clientProtection for Anti Resource Restart
+23:30:03 [Warning] [226] (JOHN AXE) has been detected by clientProtection for Anti Resource Restart
+23:30:03 [Warning] [206] (Pipoca) has been detected by clientProtection for Anti Resource Restart
+23:30:03 [Warning] [206] (Pipoca) has been detected by clientProtection for Anti Resource Restart
+23:30:03 [Warning] [199] (Dr. Bayard) has been detected by clientProtection for Anti Resource Restart
+23:30:04 [Warning] [199] (Dr. Bayard) has been detected by clientProtection for Anti Resource Restart
+23:30:05 [Warning] [181] (Mshow) has been detected by clientProtection for Anti Resource Restart
+23:30:05 [Warning] [156] (James Robinson #MP9FORLIFE) has been detected by clientProtection for Anti Resource Restart
+23:30:06 [Warning] [156] (James Robinson #MP9FORLIFE) has been detected by clientProtection for Anti Resource Restart
+23:30:07 [Warning] [187] (ligma) has been detected by clientProtection for Anti Resource Restart
+23:30:07 [Warning] [187] (ligma) has been detected by clientProtection for Anti Resource Restart
+23:30:09 [Warning] [214] (uDiablo) has been detected by clientProtection for Anti Resource Restart
+23:30:09 [Warning] [113] (Jotaa) has been detected by clientProtection for Anti Resource Restart
+23:30:09 [Warning] [214] (uDiablo) has been detected by clientProtection for Anti Resource Restart
+23:30:09 [Warning] [113] (Jotaa) has been detected by clientProtection for Anti Resource Restart
+23:30:10 [Warning] [115] (sandro9k-.) has been detected by clientProtection for Anti Resource Restart
+23:30:10 [Warning] [115] (sandro9k-.) has been detected by clientProtection for Anti Resource Restart
+23:30:13 [Warning] [157] (rc) has been detected by clientProtection for Anti Resource Restart
+23:30:14 [Warning] [157] (rc) has been detected by clientProtection for Anti Resource Restart
+23:30:16 [Warning] [212] (Dr. Salazar) has been detected by clientProtection for Anti Resource Restart
+23:30:17 [Warning] [212] (Dr. Salazar) has been detected by clientProtection for Anti Resource Restart
+23:30:18 [Warning] [232] (Hoje É Contra Quem?) has been detected by clientProtection for Anti Resource Restart
+23:30:18 [Warning] [20] (Raimundo 51) has been detected by clientProtection for Anti Resource Restart
+23:30:18 [Warning] [232] (Hoje É Contra Quem?) has been detected by clientProtection for Anti Resource Restart
+23:30:18 [Warning] [20] (Raimundo 51) has been detected by clientProtection for Anti Resource Restart
+23:30:19 [Warning] [122] (Penalty©) has been detected by clientProtection for Anti Resource Restart
+23:30:20 [Warning] [122] (Penalty©) has been detected by clientProtection for Anti Resource Restart
+23:30:20 [Warning] [220] (Jordan Kiribi) has been detected by clientProtection for Anti Resource Restart
+23:30:22 [Warning] [235] (Slayer.yt) has been detected by clientProtection for Anti Resource Restart
+23:31:21 [Warning] [219] (Migas) has been detected by clientProtection for Anti Resource Restart
+23:31:21 [Warning] [190] (Macaco Albino) has been detected by clientProtection for Anti Resource Restart
+23:31:22 [Warning] [185] (^9Fury Tendeiro) has been detected by clientProtection for Anti Resource Restart
+23:31:22 [Warning] [190] (Macaco Albino) has been detected by clientProtection for Anti Resource Restart
+23:31:23 [Warning] [235] (Slayer.yt) has been detected by clientProtection for Anti Resource Restart
+23:31:26 [Warning] [143] (Ruiafonso23) has been detected by clientProtection for Anti Resource Restart
+23:31:36 [Warning] [175] (Ritler) has been detected by clientProtection for Anti Resource Restart
+23:31:38 [Warning] [207] (	) has been detected by clientProtection for Anti Resource Restart
+23:31:40 [Warning] [175] (Ritler) has been detected by clientProtection for Anti Resource Restart
+23:31:41 [Warning] [207] (	) has been detected by clientProtection for Anti Resource Restart
+23:31:47 [Warning] [101] (dá-lhe pelé) has been detected by clientProtection for Anti Resource Restart
+23:31:48 [Warning] [101] (dá-lhe pelé) has been detected by clientProtection for Anti Resource Restart
+23:32:02 [Warning] [213] (Quim ze  ) has been detected by clientProtection for Anti Resource Restart
+23:32:03 [Warning] [213] (Quim ze  ) has been detected by clientProtection for Anti Resource Restart
+23:32:20 [Warning] [143] (Ruiafonso23) has been detected by clientProtection for Anti Resource Restart
+23:53:49 [Warning] [227] ([YouMadBro]) has been detected by eventsProtection for Logged Event
+23:54:15 [Warning] [227] ([YouMadBro]) has been detected by eventsProtection for Logged Event

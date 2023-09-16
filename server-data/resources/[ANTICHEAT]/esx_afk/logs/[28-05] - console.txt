@@ -1,0 +1,229 @@
+04:01:21 [^4Auth^0] [^5INFO^0] Conectado ao ChocoHax... Bem-vindo ^3jjesus_25^0
+04:01:21 [^4Auth^0] [^5INFO^0] Você está atualmente conectado a ^3Lynx Collective (Google LLC #2)^0
+04:01:21 [^4Auth^0] [^5INFO^0] O IP do seu servidor atual: ^351.91.215.9^0
+04:01:21 [^4Auth^0] [^5INFO^0] Últimas notícias - ^3ChocoHax 1.8.3 has been released, check out the forum for more info!^0
+04:01:21 [^4Auth^0] [^5INFO^0] Há uma nova atualização para ChocoHax => ^31.8.3r2^0
+10:17:04 [^4Ban System^0] [^2SUCCESS^0] [+] ^3045483^0
+10:17:04 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^221^0] (^2AGUIAR^0) foi detectado por ^2entitiesProtection^0 para ^3Blacklisted Entity^0
+10:17:04 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:16 [^4Ban System^0] [^2SUCCESS^0] [+] ^3138107^0
+10:26:16 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:16 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:16 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:16 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:17 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:26:18 [^4ChocoLog^0] [^5INFO^0] [^1Banido^0] [^223^0] (^2Joao Sapateiro^0) foi detectado por ^2weaponsProtection^0 para ^3Give Weapon^0
+10:26:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+10:48:38 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^1Disabled^0]
+10:48:41 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+12:05:50 [^4Auth^0] [^5INFO^0] Conectado ao ChocoHax... Bem-vindo ^3jjesus_25^0
+12:05:50 [^4Auth^0] [^5INFO^0] Você está atualmente conectado a ^3Lynx Collective (Google LLC #2)^0
+12:05:50 [^4Auth^0] [^5INFO^0] O IP do seu servidor atual: ^351.91.215.9^0
+12:05:50 [^4Auth^0] [^5INFO^0] Últimas notícias - ^3ChocoHax 1.8.3 has been released, check out the forum for more info!^0
+12:05:50 [^4Auth^0] [^5INFO^0] Há uma nova atualização para ChocoHax => ^31.8.3r2^0
+19:00:40 [^4Auth^0] [^5INFO^0] Conectado ao ChocoHax... Bem-vindo ^3jjesus_25^0
+19:00:40 [^4Auth^0] [^5INFO^0] Você está atualmente conectado a ^3Lynx Collective (Google LLC #2)^0
+19:00:40 [^4Auth^0] [^5INFO^0] O IP do seu servidor atual: ^351.91.215.9^0
+19:00:40 [^4Auth^0] [^5INFO^0] Últimas notícias - ^3ChocoHax 1.8.3 has been released, check out the forum for more info!^0
+19:00:40 [^4Auth^0] [^5INFO^0] Há uma nova atualização para ChocoHax => ^31.8.3r2^0

@@ -1,0 +1,24 @@
+04:01:36 [^4Auth^0] [^5INFO^0] Conectado ao ChocoHax... Bem-vindo ^3jjesus_25^0
+04:01:36 [^4Auth^0] [^5INFO^0] Você está atualmente conectado a ^3Lynx Collective (Google LLC #2)^0
+04:01:36 [^4Auth^0] [^5INFO^0] O IP do seu servidor atual: ^351.91.215.9^0
+04:01:36 [^4Auth^0] [^5INFO^0] Últimas notícias - ^3ChocoHax 1.8.3 has been released, check out the forum for more info!^0
+04:01:36 [^4Auth^0] [^5INFO^0] Há uma nova atualização para ChocoHax => ^31.8.3r2^0
+11:56:11 [^4Auth^0] [^5INFO^0] Conectado ao ChocoHax... Bem-vindo ^3jjesus_25^0
+11:56:11 [^4Auth^0] [^5INFO^0] Você está atualmente conectado a ^3Lynx Collective (Google LLC #2)^0
+11:56:11 [^4Auth^0] [^5INFO^0] O IP do seu servidor atual: ^351.91.215.9^0
+11:56:11 [^4Auth^0] [^5INFO^0] Últimas notícias - ^3ChocoHax 1.8.3 has been released, check out the forum for more info!^0
+11:56:11 [^4Auth^0] [^5INFO^0] Há uma nova atualização para ChocoHax => ^31.8.3r2^0
+11:56:24 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+11:57:11 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:58:11 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+11:59:08 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+12:00:52 [^4Auth^0] [^5INFO^0] Conectado ao ChocoHax... Bem-vindo ^3jjesus_25^0
+12:00:52 [^4Auth^0] [^5INFO^0] Você está atualmente conectado a ^3Lynx Collective (Google LLC #2)^0
+12:00:52 [^4Auth^0] [^5INFO^0] O IP do seu servidor atual: ^351.91.215.9^0
+12:00:52 [^4Auth^0] [^5INFO^0] Últimas notícias - ^3ChocoHax 1.8.3 has been released, check out the forum for more info!^0
+12:00:52 [^4Auth^0] [^5INFO^0] Há uma nova atualização para ChocoHax => ^31.8.3r2^0
+19:01:07 [^4Auth^0] [^5INFO^0] Conectado ao ChocoHax... Bem-vindo ^3jjesus_25^0
+19:01:07 [^4Auth^0] [^5INFO^0] Você está atualmente conectado a ^3Lynx Collective (Google LLC #2)^0
+19:01:07 [^4Auth^0] [^5INFO^0] O IP do seu servidor atual: ^351.91.215.9^0
+19:01:07 [^4Auth^0] [^5INFO^0] Últimas notícias - ^3ChocoHax 1.8.3 has been released, check out the forum for more info!^0
+19:01:07 [^4Auth^0] [^5INFO^0] Há uma nova atualização para ChocoHax => ^31.8.3r2^0

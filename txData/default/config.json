@@ -1,0 +1,48 @@
+{
+  "global": {
+    "serverName": "worldtugarp",
+    "language": "pt",
+    "menuEnabled": true,
+    "menuAlignRight": false,
+    "menuPageKey": "Tab",
+    "hideDefaultAnnouncement": false,
+    "hideDefaultDirectMessage": false,
+    "hideDefaultWarning": false,
+    "hideDefaultScheduledRestartWarning": false
+  },
+  "logger": {},
+  "monitor": {
+    "restarterSchedule": [
+      "04:00",
+      "19:00",
+      "12:00"
+    ],
+    "resourceStartingTolerance": "90"
+  },
+  "playerDatabase": {
+    "onJoinCheckBan": true,
+    "whitelistMode": "disabled",
+    "whitelistedDiscordRoles": [],
+    "whitelistRejectionMessage": "Please join http://discord.gg/example and request to be whitelisted.",
+    "banRejectionMessage": "Foste banido do servidor!\nSe achas que foste banido injustamente, abre ticket no discord:\ndiscord.gg/APHUfj5u8p"
+  },
+  "webServer": {
+    "disableNuiSourceCheck": false
+  },
+  "discordBot": {
+    "enabled": true,
+    "token": "OTU3OTI2NjUyNjk5MTE1NTYw.G6dIYk.Pm1ADnKYkQmvwNZhE7dfxQm54F56jEuqQQA43k",
+    "guild": "956591891313479730",
+    "announceChannel": "1098616719704076288",
+    "embedJson": "{\n  \"title\": \"{{serverName}}\",\n  \"url\": \"{{serverBrowserUrl}}\",\n  \"description\": \"Estado do Servidor\",\n  \"fields\": [\n    {\n      \"name\": \"> STATUS\",\n      \"value\": \"```\\n{{statusString}}\\n```\",\n      \"inline\": true\n    },\n    {\n      \"name\": \"> PLAYERS\",\n      \"value\": \"```\\n{{serverClients}}/{{serverMaxClients}}\\n```\",\n      \"inline\": true\n    },\n    {\n      \"name\": \"> F8 CONNECT COMMAND\",\n      \"value\": \"```\\nconnect 123.123.123.123\\n```\"\n    },\n    {\n      \"name\": \"> NEXT RESTART\",\n      \"value\": \"```\\n{{nextScheduledRestart}}\\n```\",\n      \"inline\": true\n    },\n    {\n      \"name\": \"> UPTIME\",\n      \"value\": \"```\\n{{uptime}}\\n```\",\n      \"inline\": true\n    }\n  ],\n  \"image\": {\n    \"url\": \"https://i.imgur.com/ZZRp4pj.png\"\n  },\n  \"thumbnail\": {\n    \"url\": \"https://i.imgur.com/9i9lvOp.png\"\n  }\n}",
+    "embedConfigJson": "{\n  \"onlineString\": \"🟢 Online\",\n  \"onlineColor\": \"#0BA70B\",\n  \"partialString\": \"🟡 Partial\",\n  \"partialColor\": \"#FFF100\",\n  \"offlineString\": \"🔴 Offline\",\n  \"offlineColor\": \"#A70B28\",\n  \"buttons\": [\n    {\n      \"emoji\": \"1062338355909640233\",\n      \"label\": \"Connect\",\n      \"url\": \"{{serverJoinUrl}}\"\n    },\n    {\n      \"emoji\": \"1062339910654246964\",\n      \"label\": \"txAdmin Discord\",\n      \"url\": \"https://discord.gg/txAdmin\"\n    },\n    {\n      \"emoji\": \"😏\",\n      \"label\": \"ZAP-Hosting\",\n      \"url\": \"https://zap-hosting.com/txadmin6\"\n    }\n  ]\n}"
+  },
+  "fxRunner": {
+    "serverDataPath": "C:/JohnnyServer/server-data/",
+    "cfgPath": "C:/JohnnyServer/server-data/server.cfg",
+    "commandLine": "",
+    "onesync": "on",
+    "autostart": false,
+    "quiet": false
+  }
+}

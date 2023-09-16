@@ -1,0 +1,8 @@
+17:54:51 [Banned] [52] (se me vês diz olá) has been detected by weaponsProtection for Remove Weapon
+17:54:51 [Banned] [52] (se me vês diz olá) has been detected by weaponsProtection for Remove Weapon
+17:54:51 [Banned] [52] (se me vês diz olá) has been detected by weaponsProtection for Remove Weapon
+17:54:51 [Banned] [52] (se me vês diz olá) has been detected by weaponsProtection for Remove Weapon
+17:54:51 [Banned] [52] (se me vês diz olá) has been detected by weaponsProtection for Remove Weapon
+17:54:51 [Banned] [52] (se me vês diz olá) has been detected by weaponsProtection for Remove Weapon
+18:59:26 [Banned] [17] (Lowayy) has been detected by explosionProtection for Explosions [Blacklist]
+22:12:22 [Banned] [168] (kamarao) has been detected by eventsProtection for Trigger Limit Value Exceeded

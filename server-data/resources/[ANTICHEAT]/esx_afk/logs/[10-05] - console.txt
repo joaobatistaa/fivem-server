@@ -1,0 +1,890 @@
+02:22:59 [^4loginProtection^0] [^5INFO^0] ^3engole denovo^0 disconnected from the server...
+03:09:08 [^4loginProtection^0] [^5INFO^0] ^3engole denovo^0 disconnected from the server...
+03:20:41 [^4loginProtection^0] [^5INFO^0] ^3Ritler^0 disconnected from the server...
+03:26:59 [^4loginProtection^0] [^5INFO^0] ^3Macran Eristoff aka fiesta^0 disconnected from the server...
+03:55:23 [^4loginProtection^0] [^5INFO^0] ^3Lowayy^0 disconnected from the server...
+03:58:17 [^4loginProtection^0] [^5INFO^0] ^3TIMI^0 disconnected from the server...
+03:59:37 [^4loginProtection^0] [^5INFO^0] ^3engole denovo^0 disconnected from the server...
+04:51:43 [^4loginProtection^0] [^5INFO^0] ^3PƐrs0n4^0 disconnected from the server...
+04:59:35 [^4loginProtection^0] [^5INFO^0] ^3𝙯𝙯𝙕^0 disconnected from the server...
+05:06:25 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+05:06:25 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+05:06:25 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+05:06:25 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+05:06:25 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+05:30:05 [^4loginProtection^0] [^5INFO^0] ^3𝙯𝙯𝙕^0 disconnected from the server...
+06:13:19 [^4loginProtection^0] [^5INFO^0] ^3JoãoLitz^0 disconnected from the server...
+06:33:27 [^4loginProtection^0] [^5INFO^0] ^3TIMI^0 disconnected from the server...
+07:26:05 [^4loginProtection^0] [^5INFO^0] ^3SHU PASSEIOS^0 disconnected from the server...
+07:40:28 [^4loginProtection^0] [^5INFO^0] ^3Scream_Succesor^0 disconnected from the server...
+07:41:19 [^4loginProtection^0] [^5INFO^0] ^3SHU PASSEIOS^0 disconnected from the server...
+09:17:17 [^4loginProtection^0] [^5INFO^0] ^3BOT Ragnar^0 disconnected from the server...
+09:19:59 [^4loginProtection^0] [^5INFO^0] ^3BOT Ragnar^0 disconnected from the server...
+09:34:23 [^4loginProtection^0] [^5INFO^0] ^3Manny Maozinhas^0 disconnected from the server...
+09:38:23 [^4loginProtection^0] [^5INFO^0] ^323 FCKS|DAY^0 disconnected from the server...
+09:40:08 [^4loginProtection^0] [^5INFO^0] ^3𝙯𝙯𝙕^0 disconnected from the server...
+09:54:52 [^4loginProtection^0] [^5INFO^0] ^3★BeNtO★^0 disconnected from the server...
+10:07:15 [^4loginProtection^0] [^5INFO^0] ^3guga^0 disconnected from the server...
+10:34:44 [^4loginProtection^0] [^5INFO^0] ^3BOT Ragnar^0 disconnected from the server...
+10:39:10 [^4loginProtection^0] [^5INFO^0] ^3SHU PASSEIOS^0 disconnected from the server...
+10:45:35 [^4loginProtection^0] [^5INFO^0] ^3𝙯𝙯𝙕^0 disconnected from the server...
+10:46:19 [^4loginProtection^0] [^5INFO^0] ^3BOT Ragnar^0 disconnected from the server...
+10:48:26 [^4loginProtection^0] [^5INFO^0] ^3TIMI^0 disconnected from the server...
+10:55:03 [^4loginProtection^0] [^5INFO^0] ^3_StarLordXD_^0 disconnected from the server...
+11:02:01 [^4loginProtection^0] [^5INFO^0] ^3★BeNtO★^0 disconnected from the server...
+11:03:55 [^4loginProtection^0] [^5INFO^0] ^3Penalty©^0 disconnected from the server...
+11:06:49 [^4loginProtection^0] [^5INFO^0] ^3SHU PASSEIOS^0 disconnected from the server...
+11:10:05 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+11:10:07 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+11:10:15 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^28^0] (^2Lowayy^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:10:15 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:10:24 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^28^0] (^2Lowayy^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:10:24 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:10:55 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^215^0] (^2meninu di africa^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:10:55 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:11:39 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+11:11:40 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+11:11:40 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^220^0] (^2Sal Grosso^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:11:40 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:11:40 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^228^0] (^2𝙯𝙯𝙕^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:11:40 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:11:40 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^220^0] (^2Sal Grosso^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:11:40 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:11:40 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^227^0] (^2noDYN^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:11:40 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:11:40 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^215^0] (^2meninu di africa^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:11:40 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:11:40 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^215^0] (^2meninu di africa^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:11:40 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:11:41 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^227^0] (^2noDYN^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:11:41 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:11:47 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^28^0] (^2Lowayy^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:11:47 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:11:57 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^28^0] (^2Lowayy^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:11:57 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:12:16 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^228^0] (^2𝙯𝙯𝙕^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:12:16 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:12:41 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+11:12:42 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+11:12:42 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^220^0] (^2Sal Grosso^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:12:42 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:12:42 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^228^0] (^2𝙯𝙯𝙕^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:12:42 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:12:42 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^215^0] (^2meninu di africa^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:12:42 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:12:43 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^227^0] (^2noDYN^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:12:43 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:12:43 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^220^0] (^2Sal Grosso^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:12:43 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:12:43 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^228^0] (^2𝙯𝙯𝙕^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:12:43 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:12:43 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^215^0] (^2meninu di africa^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:12:43 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:12:43 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^227^0] (^2noDYN^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:12:43 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:12:51 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^28^0] (^2Lowayy^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:12:51 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:12:59 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^28^0] (^2Lowayy^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+11:12:59 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+11:14:42 [^4loginProtection^0] [^5INFO^0] ^3𝙯𝙯𝙕^0 disconnected from the server...
+11:48:58 [^4loginProtection^0] [^5INFO^0] ^3-OlivS -Taz^0 disconnected from the server...
+11:53:14 [^4loginProtection^0] [^5INFO^0] ^3Gonçalo^0 disconnected from the server...
+11:58:43 [^4loginProtection^0] [^5INFO^0] ^3	^0 disconnected from the server...
+11:59:14 [^4loginProtection^0] [^5INFO^0] ^3Jordan Kiribi^0 disconnected from the server...
+11:59:18 [^4loginProtection^0] [^5INFO^0] ^3Dr. Fadjoja™^0 disconnected from the server...
+11:59:29 [^4loginProtection^0] [^5INFO^0] ^3BOT Ragnar^0 disconnected from the server...
+11:59:41 [^4loginProtection^0] [^5INFO^0] ^3Lowayy^0 disconnected from the server...
+11:59:43 [^4loginProtection^0] [^5INFO^0] ^3noDYN^0 disconnected from the server...
+11:59:45 [^4loginProtection^0] [^5INFO^0] ^3vortex2k3^0 disconnected from the server...
+12:00:03 [^4loginProtection^0] [^5INFO^0] ^3Sal Grosso^0 disconnected from the server...
+12:00:13 [^4loginProtection^0] [^5INFO^0] ^3meninu di africa^0 disconnected from the server...
+12:00:39 [^4loginProtection^0] [^5INFO^0] ^3Ritler^0 disconnected from the server...
+12:01:18 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+12:01:18 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+12:01:18 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+12:01:18 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+12:01:18 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+12:08:21 [^4loginProtection^0] [^5INFO^0] ^3Pika^0 disconnected from the server...
+12:19:26 [^4loginProtection^0] [^5INFO^0] ^3	^0 disconnected from the server...
+12:23:54 [^4loginProtection^0] [^5INFO^0] ^3𝙯𝙯𝙕^0 disconnected from the server...
+12:28:29 [^4loginProtection^0] [^5INFO^0] ^3Xapamassa.nUmuro^0 disconnected from the server...
+12:43:18 [^4loginProtection^0] [^5INFO^0] ^3Dr. Fadjoja™^0 disconnected from the server...
+12:48:22 [^4loginProtection^0] [^5INFO^0] ^3He,blow.me»»»»^0 disconnected from the server...
+12:50:02 [^4loginProtection^0] [^5INFO^0] ^3BOT Ragnar^0 disconnected from the server...
+12:54:05 [^4loginProtection^0] [^5INFO^0] ^3BOT Ragnar^0 disconnected from the server...
+12:54:54 [^4loginProtection^0] [^5INFO^0] ^3Scream_Succesor^0 disconnected from the server...
+12:58:14 [^4loginProtection^0] [^5INFO^0] ^3Deide Costa^0 disconnected from the server...
+13:01:39 [^4loginProtection^0] [^5INFO^0] ^3Ritler^0 disconnected from the server...
+13:17:14 [^4loginProtection^0] [^5INFO^0] ^3Gonçalo^0 disconnected from the server...
+13:24:52 [^4loginProtection^0] [^5INFO^0] ^3vortex2k3^0 disconnected from the server...
+13:25:08 [^4loginProtection^0] [^5INFO^0] ^3Anda cá^0 disconnected from the server...
+13:28:40 [^4loginProtection^0] [^5INFO^0] ^3,DANIOUSSS^0 disconnected from the server...
+13:30:52 [^4loginProtection^0] [^5INFO^0] ^3Lowayy^0 disconnected from the server...
+13:34:42 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+13:34:47 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+13:34:47 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+13:34:47 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+13:34:47 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+13:34:47 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+13:35:29 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+13:35:30 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+13:35:30 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+13:35:30 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+13:35:30 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+13:35:30 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+13:35:30 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+13:35:32 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+13:35:32 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+13:35:32 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+13:35:32 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+13:35:32 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+13:40:12 [^4loginProtection^0] [^5INFO^0] ^3Ritler^0 disconnected from the server...
+13:41:03 [^4loginProtection^0] [^5INFO^0] ^3Pika^0 disconnected from the server...
+13:44:55 [^4loginProtection^0] [^5INFO^0] ^3Gonçalo^0 disconnected from the server...
+13:51:52 [^4loginProtection^0] [^5INFO^0] ^3guga^0 disconnected from the server...
+13:52:39 [^4loginProtection^0] [^5INFO^0] ^3noDYN^0 disconnected from the server...
+13:52:45 [^4loginProtection^0] [^5INFO^0] ^3Sal Grosso^0 disconnected from the server...
+13:54:54 [^4loginProtection^0] [^5INFO^0] ^3guga^0 disconnected from the server...
+14:04:27 [^4loginProtection^0] [^5INFO^0] ^3★BeNtO★^0 disconnected from the server...
+14:05:38 [^4loginProtection^0] [^5INFO^0] ^3BOT Ragnar^0 disconnected from the server...
+14:06:40 [^4loginProtection^0] [^5INFO^0] ^3RDG^0 disconnected from the server...
+14:07:44 [^4loginProtection^0] [^5INFO^0] ^3Slayer.yt^0 disconnected from the server...
+14:10:54 [^4loginProtection^0] [^5INFO^0] ^3Dr. Fadjoja™^0 disconnected from the server...
+14:12:25 [^4loginProtection^0] [^5INFO^0] ^3Piriquito^0 disconnected from the server...
+14:32:24 [^4loginProtection^0] [^5INFO^0] ^3BOT Ragnar^0 disconnected from the server...
+14:35:02 [^4loginProtection^0] [^5INFO^0] ^3guga^0 disconnected from the server...
+14:35:17 [^4loginProtection^0] [^5INFO^0] ^3Piriquito^0 disconnected from the server...
+14:40:43 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+14:40:54 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+14:41:17 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^246^0] (^2Jacao^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:41:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:41:18 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^232^0] (^2uDiablo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:41:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:41:18 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^232^0] (^2uDiablo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:41:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:41:20 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^242^0] (^2TIMI^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:41:20 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:41:20 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^242^0] (^2TIMI^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:41:20 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:41:28 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^238^0] (^2Xano^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:41:28 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:41:37 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^243^0] (^2RDG^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:41:37 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:41:37 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^243^0] (^2RDG^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:41:37 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:41:44 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:41:44 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:41:44 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:41:44 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:41:46 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^222^0] (^2engole denovo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:41:46 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:41:49 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:41:49 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:41:55 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:41:55 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:41:55 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:41:55 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:41:59 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:41:59 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:41:59 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:41:59 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:45:27 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+14:45:32 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+14:45:33 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^238^0] (^2Xano^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:45:33 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:02 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^246^0] (^2Jacao^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:02 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:02 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^246^0] (^2Jacao^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:02 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:04 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^232^0] (^2uDiablo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:04 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:05 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^232^0] (^2uDiablo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:05 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:06 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^244^0] (^2PƐrs0n4^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:06 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:09 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^242^0] (^2TIMI^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:09 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:09 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:09 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:12 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^229^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:12 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:14 [^4loginProtection^0] [^5INFO^0] ^3Jacao^0 disconnected from the server...
+14:46:19 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^248^0] (^2Jordan Kiribi^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:19 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:19 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^248^0] (^2Jordan Kiribi^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:19 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:20 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^243^0] (^2RDG^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:20 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:20 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^243^0] (^2RDG^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:20 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:23 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^250^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:23 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:24 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:24 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:25 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:25 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:29 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^222^0] (^2engole denovo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:29 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:42 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:42 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:43 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:43 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:48 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:48 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:48 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:48 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:46:53 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:46:53 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:51:45 [^4loginProtection^0] [^5INFO^0] ^3RDG^0 disconnected from the server...
+14:53:26 [^4loginProtection^0] [^5INFO^0] ^3^9Tendeiro^0 disconnected from the server...
+14:56:23 [^4loginProtection^0] [^5INFO^0] ^3Manny Maozinhas^0 disconnected from the server...
+14:57:40 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+14:57:51 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+14:57:53 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^238^0] (^2Xano^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:57:53 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:04 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+14:58:10 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+14:58:10 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^238^0] (^2Xano^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:10 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:11 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^242^0] (^2TIMI^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:11 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:12 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^253^0] (^2BOT Ragnar^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:12 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:12 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^253^0] (^2BOT Ragnar^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:12 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:16 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^244^0] (^2PƐrs0n4^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:16 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:16 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^244^0] (^2PƐrs0n4^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:16 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:17 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^232^0] (^2uDiablo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:18 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^229^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:18 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^242^0] (^2TIMI^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:21 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^244^0] (^2PƐrs0n4^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:21 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:23 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^232^0] (^2uDiablo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:23 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:24 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^229^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:24 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:24 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^229^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:24 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:27 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^238^0] (^2Xano^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:27 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:27 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^222^0] (^2engole denovo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:27 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:27 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^222^0] (^2engole denovo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:27 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:29 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^253^0] (^2BOT Ragnar^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:29 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:30 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^253^0] (^2BOT Ragnar^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:30 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:32 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:32 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:33 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:33 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:33 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^238^0] (^2Xano^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:33 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:33 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^222^0] (^2engole denovo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:33 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:33 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^222^0] (^2engole denovo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:33 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:36 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^244^0] (^2PƐrs0n4^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:36 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:39 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:39 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:39 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:39 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:39 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^242^0] (^2TIMI^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:39 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:41 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^229^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:41 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:41 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^229^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:41 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:41 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^232^0] (^2uDiablo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:41 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:49 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:49 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:49 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^248^0] (^2Jordan Kiribi^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:49 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:52 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:52 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:53 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^250^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:53 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:53 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^250^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:53 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:54 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^248^0] (^2Jordan Kiribi^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:54 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:54 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^248^0] (^2Jordan Kiribi^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:54 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:55 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:55 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:55 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:55 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:56 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:56 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:58 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^222^0] (^2engole denovo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:58 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:58 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^222^0] (^2engole denovo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:58 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:59 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:59 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:59 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:59 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:59 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:58:59 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:58:59 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:59:00 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:59:00 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^250^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:59:00 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:59:06 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:59:06 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:59:09 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^248^0] (^2Jordan Kiribi^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:59:09 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:59:09 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^248^0] (^2Jordan Kiribi^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:59:09 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:59:10 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:59:10 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:59:16 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:59:16 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:59:16 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:59:16 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:59:16 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^250^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:59:16 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:59:17 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^250^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:59:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:59:19 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:59:19 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:59:23 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:59:23 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:59:23 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:59:23 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+14:59:32 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+14:59:32 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:02:43 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+15:03:34 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+15:03:34 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^248^0] (^2Jordan Kiribi^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:03:34 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:03:35 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^248^0] (^2Jordan Kiribi^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:03:35 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:03:40 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^250^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:03:40 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:03:40 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^250^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:03:40 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:03:44 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:03:44 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:03:44 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:03:44 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:03:45 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^253^0] (^2BOT Ragnar^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:03:45 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:03:49 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:03:49 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:03:50 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:03:50 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:03:50 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^255^0] (^2Twenty_Eigth_28^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:03:50 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:03:50 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^255^0] (^2Twenty_Eigth_28^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:03:50 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:03:51 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:03:51 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:03:51 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+15:04:28 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+15:04:29 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^254^0] (^2Patas^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:29 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:31 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:31 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:31 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:31 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:33 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:33 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:34 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:34 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:35 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^229^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:35 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:35 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:35 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:35 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^229^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:35 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:38 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^248^0] (^2Jordan Kiribi^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:38 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:38 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^248^0] (^2Jordan Kiribi^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:38 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:39 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^238^0] (^2Xano^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:39 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:40 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^256^0] (^2Slayer.yt^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:40 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:40 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^222^0] (^2engole denovo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:40 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:40 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^256^0] (^2Slayer.yt^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:40 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:41 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^253^0] (^2BOT Ragnar^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:41 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:47 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^255^0] (^2Twenty_Eigth_28^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:47 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:47 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:47 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:47 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:47 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:50 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:50 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:50 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^244^0] (^2PƐrs0n4^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:50 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:50 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:50 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:53 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^242^0] (^2TIMI^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:53 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:54 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^250^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:54 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:55 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^232^0] (^2uDiablo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:55 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:55 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^232^0] (^2uDiablo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:55 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:57 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:57 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:57 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:57 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:58 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^254^0] (^2Patas^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:58 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:59 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:59 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:04:59 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:04:59 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:01 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:05:01 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:03 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^229^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:05:03 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:03 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^229^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:05:03 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:07 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^238^0] (^2Xano^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:05:07 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:07 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:05:07 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:08 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:05:08 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:08 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^248^0] (^2Jordan Kiribi^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:05:08 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:08 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^248^0] (^2Jordan Kiribi^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:05:08 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:09 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^222^0] (^2engole denovo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:05:09 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:10 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^222^0] (^2engole denovo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:05:10 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:20 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:05:20 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:20 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:05:20 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:22 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^250^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:05:22 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:22 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^250^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:05:22 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:25 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:05:25 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:26 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:05:26 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:26 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:05:26 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:31 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^222^0] (^2engole denovo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:05:31 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:31 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:05:31 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:31 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^222^0] (^2engole denovo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:05:31 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:05:53 [^4loginProtection^0] [^5INFO^0] ^3uDiablo^0 disconnected from the server...
+15:07:29 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+15:07:34 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+15:07:35 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^238^0] (^2Xano^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:07:35 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:07:49 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^253^0] (^2BOT Ragnar^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:07:49 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:07:56 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^244^0] (^2PƐrs0n4^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:07:56 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:02 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^242^0] (^2TIMI^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:02 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:02 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^242^0] (^2TIMI^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:02 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:03 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^259^0] (^2uDiablo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:03 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:03 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^259^0] (^2uDiablo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:03 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:05 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^254^0] (^2Patas^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:05 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:06 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^254^0] (^2Patas^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:06 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:06 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:06 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:06 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:06 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:07 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^256^0] (^2Slayer.yt^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:07 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:09 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^258^0] (^2FaiXaPretA100^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:09 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:10 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^258^0] (^2FaiXaPretA100^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:10 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:11 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^229^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:11 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:15 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^257^0] (^2Romão^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:15 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:16 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^238^0] (^2Xano^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:16 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:32 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^250^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:32 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:32 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^250^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:32 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:33 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:33 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:34 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:34 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:34 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:34 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:35 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:35 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:36 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^222^0] (^2engole denovo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:36 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:36 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:36 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:37 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^222^0] (^2engole denovo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:37 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:37 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:37 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:39 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:39 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:40 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:08:40 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:08:49 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+15:08:58 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+15:09:04 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:04 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:10 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^253^0] (^2BOT Ragnar^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:10 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:14 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^255^0] (^2Twenty_Eigth_28^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:14 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:15 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^260^0] (^2MIX^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:15 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:15 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^260^0] (^2MIX^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:15 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:21 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^242^0] (^2TIMI^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:21 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:22 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^242^0] (^2TIMI^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:22 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:24 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^259^0] (^2uDiablo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:24 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:27 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^244^0] (^2PƐrs0n4^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:27 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:27 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^254^0] (^2Patas^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:27 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:27 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^244^0] (^2PƐrs0n4^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:27 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:27 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^256^0] (^2Slayer.yt^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:27 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:28 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^254^0] (^2Patas^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:28 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:28 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^258^0] (^2FaiXaPretA100^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:28 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:34 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^229^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:34 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:37 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^248^0] (^2Jordan Kiribi^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:37 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:37 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^248^0] (^2Jordan Kiribi^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:37 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:37 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^257^0] (^2Romão^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:37 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:50 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:50 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:52 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^250^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:52 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:53 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^250^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:53 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:09:58 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:09:58 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:10:01 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:10:01 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:10:02 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:10:02 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:10:02 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:10:02 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:10:08 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:10:08 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:10:08 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:10:08 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:10:37 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+15:10:41 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+15:10:43 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^238^0] (^2Xano^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:10:43 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:10:57 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^253^0] (^2BOT Ragnar^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:10:57 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:11:04 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^255^0] (^2Twenty_Eigth_28^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:11:04 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:11:05 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^260^0] (^2MIX^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:11:05 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:11:06 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^260^0] (^2MIX^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:11:06 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:11:12 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^242^0] (^2TIMI^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:11:12 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:11:12 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^259^0] (^2uDiablo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:11:12 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:11:13 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^242^0] (^2TIMI^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:11:13 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:11:14 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^244^0] (^2PƐrs0n4^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:11:14 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:11:16 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^256^0] (^2Slayer.yt^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:11:16 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:11:17 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^254^0] (^2Patas^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:11:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:11:17 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^254^0] (^2Patas^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:11:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:11:17 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^258^0] (^2FaiXaPretA100^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:11:17 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:11:18 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^258^0] (^2FaiXaPretA100^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:11:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:11:19 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^229^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:11:19 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:11:20 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^229^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:11:20 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:11:20 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+15:11:35 [^4WARNING^0] [^3WARN^0] ChocoHax is disabled, please ^2restart^0 or use `^3lynx enable^0` to enable it back.
+15:11:58 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+15:11:59 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^258^0] (^2FaiXaPretA100^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:11:59 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:00 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^258^0] (^2FaiXaPretA100^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:00 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:00 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^254^0] (^2Patas^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:00 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:01 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^229^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:01 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:01 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^229^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:01 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:02 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^244^0] (^2PƐrs0n4^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:02 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:02 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^256^0] (^2Slayer.yt^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:02 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:02 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^244^0] (^2PƐrs0n4^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:02 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:03 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^256^0] (^2Slayer.yt^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:03 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:04 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^257^0] (^2Romão^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:04 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:04 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^253^0] (^2BOT Ragnar^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:04 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:05 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:05 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:06 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:06 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:07 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:07 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:10 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^261^0] (^2☯SlimShady☯^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:10 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:13 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^255^0] (^2Twenty_Eigth_28^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:13 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:14 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^260^0] (^2MIX^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:14 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:18 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^222^0] (^2engole denovo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:18 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:20 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^242^0] (^2TIMI^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:20 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:20 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^242^0] (^2TIMI^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:20 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:21 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^259^0] (^2uDiablo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:21 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:22 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^259^0] (^2uDiablo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:22 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:22 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^244^0] (^2PƐrs0n4^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:22 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:22 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^244^0] (^2PƐrs0n4^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:22 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:22 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^258^0] (^2FaiXaPretA100^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:22 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:24 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^254^0] (^2Patas^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:24 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:26 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^229^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:26 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:26 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^250^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:26 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:26 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^256^0] (^2Slayer.yt^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:26 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:26 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^250^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:26 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:29 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^257^0] (^2Romão^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:29 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:29 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^257^0] (^2Romão^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:29 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:32 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^238^0] (^2Xano^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:32 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:32 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:32 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:32 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:32 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:33 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:33 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:33 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:33 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:34 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:34 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:35 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^261^0] (^2☯SlimShady☯^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:35 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:35 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^261^0] (^2☯SlimShady☯^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:35 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:35 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:35 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:39 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^248^0] (^2Jordan Kiribi^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:39 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:39 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^248^0] (^2Jordan Kiribi^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:39 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:48 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^222^0] (^2engole denovo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:48 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:49 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^250^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:49 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:49 [^4ERROR^0] [^1ERR^0] ChocoHax has been disabled due to a resource restart, to enable it back please restart this resource.
+15:12:57 [^4Commands^0] [^2SUCCESS^0] ChocoHax is now [^3^2Enabled^0]
+15:12:58 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:58 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:59 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:59 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:12:59 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:12:59 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:01 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:01 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:06 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:06 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:07 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:07 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:10 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^253^0] (^2BOT Ragnar^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:10 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:13 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:13 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:13 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^240^0] (^2★BeNtO★^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:13 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:14 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^261^0] (^2☯SlimShady☯^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:14 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:19 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^260^0] (^2MIX^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:19 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:20 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:20 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:20 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:20 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:22 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^255^0] (^2Twenty_Eigth_28^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:22 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:23 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^242^0] (^2TIMI^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:23 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:27 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^244^0] (^2PƐrs0n4^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:27 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:29 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^254^0] (^2Patas^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:29 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:29 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^254^0] (^2Patas^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:29 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:29 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:29 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:29 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^259^0] (^2uDiablo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:29 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:30 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:30 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:30 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^259^0] (^2uDiablo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:30 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:30 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^258^0] (^2FaiXaPretA100^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:30 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:31 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^258^0] (^2FaiXaPretA100^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:31 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:32 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^256^0] (^2Slayer.yt^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:32 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:33 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^229^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:33 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:33 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^229^0] (^2James Robinson #MP9FORLIFE^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:33 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:34 [^4loginProtection^0] [^5INFO^0] ^3-OlivS -Taz^0 disconnected from the server...
+15:13:35 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^257^0] (^2Romão^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:35 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:35 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^257^0] (^2Romão^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:35 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:37 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^238^0] (^2Xano^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:37 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:46 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^248^0] (^2Jordan Kiribi^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:46 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:46 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^248^0] (^2Jordan Kiribi^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:46 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:55 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:55 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:13:56 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^249^0] (^2Pipoca^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:13:56 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:14:00 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^247^0] (^2guga^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:14:00 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:14:03 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:14:03 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:14:03 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^222^0] (^2engole denovo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:14:03 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:14:03 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^239^0] (^2SHU PASSEIOS^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:14:03 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:14:03 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^222^0] (^2engole denovo^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:14:03 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:14:15 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^250^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:14:15 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:14:15 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^250^0] (^2JoãoLitz^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:14:15 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:14:32 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^221^0] (^2Raimundo 51^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:14:32 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:15:07 [^4ChocoLog^0] [^5INFO^0] [^1Warning^0] [^261^0] (^2☯SlimShady☯^0) has been detected by ^2clientProtection^0 for ^3Anti Resource Restart^0
+15:15:07 [^4ChocoLog^0] [^3WARN^0] Failed to send discord webhook, webhooks are not configured, please check the config file or disable Discord logs to remove this message
+15:15:20 [^4loginProtection^0] [^5INFO^0] ^3Xano^0 disconnected from the server...
+15:17:16 [^4loginProtection^0] [^5INFO^0] ^3uDiablo^0 disconnected from the server...
+15:19:08 [^4loginProtection^0] [^5INFO^0] ^3JoãoLitz^0 disconnected from the server...
+15:23:16 [^4loginProtection^0] [^5INFO^0] ^3TIMI^0 disconnected from the server...
+15:24:50 [^4loginProtection^0] [^5INFO^0] ^3SHU PASSEIOS^0 disconnected from the server...
+15:25:35 [^4loginProtection^0] [^5INFO^0] ^3BOT Ragnar^0 disconnected from the server...
+15:26:57 [^4loginProtection^0] [^5INFO^0] ^3uDiablo^0 disconnected from the server...
+15:30:38 [^4loginProtection^0] [^5INFO^0] ^3PƐrs0n4^0 disconnected from the server...
+15:31:10 [^4loginProtection^0] [^5INFO^0] ^3Twenty_Eigth_28^0 disconnected from the server...
+15:33:54 [^4loginProtection^0] [^5INFO^0] ^3engole denovo^0 disconnected from the server...
+15:34:59 [^4loginProtection^0] [^5INFO^0] ^3Jotaa^0 disconnected from the server...
+15:35:38 [^4loginProtection^0] [^5INFO^0] ^3adymonteiro^0 disconnected from the server...
+15:40:03 [^4loginProtection^0] [^5INFO^0] ^3Slayer.yt^0 disconnected from the server...
+15:48:36 [^4loginProtection^0] [^5INFO^0] ^3MIX^0 disconnected from the server...
+15:50:20 [^4loginProtection^0] [^5INFO^0] ^3James Robinson #MP9FORLIFE^0 disconnected from the server...
+16:01:43 [^4loginProtection^0] [^5INFO^0] ^3Raul Alcino Neves Dos Santos^0 disconnected from the server...
+16:01:43 [^4loginProtection^0] [^5INFO^0] ^3JoãoLitz^0 disconnected from the server...
+16:11:10 [^4loginProtection^0] [^5INFO^0] ^3Romão^0 disconnected from the server...
+16:12:26 [^4loginProtection^0] [^5INFO^0] ^3Raimundo 51^0 disconnected from the server...
+16:12:31 [^4loginProtection^0] [^5INFO^0] ^3James Robinson #MP9FORLIFE^0 disconnected from the server...
+16:17:17 [^4loginProtection^0] [^5INFO^0] ^3Pipoca^0 disconnected from the server...
+16:22:58 [^4loginProtection^0] [^5INFO^0] ^3Patas^0 disconnected from the server...
+16:24:18 [^4loginProtection^0] [^5INFO^0] ^3★BeNtO★^0 disconnected from the server...
+16:28:37 [^4loginProtection^0] [^5INFO^0] ^3☯SlimShady☯^0 disconnected from the server...
+16:29:56 [^4loginProtection^0] [^5INFO^0] ^3[YouMadBro]^0 disconnected from the server...
+16:31:30 [^4loginProtection^0] [^5INFO^0] ^3FaiXaPretA100^0 disconnected from the server...
+16:42:16 [^4loginProtection^0] [^5INFO^0] ^3Patas^0 disconnected from the server...
+16:42:35 [^4loginProtection^0] [^5INFO^0] ^3guga^0 disconnected from the server...
+16:50:45 [^4loginProtection^0] [^5INFO^0] ^3BOT Ragnar^0 disconnected from the server...
+16:53:43 [^4loginProtection^0] [^5INFO^0] ^3martim^0 disconnected from the server...
+16:53:49 [^4loginProtection^0] [^5INFO^0] ^3Jordan Kiribi^0 disconnected from the server...
+16:54:02 [^4loginProtection^0] [^5INFO^0] ^3adymonteiro^0 disconnected from the server...
+16:59:13 [^4loginProtection^0] [^5INFO^0] ^3TIMI^0 disconnected from the server...
+16:59:56 [^4loginProtection^0] [^5INFO^0] ^3SHU PASSEIOS^0 disconnected from the server...
+17:03:35 [^4loginProtection^0] [^5INFO^0] ^3JoãoLitz^0 disconnected from the server...
+17:17:35 [^4loginProtection^0] [^5INFO^0] ^3Stalon_1994^0 disconnected from the server...
+17:29:36 [^4loginProtection^0] [^5INFO^0] ^3He,blow.me»»»»^0 disconnected from the server...
+17:46:59 [^4loginProtection^0] [^5INFO^0] ^3BOT Ragnar^0 disconnected from the server...
+17:47:11 [^4loginProtection^0] [^5INFO^0] ^3Macran Eristoff aka fiesta^0 disconnected from the server...
+17:47:16 [^4loginProtection^0] [^5INFO^0] ^3Moleiro^0 disconnected from the server...
+17:53:51 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+17:53:51 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+17:53:51 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+17:53:51 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+17:53:51 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+18:07:07 [^4loginProtection^0] [^5INFO^0] ^3Padre Mario^0 disconnected from the server...
+18:16:44 [^4loginProtection^0] [^5INFO^0] ^3Padre Mario^0 disconnected from the server...
+18:20:27 [^4loginProtection^0] [^5INFO^0] ^3Moleiro^0 disconnected from the server...
+18:23:03 [^4loginProtection^0] [^5INFO^0] ^3Padre Mario^0 disconnected from the server...
+18:55:51 [^4loginProtection^0] [^5INFO^0] ^3BOT Ragnar^0 disconnected from the server...
+19:01:22 [^4Auth^0] [^5INFO^0] Connected to ChocoHax... Welcome ^3jjesus_25^0
+19:01:22 [^4Auth^0] [^5INFO^0] You're currently connected to ^3Lynx Collective (Google LLC #4)^0
+19:01:23 [^4Auth^0] [^5INFO^0] Your current server IP: ^351.91.215.9^0
+19:01:23 [^4Auth^0] [^5INFO^0] Latest News - ^3ChocoHax 1.8.2 R2 has been released, check it out https://forum.lynxcollective.ltd/threads/chocohax-1-8-2.331/
+(Updating from 1.8.x is fast and easy, just replace the files)^0
+19:01:23 [^4Auth^0] [^5INFO^0] There is a new update for ChocoHax => ^31.8.2r2^0
+20:08:40 [^4loginProtection^0] [^5INFO^0] ^3BOT Ragnar^0 disconnected from the server...
+20:44:29 [^4loginProtection^0] [^5INFO^0] ^3BOT Ragnar^0 disconnected from the server...
+20:45:39 [^4loginProtection^0] [^5INFO^0] ^3BOT Ragnar^0 disconnected from the server...
